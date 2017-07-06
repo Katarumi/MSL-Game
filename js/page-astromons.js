@@ -50,7 +50,7 @@ function loadastromons() {
 			}
 
 
-			$("ul.mons").append("<li class='row' id='"+i+"' data-link='"+encodeURIComponent(name).toLowerCase().replace("'","%27")+"' data-name='"+encodeURIComponent(name).replace("'","%27")+"'><span class='name col-xs-3'>"+name+"</span> <span class='element col-xs-2'>"+elementtext+"</span> <span class='grade col-xs-2'>"+gradetext+"</span> <span class='classes col-xs-2'>"+curmon.normal+"</span><span class='classes col-xs-3'>"+curmon.active+"</span> </li>");
+			$("ul.mons").append("<li class='row' id='"+i+"' data-link='"+encodeURIComponent(name).toLowerCase().replace("'","%27")+"' data-name='"+encodeURIComponent(name).replace("'","%27")+"'><span class='name col-xs-3'>"+name+"</span> <span class='element col-xs-2'>"+elementtext+"</span> <span class='grade col-xs-2'>"+gradetext+"</span> <span class='normal col-xs-2'>"+curmon.normal+"</span><span class='active col-xs-3'>"+curmon.active+"</span> </li>");
 
 			if (!$("select.gradefilter:contains('"+parsemongrade(curmon.grade)+"')").length) {
 				$("select.gradefilter").append("<option value='"+curmon.grade+"'>"+parsemongrade(curmon.grade)+"</option>");
@@ -80,15 +80,15 @@ function loadastromons() {
 		$("select.gradefilter").val("All");
 
 		$("select.elementfilter option").sort(asc_sort).appendTo('select.elementfilter');
-		$("select.elementfilter option[value=1]").before($("select.elementfilter option[value=All]"))
+		$("select.elementfilter option[value=Dark]").before($("select.elementfilter option[value=All]"))
 		$("select.elementfilter").val("All");
 
 		$("select.normalfilter option").sort(asc_sort).appendTo('select.normalfilter');
-		$("select.normalfilter option[value=1]").before($("select.normalfilter option[value=All]"))
+		$("select.normalfilter option[value=Adrenaline]").before($("select.normalfilter option[value=All]"))
 		$("select.normalfilter").val("All");
 
 		$("select.activefilter option").sort(asc_sort).appendTo('select.activefilter');
-		$("select.activefilter option[value=1]").before($("select.activefilter option[value=All]"))
+		$("select.activefilter option[value=Adrenaline]").before($("select.activefilter option[value=All]"))
 		$("select.activefilter").val("All");
 
 		$("select.variantfilter option").sort(asc_sort).appendTo('select.variantfilter');
@@ -175,9 +175,21 @@ function sortmons(a, b, o) {
 		return ((b._values.element.toLowerCase()) > (a._values.element.toLowerCase())) ? 1 : -1;
 	}
 
+	if (o.valueName === "variant") {
+		return ((b._values.variant.toLowerCase()) > (a._values.variant.toLowerCase())) ? 1 : -1;
+	}
+
+	if (o.valueName === "normal") {
+		return ((b._values.normal.toLowerCase()) > (a._values.normal.toLowerCase())) ? 1 : -1;
+	}
+
+	if (o.valueName === "active") {
+		return ((b._values.active.toLowerCase()) > (a._values.active.toLowerCase())) ? 1 : -1;
+	}
+
 
 	if (o.valueName === "grade") {
-		return (parseInt(bgrade) > parseInt(agrade)) ? 1 : -1;
+		return (parseInt(b._values.grade) > parseInt(a._values.grade)) ? 1 : -1;
 	}
 
 	return 1;
@@ -190,44 +202,13 @@ function usemon (id) {
 			var curmon = monlist[id];
 
 			$("th#name").html("<span title=\""+parseelement(curmon.element)+"\" class='element "+parseelement(curmon.element)+"'>"+parseelement(curmon.element)+"</span> "+curmon.name);
-
-			// $("th#name").html(curmon.name);
-
-			/*
-			if (curmon.grade[0] !== "P") {
-				$("td span#element").html(parseelement(curmon.element));
-				if (curmon.grade === "0") {
-					$("td span#element").css('textTransform', 'capitalize');
-					$("td span#grade").css('textTransform', 'lowercase!important');
-					$("td span#grade").html(" cantrip").detach().appendTo("td span#element");
-				} else {
-					$("td span#element").css('textTransform', 'lowercase');
-					$("td span#grade").html(parsemongrade (curmon.grade)+"-grade");
-				}
-
-				if (curmon.ritual === "YES") {
-					$("td span#ritual").show();
-				} else $("td span#ritual").hide();
-
-				$("td#components span").html(curmon.components);
-				$("td#range span").html(curmon.range);
-				$("td#castingtime span").html(curmon.time);
-				$("td#duration span").html(curmon.duration);
-			} else {
-				var psitype = "";
-				if (curmon.grade[1] === "D") {
-					psitype = curmon.classes.split(/Mystic \(/g)[1].split(")")[0];
-					psitype += " Discipline";
-				} else if (curmon.grade[1] === "T") {
-					psitype = "Psionic Talent";
-				}
-				$("td#gradeelementritual").html(psitype);
-				$("td#castingtime").html("");
-				$("td#range").html("");
-				$("td#components").html("");
-				$("td#duration").html("");
-			}
-			*/
+			$("td#variant span").html(parsevariant(curmon.variant));
+			$("td#normal span").html(curmon.normal);
+			$("td#active span").html(curmon.active);
+			$("td#hp span").html(curmon.hp);
+			$("td#atk span").html(curmon.atk);
+			$("td#def span").html(curmon.def);
+			$("td#rec span").html(curmon.rec);
 
 			$("tr.text").remove();
 			/*
