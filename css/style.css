@@ -452,12 +452,6 @@ input[type=number]#hd::-webkit-outer-spin-button {
 	text-align: center;
 }
 
-
-td#hp, td#prof, td#equipment {
-	font-size: 0.8em;
-  padding: 0.7em;
-}
-
 td#hp h5, td#prof h5, td#equipment h5 {
 	/*color: #922610;*/
 	font-family: serif;
