@@ -203,8 +203,11 @@ function usemon (id) {
 
 			$("th#name").html("<span title=\""+parseelement(curmon.element)+"\" class='element "+parseelement(curmon.element)+"'>"+parseelement(curmon.element)+"</span> "+curmon.name);
 			$("td#variant span").html(parsevariant(curmon.variant));
+			$("td#varianttext span").html(curmon.varianttext);
 			$("td#normal span").html(curmon.normal);
+			$("td#normaltext span").html(curmon.normaltext);
 			$("td#active span").html(curmon.active);
+			$("td#activetext span").html(curmon.activetext);
 			$("td#hp span").html(curmon.hp);
 			$("td#atk span").html(curmon.atk);
 			$("td#def span").html(curmon.def);

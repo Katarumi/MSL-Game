@@ -178,6 +178,7 @@ table#stats, table#statsprof {
 }
 
 table#stats td, table#stats th {
+	vertical-align: top;
 	padding: 1px 0.3em;
 }
 
@@ -218,9 +219,7 @@ tr.text td {
 	color: black!important;
 }
 
-td#levelschoolritual {
-	font-style: italic;
-}
+
 table#stats #castingtime, table#stats #range, table#stats #components, table#stats #duration, table#stats #classes {
 	font-weight: bold;
 }
