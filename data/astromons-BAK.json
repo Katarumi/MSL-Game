@@ -11,7 +11,11 @@ var mondata = {
    "hp": 38684,
    "atk": 2112,
    "def": 2439,
-   "rec": 1772
+   "rec": 1772,
+   "varianttext": "Increases allies' critical hit rate by 15-20%.",
+   "normaltext": "Grants a 60% chance to stun the enemy for 1 turn(s).",
+   "activetext": "Grants a 60% chance to inflict the enemy with sap damage for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -23,7 +27,11 @@ var mondata = {
    "hp": 22739,
    "atk": 3296,
    "def": 2111,
-   "rec": 1920
+   "rec": 1920,
+   "varianttext": "Increases allies' critical hit rate by 15-20%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s).",
+   "activetext": "Increases damage dealt by 40%.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -35,7 +43,11 @@ var mondata = {
    "hp": 23494,
    "atk": 3092,
    "def": 2322,
-   "rec": 1948
+   "rec": 1948,
+   "varianttext": "Increases allies' critical hit rate by 15-20%.",
+   "normaltext": "Increases critical hit damage by 50%.",
+   "activetext": "Increases critical hit damage by 50%.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -47,7 +59,11 @@ var mondata = {
    "hp": 39604,
    "atk": 2351,
    "def": 1772,
-   "rec": 1915
+   "rec": 1915,
+   "varianttext": "Increases allies' critical hit rate by 15-20%.",
+   "normaltext": "Grants a 100% chance to reduce the enemy's defense for 2 turn(s).",
+   "activetext": "Grants a 60% chance to reduce the target's skill gauge by 30% for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -59,7 +75,11 @@ var mondata = {
    "hp": 29617,
    "atk": 2288,
    "def": 3296,
-   "rec": 1709
+   "rec": 1709,
+   "varianttext": "Increases allies' critical hit rate by 15-20%.",
+   "normaltext": "Grants a 60% chance to inflict the target with two types of sap damage for 1 turns.",
+   "activetext": "Attack power becomes proportional to own max defense.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -71,7 +91,11 @@ var mondata = {
    "hp": 29412,
    "atk": 1321,
    "def": 2642,
-   "rec": 1628
+   "rec": 1628,
+   "varianttext": "Increase allies' resistance by 10~15% ",
+   "normaltext": "Grants a 20% chance to taunt the enemy and draw its attention for 1 turn. ",
+   "activetext": "Grants a 60% chance to reduce the enemy's attack power for 2 turn. ",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -83,7 +107,11 @@ var mondata = {
    "hp": 28439,
    "atk": 1668,
    "def": 2486,
-   "rec": 1192
+   "rec": 1192,
+   "varianttext": "Increase allies' resistance by 10~15% ",
+   "normaltext": "Grants a 20% chance to put the target to sleep for 1 turn. Sleeping foes wake upon being hit. ",
+   "activetext": "Grants a 80% chance to inflict the enemy with sap damage for 2 turn. ",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -95,7 +123,11 @@ var mondata = {
    "hp": 43220,
    "atk": 1506,
    "def": 1172,
-   "rec": 1336
+   "rec": 1336,
+   "varianttext": "Increase allies' resistance by 10~15% ",
+   "normaltext": "Grants a 40% chance to reduce the enemy's defense for 2 turns. ",
+   "activetext": "Grants a 60% chance to reduce target's skill gauge by 10% for 1 turns. ",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -107,7 +139,11 @@ var mondata = {
    "hp": 37247,
    "atk": 2746,
    "def": 2807,
-   "rec": 2316
+   "rec": 2316,
+   "varianttext": "Increases allies' resistance by 20-25% in dungeons.",
+   "normaltext": "Grants a 70% chance to stun the enemy for 2 turn(s).",
+   "activetext": "Grants a 70% chance to lower the enemy's attack and draw its attention for 1 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -119,7 +155,11 @@ var mondata = {
    "hp": 30962,
    "atk": 2696,
    "def": 2856,
-   "rec": 2787
+   "rec": 2787,
+   "varianttext": "Increases allies' resistance by 20-25% in dungeons.",
+   "normaltext": "Grants a 80% chance to inflict the target with two types of sap damage for 1 turns.",
+   "activetext": "Grants a 80% chance to inflict the target with two types of sap damage for 2 turns",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -131,7 +171,11 @@ var mondata = {
    "hp": 28016,
    "atk": 3575,
    "def": 2492,
-   "rec": 2281
+   "rec": 2281,
+   "varianttext": "Increases allies' resistance by 20-25% in dungeons.",
+   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Attacks greatly restore allies' HP in proportion to the amount of damage dealt.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -143,7 +187,11 @@ var mondata = {
    "hp": 27826,
    "atk": 3575,
    "def": 2458,
-   "rec": 2281
+   "rec": 2281,
+   "varianttext": "Increases allies' resistance by 20-25% in dungeons.",
+   "normaltext": "Attacks against any enemy are treated as that enemy's elemental weakness.",
+   "activetext": "Attacks against any enemy are treated as that enemy's elemental weakness.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -155,7 +203,11 @@ var mondata = {
    "hp": 31946,
    "atk": 2533,
    "def": 3650,
-   "rec": 2206
+   "rec": 2206,
+   "varianttext": "Increases allies' resistance by 20-25% in dungeons.",
+   "normaltext": "Attacks restore allies' HP in an amount equal to 10% of own max HP.",
+   "activetext": "Grants a 80% chance to silence the enemy for 2 turn(s). Silenced foes cannot use their active skill.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -167,7 +219,11 @@ var mondata = {
    "hp": 27948,
    "atk": 3466,
    "def": 2717,
-   "rec": 2349
+   "rec": 2349,
+   "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
+   "normaltext": "Grants a 100% chance to stun the enemy for 1 turn. ",
+   "activetext": "Grants a 60% chance to reduce all enemies' defense for 3 turns. Only applies to the active skill. ",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -179,7 +235,11 @@ var mondata = {
    "hp": 32453,
    "atk": 2784,
    "def": 2930,
-   "rec": 2644
+   "rec": 2644,
+   "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
+   "normaltext": "Grants a 100% chance to restore 50% of own SP when attacking. ",
+   "activetext": "Grants a 60% chance to reduce all enemies' attack power for 3 turns. ",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -191,7 +251,11 @@ var mondata = {
    "hp": 28166,
    "atk": 3766,
    "def": 2479,
-   "rec": 2288
+   "rec": 2288,
+   "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
+   "normaltext": "Attacks greatly restore own HP in proportion to the amount of damaging dealt. ",
+   "activetext": "Grants a 60% chance to stun all enemies for 1 turn. ",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -203,7 +267,11 @@ var mondata = {
    "hp": 23399,
    "atk": 3936,
    "def": 2411,
-   "rec": 2220
+   "rec": 2220,
+   "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
+   "normaltext": "Grants a 100% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense. ",
+   "activetext": "Grants a 80% chance to reduce target's skill gauge by 10% for 1 turn. ",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -215,7 +283,11 @@ var mondata = {
    "hp": 47435,
    "atk": 2065,
    "def": 2316,
-   "rec": 2391
+   "rec": 2391,
+   "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
+   "normaltext": "Attack power becomes proportional to own max HP. ",
+   "activetext": "Grants a 100% chance to inflict the target with three types of sap damage for 1 turn. ",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -227,7 +299,11 @@ var mondata = {
    "hp": 25684,
    "atk": 3152,
    "def": 3216,
-   "rec": 2999
+   "rec": 2999,
+   "varianttext": "Increases allies' attack power by 35~40% ",
+   "normaltext": "Attacks greatly restore own HP in proportion to the amount of damage dealt. ",
+   "activetext": "Attacks against any enemy are treated as that enemy's elemental weakness. ",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -239,7 +315,11 @@ var mondata = {
    "hp": 28813,
    "atk": 3562,
    "def": 2452,
-   "rec": 2390
+   "rec": 2390,
+   "varianttext": "Increases allies' attack power by 35~40% ",
+   "normaltext": "Grants additional attack power proportional to the target's maximum HP. ",
+   "activetext": "Grants a 80% change to reduce the enemy's defense for 2 turns. ",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -251,7 +331,11 @@ var mondata = {
    "hp": 31115,
    "atk": 2683,
    "def": 3466,
-   "rec": 2084
+   "rec": 2084,
+   "varianttext": "Increases allies' attack power by 35~40% ",
+   "normaltext": "Grants a 100% chance to restore 50% of own SP when attacking. ",
+   "activetext": "Grants a 60% change to seal the enemy for 2 turns. Sealed foes' passive skills do not activate. ",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -263,7 +347,11 @@ var mondata = {
    "hp": 32698,
    "atk": 2866,
    "def": 2842,
-   "rec": 1963
+   "rec": 1963,
+   "varianttext": "Increases allies' attack power by 35~40% ",
+   "normaltext": "Grants a 100% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense. ",
+   "activetext": "Attacks against any enemy are treated as that enemy's elemental weakness. ",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -275,7 +363,11 @@ var mondata = {
    "hp": 48212,
    "atk": 2133,
    "def": 2507,
-   "rec": 2017
+   "rec": 2017,
+   "varianttext": "Increases allies' attack power by 35~40% ",
+   "normaltext": "Grants a 100% chance to restore 20% of allies' SP when attacking. ",
+   "activetext": "Attacks restore allies' HP in an amount equal to 10% of own max HP. ",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -287,7 +379,11 @@ var mondata = {
    "hp": 29382,
    "atk": 2362,
    "def": 2433,
-   "rec": 2147
+   "rec": 2147,
+   "varianttext": "Increases allies' defense by 30~35%. ",
+   "normaltext": "Grants a 60% chance to reduce the enemy's recovery for 1 turn. ",
+   "activetext": "Grants a 60% chance to reduce all enemies' skill gauges by 10% for 2 turn. ",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -299,7 +395,11 @@ var mondata = {
    "hp": 40040,
    "atk": 2364,
    "def": 1758,
-   "rec": 1887
+   "rec": 1887,
+   "varianttext": "Increases allies' defense by 30~35%. ",
+   "normaltext": "Converts blue souls dropped from own attacks to red souls. ",
+   "activetext": "Grants a 60% chance to inflict the target with two types of sap damage for 1 turn. ",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -311,7 +411,11 @@ var mondata = {
    "hp": 29760,
    "atk": 3092,
    "def": 2152,
-   "rec": 1968
+   "rec": 1968,
+   "varianttext": "Increases allies' defense by 30~35%. ",
+   "normaltext": "Grants a 100% chance to restore 20% of own SP when attacking. ",
+   "activetext": "Grants a 60% chance to reduce all enemies' defense for 2 turns. ",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -323,7 +427,11 @@ var mondata = {
    "hp": 30717,
    "atk": 2137,
    "def": 2501,
-   "rec": 2311
+   "rec": 2311,
+   "varianttext": "Increases allies' defense by 30~35%. ",
+   "normaltext": "Grants a 60% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense. ",
+   "activetext": "Grants a 100% chance to inflict the target with two types of sap damages for 2 turns. ",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -335,7 +443,11 @@ var mondata = {
    "hp": 42001,
    "atk": 2051,
    "def": 1744,
-   "rec": 1847
+   "rec": 1847,
+   "varianttext": "Increases allies' defense by 30~35%. ",
+   "normaltext": "Grants a 80% chacne to inflcit the enemy with sap damage for 1 turn. ",
+   "activetext": "Grants a 100% chance to put all enemies to sleep for 3 turns. Sleeping foes wake upon being hit. ",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -347,7 +459,11 @@ var mondata = {
    "hp": 28731,
    "atk": 2356,
    "def": 1559,
-   "rec": 1437
+   "rec": 1437,
+   "varianttext": "Increases allies' resistance by 10~15%. ",
+   "normaltext": "Grants a 40% chance to reduce the enemy's defense for 2 turns. ",
+   "activetext": "Grants a 60% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit. ",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -359,7 +475,11 @@ var mondata = {
    "hp": 34837,
    "atk": 1404,
    "def": 1683,
-   "rec": 1588
+   "rec": 1588,
+   "varianttext": "Increases allies' resistance by 10~15%. ",
+   "normaltext": "Grants a 60% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit. ",
+   "activetext": "Grants a 80% chance to inflict the enemy with sap damage for 2 turn. ",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -371,7 +491,11 @@ var mondata = {
    "hp": 23658,
    "atk": 1696,
    "def": 1559,
-   "rec": 2472
+   "rec": 2472,
+   "varianttext": "Increases allies' recovery by 20~25% ",
+   "normaltext": "Grants bonus red souls when an enemy drops blue souls from an attack. ",
+   "activetext": "Restores some of allies' SP for 2 turn(s). ",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -383,7 +507,11 @@ var mondata = {
    "hp": 26222,
    "atk": 2001,
    "def": 1991,
-   "rec": 1923
+   "rec": 1923,
+   "varianttext": "Increases allies' recovery by 20~25% ",
+   "normaltext": "Grants a 50% chance to reduce the enemy's attack for 2 turn(s). ",
+   "activetext": "Imbues all allies with a 2-turn recovery buff ",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -395,7 +523,11 @@ var mondata = {
    "hp": 31026,
    "atk": 1566,
    "def": 1444,
-   "rec": 2472
+   "rec": 2472,
+   "varianttext": "Increases allies' recovery by 20~25% ",
+   "normaltext": "Grants a 40% chance to stun the enemy for 1 turn. ",
+   "activetext": "Restores a set amount of allies' HP for 2 turns. ",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -407,7 +539,11 @@ var mondata = {
    "hp": 28871,
    "atk": 1994,
    "def": 1793,
-   "rec": 1691
+   "rec": 1691,
+   "varianttext": "Increases allies' defence by 30~35% in the Astromon League ",
+   "normaltext": "Increases attack power by 20% when attacking wood Astromons. ",
+   "activetext": "Increases attack power by 100% when attacking wood Astromons. ",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -419,7 +555,11 @@ var mondata = {
    "hp": 25367,
    "atk": 2595,
    "def": 1818,
-   "rec": 1580
+   "rec": 1580,
+   "varianttext": "Increases allies' defence by 30~35% in the Astromon League ",
+   "normaltext": "Increases attack power by 30% when attacking fire Astromons. ",
+   "activetext": "Increases attack power by 100% when attacking fire Astromons. ",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -431,7 +571,11 @@ var mondata = {
    "hp": 43901,
    "atk": 1676,
    "def": 1295,
-   "rec": 1513
+   "rec": 1513,
+   "varianttext": "Increases allies' defence by 30~35% in the Astromon League ",
+   "normaltext": "Increases attack power by 20% when attacking water Astromons. ",
+   "activetext": "Increases attack power by 100% when attacking water Astromons. ",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -443,7 +587,11 @@ var mondata = {
    "hp": 28752,
    "atk": 1784,
    "def": 2527,
-   "rec": 1355
+   "rec": 1355,
+   "varianttext": "Increases allies' HP by 30~35% in dungeons. ",
+   "normaltext": "Grants a 80% chance to taunt the enemy and draw its attention for 1 turn. ",
+   "activetext": "Grants a 60% chance to inflict the enemy with sap damage for 2 turn. ",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -455,7 +603,11 @@ var mondata = {
    "hp": 30451,
    "atk": 1763,
    "def": 1943,
-   "rec": 1705
+   "rec": 1705,
+   "varianttext": "Increases allies' HP by 30~35% in dungeons. ",
+   "normaltext": "Grants a 80% chance to stun the enemy for 1 turn. ",
+   "activetext": "Grants a 40% chance to reduce target's skill gauge by 10% for 1 turns. ",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -467,7 +619,11 @@ var mondata = {
    "hp": 36812,
    "atk": 1758,
    "def": 1247,
-   "rec": 1336
+   "rec": 1336,
+   "varianttext": "Increases allies' HP by 30~35% in dungeons. ",
+   "normaltext": "Grants a 60% chance to inflict the enemy with sap damage for 1 turn. ",
+   "activetext": "Grants a 40% chance to stun all enemies for 1 turn. ",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -479,7 +635,11 @@ var mondata = {
    "hp": 24291,
    "atk": 3058,
    "def": 2138,
-   "rec": 2288
+   "rec": 2288,
+   "varianttext": "Increases allies' critical hit damage by 40~45%. ",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turns. ",
+   "activetext": "Grants a 60% chance to reduce all enemies' attack power for 2 turns. ",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -491,7 +651,11 @@ var mondata = {
    "hp": 24250,
    "atk": 2424,
    "def": 3173,
-   "rec": 1948
+   "rec": 1948,
+   "varianttext": "Increases allies' critical hit damage by 40~45%. ",
+   "normaltext": "Grants a 60% chance to petrify target for 1 turn. Petrified foes cannot act, but have increased defense. ",
+   "activetext": "Grants a 60% chance to petrify all enemies for 1 turn. Petrified foes cannot act, but have increased defense. ",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -503,7 +667,11 @@ var mondata = {
    "hp": 26096,
    "atk": 3085,
    "def": 2281,
-   "rec": 1628
+   "rec": 1628,
+   "varianttext": "Increases allies' critical hit damage by 40~45%. ",
+   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt. ",
+   "activetext": "Attacks greatly restore allies' HP in proportion to the amount of damage dealt. ",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -515,7 +683,11 @@ var mondata = {
    "hp": 29589,
    "atk": 1559,
    "def": 2506,
-   "rec": 1818
+   "rec": 1818,
+   "varianttext": "Increases allies' HP by 30~35% in clan battles. ",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s). ",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s). ",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -527,7 +699,11 @@ var mondata = {
    "hp": 29494,
    "atk": 2663,
    "def": 1457,
-   "rec": 1580
+   "rec": 1580,
+   "varianttext": "Increases allies' HP by 30~35% in clan battles. ",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s). ",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s). ",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -539,7 +715,11 @@ var mondata = {
    "hp": 28568,
    "atk": 2404,
    "def": 1512,
-   "rec": 1396
+   "rec": 1396,
+   "varianttext": "Increases allies' HP by 20~25%. ",
+   "normaltext": "Increases attack power by 30% when attacking wood Astromons. ",
+   "activetext": "Grants a 80% chance to inflict the enemy with sap damage for 2 turns. ",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -551,7 +731,11 @@ var mondata = {
    "hp": 29048,
    "atk": 1681,
    "def": 1807,
-   "rec": 1596
+   "rec": 1596,
+   "varianttext": "Increases allies' HP by 20~25%. ",
+   "normaltext": "Increases attack power by 30% when attacking fire Astromons. ",
+   "activetext": "Grants a 60% chance to stun the enemy for 1 turn. ",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -563,7 +747,11 @@ var mondata = {
    "hp": 29331,
    "atk": 1321,
    "def": 2554,
-   "rec": 1573
+   "rec": 1573,
+   "varianttext": "Increases allies' HP by 20~25%. ",
+   "normaltext": "Increases attack power by 30% when attacking water Astromons. ",
+   "activetext": "Grants a 60% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit. ",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -575,7 +763,11 @@ var mondata = {
    "hp": 26198,
    "atk": 2377,
    "def": 1798,
-   "rec": 1662
+   "rec": 1662,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -587,7 +779,11 @@ var mondata = {
    "hp": 23522,
    "atk": 2452,
    "def": 1730,
-   "rec": 1811
+   "rec": 1811,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -599,7 +795,11 @@ var mondata = {
    "hp": 29457,
    "atk": 1742,
    "def": 1963,
-   "rec": 1861
+   "rec": 1861,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -611,7 +811,11 @@ var mondata = {
    "hp": 29419,
    "atk": 1437,
    "def": 2847,
-   "rec": 1702
+   "rec": 1702,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -623,7 +827,11 @@ var mondata = {
    "hp": 23706,
    "atk": 2384,
    "def": 1709,
-   "rec": 1866
+   "rec": 1866,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -635,7 +843,11 @@ var mondata = {
    "hp": 28772,
    "atk": 2424,
    "def": 1628,
-   "rec": 1566
+   "rec": 1566,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -647,7 +859,11 @@ var mondata = {
    "hp": 37520,
    "atk": 2235,
    "def": 1751,
-   "rec": 2385
+   "rec": 2385,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -659,7 +875,11 @@ var mondata = {
    "hp": 33141,
    "atk": 2812,
    "def": 2365,
-   "rec": 1970
+   "rec": 1970,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -671,7 +891,11 @@ var mondata = {
    "hp": 30417,
    "atk": 1749,
    "def": 1896,
-   "rec": 1807
+   "rec": 1807,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -683,7 +907,11 @@ var mondata = {
    "hp": 26430,
    "atk": 2384,
    "def": 1818,
-   "rec": 1600
+   "rec": 1600,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -695,7 +923,11 @@ var mondata = {
    "hp": 32991,
    "atk": 2076,
    "def": 2106,
-   "rec": 1786
+   "rec": 1786,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -707,7 +939,11 @@ var mondata = {
    "hp": 45522,
    "atk": 1411,
    "def": 1445,
-   "rec": 1281
+   "rec": 1281,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -719,7 +955,11 @@ var mondata = {
    "hp": 27696,
    "atk": 1362,
    "def": 1702,
-   "rec": 2574
+   "rec": 2574,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -731,7 +971,11 @@ var mondata = {
    "hp": 30216,
    "atk": 1457,
    "def": 1730,
-   "rec": 2492
+   "rec": 2492,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -743,7 +987,11 @@ var mondata = {
    "hp": 31054,
    "atk": 1532,
    "def": 1430,
-   "rec": 2574
+   "rec": 2574,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -755,7 +1003,11 @@ var mondata = {
    "hp": 29368,
    "atk": 2015,
    "def": 1684,
-   "rec": 1664
+   "rec": 1664,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -767,7 +1019,11 @@ var mondata = {
    "hp": 25926,
    "atk": 2581,
    "def": 1777,
-   "rec": 1682
+   "rec": 1682,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -779,7 +1035,11 @@ var mondata = {
    "hp": 25565,
    "atk": 2486,
    "def": 1784,
-   "rec": 1226
+   "rec": 1226,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -791,7 +1051,11 @@ var mondata = {
    "hp": 32456,
    "atk": 2159,
    "def": 1989,
-   "rec": 3323
+   "rec": 3323,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -803,7 +1067,11 @@ var mondata = {
    "hp": 30693,
    "atk": 2036,
    "def": 2452,
-   "rec": 3003
+   "rec": 3003,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -815,7 +1083,11 @@ var mondata = {
    "hp": 29875,
    "atk": 2179,
    "def": 1989,
-   "rec": 3099
+   "rec": 3099,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -827,7 +1099,11 @@ var mondata = {
    "hp": 29630,
    "atk": 2118,
    "def": 2009,
-   "rec": 3194
+   "rec": 3194,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -839,7 +1115,11 @@ var mondata = {
    "hp": 37731,
    "atk": 1806,
    "def": 2323,
-   "rec": 2153
+   "rec": 2153,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -851,7 +1131,11 @@ var mondata = {
    "hp": 30679,
    "atk": 2036,
    "def": 2452,
-   "rec": 2996
+   "rec": 2996,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -863,7 +1147,11 @@ var mondata = {
    "hp": 38378,
    "atk": 2323,
    "def": 1840,
-   "rec": 1928
+   "rec": 1928,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -875,7 +1163,11 @@ var mondata = {
    "hp": 37533,
    "atk": 1962,
    "def": 2316,
-   "rec": 2194
+   "rec": 2194,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -887,7 +1179,11 @@ var mondata = {
    "hp": 26178,
    "atk": 2281,
    "def": 3194,
-   "rec": 2050
+   "rec": 2050,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -899,7 +1195,11 @@ var mondata = {
    "hp": 29014,
    "atk": 2532,
    "def": 2345,
-   "rec": 2100
+   "rec": 2100,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -911,7 +1211,11 @@ var mondata = {
    "hp": 28272,
    "atk": 2267,
    "def": 2106,
-   "rec": 1691
+   "rec": 1691,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -923,7 +1227,11 @@ var mondata = {
    "hp": 24210,
    "atk": 1730,
    "def": 2697,
-   "rec": 1648
+   "rec": 1648,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -935,7 +1243,11 @@ var mondata = {
    "hp": 26212,
    "atk": 2588,
    "def": 1737,
-   "rec": 1566
+   "rec": 1566,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -947,7 +1259,11 @@ var mondata = {
    "hp": 34203,
    "atk": 2221,
    "def": 2391,
-   "rec": 1881
+   "rec": 1881,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -959,7 +1275,11 @@ var mondata = {
    "hp": 23283,
    "atk": 3255,
    "def": 2363,
-   "rec": 1948
+   "rec": 1948,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -971,7 +1291,11 @@ var mondata = {
    "hp": 30965,
    "atk": 2247,
    "def": 3609,
-   "rec": 1968
+   "rec": 1968,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -983,7 +1307,11 @@ var mondata = {
    "hp": 24475,
    "atk": 3643,
    "def": 2901,
-   "rec": 2213
+   "rec": 2213,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -995,7 +1323,11 @@ var mondata = {
    "hp": 31976,
    "atk": 2948,
    "def": 2787,
-   "rec": 2181
+   "rec": 2181,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -1007,7 +1339,11 @@ var mondata = {
    "hp": 25367,
    "atk": 3616,
    "def": 2670,
-   "rec": 2091
+   "rec": 2091,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -1019,7 +1355,11 @@ var mondata = {
    "hp": 28413,
    "atk": 3207,
    "def": 2658,
-   "rec": 2365
+   "rec": 2365,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1031,7 +1371,11 @@ var mondata = {
    "hp": 28881,
    "atk": 1777,
    "def": 2615,
-   "rec": 1403
+   "rec": 1403,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1043,7 +1387,11 @@ var mondata = {
    "hp": 36301,
    "atk": 2221,
    "def": 2432,
-   "rec": 1853
+   "rec": 1853,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1055,7 +1403,11 @@ var mondata = {
    "hp": 30832,
    "atk": 2362,
    "def": 2481,
-   "rec": 2352
+   "rec": 2352,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -1067,7 +1419,11 @@ var mondata = {
    "hp": 35375,
    "atk": 1554,
    "def": 1758,
-   "rec": 1329
+   "rec": 1329,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -1079,7 +1435,11 @@ var mondata = {
    "hp": 26041,
    "atk": 2343,
    "def": 1566,
-   "rec": 1403
+   "rec": 1403,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -1091,7 +1451,11 @@ var mondata = {
    "hp": 26225,
    "atk": 2343,
    "def": 1696,
-   "rec": 1566
+   "rec": 1566,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1103,7 +1467,11 @@ var mondata = {
    "hp": 30468,
    "atk": 2036,
    "def": 2431,
-   "rec": 2881
+   "rec": 2881,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1115,7 +1483,11 @@ var mondata = {
    "hp": 32463,
    "atk": 2125,
    "def": 1954,
-   "rec": 3310
+   "rec": 3310,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1127,7 +1499,11 @@ var mondata = {
    "hp": 32443,
    "atk": 2138,
    "def": 1989,
-   "rec": 3364
+   "rec": 3364,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1139,7 +1515,11 @@ var mondata = {
    "hp": 36805,
    "atk": 1976,
    "def": 1996,
-   "rec": 2357
+   "rec": 2357,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1151,7 +1531,11 @@ var mondata = {
    "hp": 29624,
    "atk": 2125,
    "def": 1982,
-   "rec": 3058
+   "rec": 3058,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1163,7 +1547,11 @@ var mondata = {
    "hp": 29787,
    "atk": 2343,
    "def": 3139,
-   "rec": 1750
+   "rec": 1750,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1175,7 +1563,11 @@ var mondata = {
    "hp": 25776,
    "atk": 2595,
    "def": 1573,
-   "rec": 1737
+   "rec": 1737,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1187,7 +1579,11 @@ var mondata = {
    "hp": 29164,
    "atk": 1960,
    "def": 1684,
-   "rec": 1664
+   "rec": 1664,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1199,7 +1595,11 @@ var mondata = {
    "hp": 30420,
    "atk": 1539,
    "def": 2554,
-   "rec": 1832
+   "rec": 1832,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1211,7 +1611,11 @@ var mondata = {
    "hp": 30808,
    "atk": 3064,
    "def": 1873,
-   "rec": 2070
+   "rec": 2070,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1223,7 +1627,11 @@ var mondata = {
    "hp": 30114,
    "atk": 2309,
    "def": 3139,
-   "rec": 1832
+   "rec": 1832,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -1235,7 +1643,11 @@ var mondata = {
    "hp": 31694,
    "atk": 3650,
    "def": 2288,
-   "rec": 2329
+   "rec": 2329,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -1247,7 +1659,11 @@ var mondata = {
    "hp": 27768,
    "atk": 3043,
    "def": 3033,
-   "rec": 2876
+   "rec": 2876,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -1259,7 +1675,11 @@ var mondata = {
    "hp": 32841,
    "atk": 2846,
    "def": 2910,
-   "rec": 1929
+   "rec": 1929,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -1271,7 +1691,11 @@ var mondata = {
    "hp": 23317,
    "atk": 3977,
    "def": 2479,
-   "rec": 2240
+   "rec": 2240,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -1283,7 +1707,11 @@ var mondata = {
    "hp": 28166,
    "atk": 3677,
    "def": 2554,
-   "rec": 2295
+   "rec": 2295,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1295,7 +1723,11 @@ var mondata = {
    "hp": 25143,
    "atk": 3173,
    "def": 2281,
-   "rec": 2084
+   "rec": 2084,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1307,7 +1739,11 @@ var mondata = {
    "hp": 38759,
    "atk": 1813,
    "def": 2316,
-   "rec": 2133
+   "rec": 2133,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1319,7 +1755,11 @@ var mondata = {
    "hp": 37942,
    "atk": 2194,
    "def": 1853,
-   "rec": 2058
+   "rec": 2058,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1331,7 +1771,11 @@ var mondata = {
    "hp": 26293,
    "atk": 2220,
    "def": 3126,
-   "rec": 2023
+   "rec": 2023,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1343,7 +1787,11 @@ var mondata = {
    "hp": 22711,
    "atk": 3194,
    "def": 2091,
-   "rec": 1920
+   "rec": 1920,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1355,7 +1803,11 @@ var mondata = {
    "hp": 43560,
    "atk": 2085,
    "def": 1676,
-   "rec": 1874
+   "rec": 1874,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1367,7 +1819,11 @@ var mondata = {
    "hp": 31544,
    "atk": 2002,
    "def": 3153,
-   "rec": 2295
+   "rec": 2295,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1379,7 +1835,11 @@ var mondata = {
    "hp": 25306,
    "atk": 2615,
    "def": 1784,
-   "rec": 1267
+   "rec": 1267,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1391,7 +1851,11 @@ var mondata = {
    "hp": 35599,
    "atk": 1717,
    "def": 1915,
-   "rec": 1465
+   "rec": 1465,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1403,7 +1867,11 @@ var mondata = {
    "hp": 30206,
    "atk": 1763,
    "def": 1929,
-   "rec": 1752
+   "rec": 1752,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1415,7 +1883,11 @@ var mondata = {
    "hp": 22793,
    "atk": 3405,
    "def": 2077,
-   "rec": 1914
+   "rec": 1914,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1427,7 +1899,11 @@ var mondata = {
    "hp": 32698,
    "atk": 2267,
    "def": 2311,
-   "rec": 2134
+   "rec": 2134,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1439,7 +1915,11 @@ var mondata = {
    "hp": 26927,
    "atk": 3221,
    "def": 2193,
-   "rec": 1982
+   "rec": 1982,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1451,7 +1931,11 @@ var mondata = {
    "hp": 29957,
    "atk": 2322,
    "def": 2595,
-   "rec": 2206
+   "rec": 2206,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1463,7 +1947,11 @@ var mondata = {
    "hp": 28919,
    "atk": 3018,
    "def": 1976,
-   "rec": 1996
+   "rec": 1996,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1475,7 +1963,11 @@ var mondata = {
    "hp": 25156,
    "atk": 2404,
    "def": 2990,
-   "rec": 2077
+   "rec": 2077,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1487,7 +1979,11 @@ var mondata = {
    "hp": 38827,
    "atk": 2294,
    "def": 1889,
-   "rec": 2140
+   "rec": 2140,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -1499,7 +1995,11 @@ var mondata = {
    "hp": 29249,
    "atk": 1321,
    "def": 2527,
-   "rec": 1573
+   "rec": 1573,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -1511,7 +2011,11 @@ var mondata = {
    "hp": 25776,
    "atk": 2302,
    "def": 1471,
-   "rec": 1641
+   "rec": 1641,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1523,7 +2027,11 @@ var mondata = {
    "hp": 26838,
    "atk": 2622,
    "def": 1532,
-   "rec": 1600
+   "rec": 1600,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1535,7 +2043,11 @@ var mondata = {
    "hp": 38140,
    "atk": 1574,
    "def": 1506,
-   "rec": 1887
+   "rec": 1887,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -1547,7 +2059,11 @@ var mondata = {
    "hp": 30015,
    "atk": 1620,
    "def": 1766,
-   "rec": 1623
+   "rec": 1623,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1559,7 +2075,11 @@ var mondata = {
    "hp": 26348,
    "atk": 3173,
    "def": 2281,
-   "rec": 1641
+   "rec": 1641,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1571,7 +2091,11 @@ var mondata = {
    "hp": 36941,
    "atk": 2364,
    "def": 1813,
-   "rec": 1922
+   "rec": 1922,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1583,7 +2107,11 @@ var mondata = {
    "hp": 30059,
    "atk": 2363,
    "def": 3139,
-   "rec": 1880
+   "rec": 1880,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1595,7 +2123,11 @@ var mondata = {
    "hp": 27281,
    "atk": 3139,
    "def": 2261,
-   "rec": 2118
+   "rec": 2118,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1607,7 +2139,11 @@ var mondata = {
    "hp": 28091,
    "atk": 3276,
    "def": 2002,
-   "rec": 2070
+   "rec": 2070,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1619,7 +2155,11 @@ var mondata = {
    "hp": 33856,
    "atk": 2253,
    "def": 2229,
-   "rec": 2066
+   "rec": 2066,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1631,7 +2171,11 @@ var mondata = {
    "hp": 30556,
    "atk": 3139,
    "def": 1880,
-   "rec": 2036
+   "rec": 2036,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1643,7 +2187,11 @@ var mondata = {
    "hp": 24496,
    "atk": 2418,
    "def": 3391,
-   "rec": 1900
+   "rec": 1900,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1655,7 +2203,11 @@ var mondata = {
    "hp": 31391,
    "atk": 2430,
    "def": 2474,
-   "rec": 2365
+   "rec": 2365,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1667,7 +2219,11 @@ var mondata = {
    "hp": 36757,
    "atk": 2180,
    "def": 2405,
-   "rec": 1853
+   "rec": 1853,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -1679,7 +2235,11 @@ var mondata = {
    "hp": 25497,
    "atk": 1648,
    "def": 1682,
-   "rec": 2315
+   "rec": 2315,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -1691,7 +2251,11 @@ var mondata = {
    "hp": 28977,
    "atk": 1743,
    "def": 2384,
-   "rec": 1301
+   "rec": 1301,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -1703,7 +2267,11 @@ var mondata = {
    "hp": 29290,
    "atk": 1410,
    "def": 1832,
-   "rec": 2288
+   "rec": 2288,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1715,7 +2283,11 @@ var mondata = {
    "hp": 32358,
    "atk": 1913,
    "def": 2168,
-   "rec": 1977
+   "rec": 1977,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1727,7 +2299,11 @@ var mondata = {
    "hp": 26838,
    "atk": 2622,
    "def": 1512,
-   "rec": 1580
+   "rec": 1580,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1739,7 +2315,11 @@ var mondata = {
    "hp": 29603,
    "atk": 1430,
    "def": 2833,
-   "rec": 1702
+   "rec": 1702,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1751,7 +2331,11 @@ var mondata = {
    "hp": 30611,
    "atk": 1907,
    "def": 3439,
-   "rec": 2159
+   "rec": 2159,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1763,7 +2347,11 @@ var mondata = {
    "hp": 30441,
    "atk": 3187,
    "def": 1880,
-   "rec": 2036
+   "rec": 2036,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -1775,7 +2363,11 @@ var mondata = {
    "hp": 27049,
    "atk": 2527,
    "def": 1403,
-   "rec": 1478
+   "rec": 1478,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -1787,7 +2379,11 @@ var mondata = {
    "hp": 36675,
    "atk": 1710,
    "def": 1206,
-   "rec": 1343
+   "rec": 1343,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -1799,7 +2395,11 @@ var mondata = {
    "hp": 29334,
    "atk": 1933,
    "def": 1895,
-   "rec": 1691
+   "rec": 1691,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1811,7 +2411,11 @@ var mondata = {
    "hp": 34523,
    "atk": 1642,
    "def": 1942,
-   "rec": 1336
+   "rec": 1336,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1823,7 +2427,11 @@ var mondata = {
    "hp": 30403,
    "atk": 2049,
    "def": 2025,
-   "rec": 1225
+   "rec": 1225,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1835,7 +2443,11 @@ var mondata = {
    "hp": 29732,
    "atk": 1580,
    "def": 2472,
-   "rec": 1811
+   "rec": 1811,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1847,7 +2459,11 @@ var mondata = {
    "hp": 27546,
    "atk": 2956,
    "def": 2288,
-   "rec": 2043
+   "rec": 2043,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1859,7 +2475,11 @@ var mondata = {
    "hp": 36056,
    "atk": 1942,
    "def": 2432,
-   "rec": 2010
+   "rec": 2010,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1871,7 +2491,11 @@ var mondata = {
    "hp": 26212,
    "atk": 3187,
    "def": 2261,
-   "rec": 1641
+   "rec": 1641,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1883,7 +2507,11 @@ var mondata = {
    "hp": 24445,
    "atk": 2812,
    "def": 2828,
-   "rec": 2658
+   "rec": 2658,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1895,7 +2523,11 @@ var mondata = {
    "hp": 36757,
    "atk": 2228,
    "def": 1881,
-   "rec": 2051
+   "rec": 2051,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1907,7 +2539,11 @@ var mondata = {
    "hp": 30822,
    "atk": 2043,
    "def": 2962,
-   "rec": 2322
+   "rec": 2322,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1919,7 +2555,11 @@ var mondata = {
    "hp": 39059,
    "atk": 1853,
    "def": 2303,
-   "rec": 2187
+   "rec": 2187,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1931,7 +2571,11 @@ var mondata = {
    "hp": 37363,
    "atk": 2180,
    "def": 1806,
-   "rec": 1397
+   "rec": 1397,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1943,7 +2587,11 @@ var mondata = {
    "hp": 31234,
    "atk": 2096,
    "def": 2072,
-   "rec": 1827
+   "rec": 1827,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -1955,7 +2603,11 @@ var mondata = {
    "hp": 28207,
    "atk": 2676,
    "def": 1798,
-   "rec": 1900
+   "rec": 1900,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1967,7 +2619,11 @@ var mondata = {
    "hp": 31701,
    "atk": 2023,
    "def": 3085,
-   "rec": 2329
+   "rec": 2329,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -1979,7 +2635,11 @@ var mondata = {
    "hp": 37261,
    "atk": 1806,
    "def": 2303,
-   "rec": 2167
+   "rec": 2167,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -1991,7 +2651,11 @@ var mondata = {
    "hp": 26246,
    "atk": 2206,
    "def": 1607,
-   "rec": 1559
+   "rec": 1559,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -2003,7 +2667,11 @@ var mondata = {
    "hp": 38555,
    "atk": 1193,
    "def": 1792,
-   "rec": 1343
+   "rec": 1343,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -2015,7 +2683,11 @@ var mondata = {
    "hp": 28881,
    "atk": 1668,
    "def": 2404,
-   "rec": 1273
+   "rec": 1273,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -2027,7 +2699,11 @@ var mondata = {
    "hp": 27955,
    "atk": 1403,
    "def": 1662,
-   "rec": 2343
+   "rec": 2343,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -2039,7 +2715,11 @@ var mondata = {
    "hp": 27816,
    "atk": 1831,
    "def": 1664,
-   "rec": 1534
+   "rec": 1534,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2051,7 +2731,11 @@ var mondata = {
    "hp": 35279,
    "atk": 1744,
    "def": 1452,
-   "rec": 1642
+   "rec": 1642,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2063,7 +2747,11 @@ var mondata = {
    "hp": 28561,
    "atk": 1648,
    "def": 1525,
-   "rec": 2595
+   "rec": 2595,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2075,7 +2763,11 @@ var mondata = {
    "hp": 23563,
    "atk": 1818,
    "def": 1668,
-   "rec": 2663
+   "rec": 2663,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2087,7 +2779,11 @@ var mondata = {
    "hp": 28731,
    "atk": 1709,
    "def": 2486,
-   "rec": 1192
+   "rec": 1192,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2099,7 +2795,11 @@ var mondata = {
    "hp": 36069,
    "atk": 1622,
    "def": 1329,
-   "rec": 1506
+   "rec": 1506,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2111,7 +2811,11 @@ var mondata = {
    "hp": 28857,
    "atk": 1831,
    "def": 1637,
-   "rec": 1596
+   "rec": 1596,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2123,7 +2827,11 @@ var mondata = {
    "hp": 42627,
    "atk": 1431,
    "def": 1418,
-   "rec": 1281
+   "rec": 1281,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2135,7 +2843,11 @@ var mondata = {
    "hp": 22807,
    "atk": 2615,
    "def": 1839,
-   "rec": 1498
+   "rec": 1498,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2147,7 +2859,11 @@ var mondata = {
    "hp": 27860,
    "atk": 1491,
    "def": 2554,
-   "rec": 1839
+   "rec": 1839,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2159,7 +2875,11 @@ var mondata = {
    "hp": 30791,
    "atk": 2607,
    "def": 2474,
-   "rec": 1630
+   "rec": 1630,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2171,7 +2891,11 @@ var mondata = {
    "hp": 28030,
    "atk": 3228,
    "def": 1954,
-   "rec": 2077
+   "rec": 2077,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2183,7 +2907,11 @@ var mondata = {
    "hp": 27676,
    "atk": 2867,
    "def": 1914,
-   "rec": 1382
+   "rec": 1382,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2195,7 +2923,11 @@ var mondata = {
    "hp": 28697,
    "atk": 1852,
    "def": 2588,
-   "rec": 1328
+   "rec": 1328,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2207,7 +2939,11 @@ var mondata = {
    "hp": 28476,
    "atk": 1892,
    "def": 1963,
-   "rec": 1725
+   "rec": 1725,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2219,7 +2955,11 @@ var mondata = {
    "hp": 26917,
    "atk": 2662,
    "def": 2658,
-   "rec": 2488
+   "rec": 2488,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2231,7 +2971,11 @@ var mondata = {
    "hp": 28731,
    "atk": 1941,
    "def": 3167,
-   "rec": 2309
+   "rec": 2309,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2243,7 +2987,11 @@ var mondata = {
    "hp": 29092,
    "atk": 1321,
    "def": 2540,
-   "rec": 1641
+   "rec": 1641,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2255,7 +3003,11 @@ var mondata = {
    "hp": 28054,
    "atk": 1879,
    "def": 1725,
-   "rec": 1555
+   "rec": 1555,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2267,7 +3019,11 @@ var mondata = {
    "hp": 23862,
    "atk": 2445,
    "def": 1539,
-   "rec": 1662
+   "rec": 1662,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2279,7 +3035,11 @@ var mondata = {
    "hp": 38643,
    "atk": 2323,
    "def": 1806,
-   "rec": 1922
+   "rec": 1922,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2291,7 +3051,11 @@ var mondata = {
    "hp": 30199,
    "atk": 2444,
    "def": 2542,
-   "rec": 2774
+   "rec": 2774,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2303,7 +3067,11 @@ var mondata = {
    "hp": 27696,
    "atk": 3092,
    "def": 2329,
-   "rec": 2023
+   "rec": 2023,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2315,7 +3083,11 @@ var mondata = {
    "hp": 38752,
    "atk": 1853,
    "def": 2323,
-   "rec": 2133
+   "rec": 2133,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2327,7 +3099,11 @@ var mondata = {
    "hp": 22228,
    "atk": 3153,
    "def": 2431,
-   "rec": 2206
+   "rec": 2206,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2339,7 +3115,11 @@ var mondata = {
    "hp": 32000,
    "atk": 3616,
    "def": 2172,
-   "rec": 2424
+   "rec": 2424,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2351,7 +3131,11 @@ var mondata = {
    "hp": 27247,
    "atk": 2601,
    "def": 3514,
-   "rec": 2343
+   "rec": 2343,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2363,7 +3147,11 @@ var mondata = {
    "hp": 26906,
    "atk": 2595,
    "def": 3602,
-   "rec": 2349
+   "rec": 2349,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2375,7 +3163,11 @@ var mondata = {
    "hp": 26089,
    "atk": 2533,
    "def": 3534,
-   "rec": 2349
+   "rec": 2349,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2387,7 +3179,11 @@ var mondata = {
    "hp": 41143,
    "atk": 2316,
    "def": 2534,
-   "rec": 2916
+   "rec": 2916,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2399,7 +3195,11 @@ var mondata = {
    "hp": 43077,
    "atk": 2010,
    "def": 3066,
-   "rec": 2432
+   "rec": 2432,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2411,7 +3211,11 @@ var mondata = {
    "hp": 25378,
    "atk": 3172,
    "def": 3155,
-   "rec": 3012
+   "rec": 3012,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2423,7 +3227,11 @@ var mondata = {
    "hp": 28473,
    "atk": 3909,
    "def": 2595,
-   "rec": 2152
+   "rec": 2152,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2435,7 +3243,11 @@ var mondata = {
    "hp": 41919,
    "atk": 2099,
    "def": 2916,
-   "rec": 2677
+   "rec": 2677,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2447,7 +3259,11 @@ var mondata = {
    "hp": 32024,
    "atk": 2975,
    "def": 2828,
-   "rec": 1889
+   "rec": 1889,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2459,7 +3275,11 @@ var mondata = {
    "hp": 37772,
    "atk": 2521,
    "def": 2705,
-   "rec": 2494
+   "rec": 2494,
+   "varianttext": "Increases allies' resistance by 20-25% in clan battles.",
+   "normaltext": "Attacks siphon 20% of the enemy's SP.",
+   "activetext": "Grants a 80% chance to reduce the enemy's defense for 2 turn(s).",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -2471,7 +3291,11 @@ var mondata = {
    "hp": 31626,
    "atk": 3677,
    "def": 2070,
-   "rec": 2091
+   "rec": 2091,
+   "varianttext": "Increases allies' resistance by 20-25% in clan battles.",
+   "normaltext": "Increases critical hit damage by 50%.",
+   "activetext": "Increases critical hit damage by 50%.",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -2483,7 +3307,11 @@ var mondata = {
    "hp": 29569,
    "atk": 2363,
    "def": 3562,
-   "rec": 2588
+   "rec": 2588,
+   "varianttext": "Increases allies' resistance by 20-25% in clan battles.",
+   "normaltext": "Grants a 100% chance to seal the enemy for 2 turn(s). Sealed foes' passive skills do not activate.",
+   "activetext": "Grants a 80% chance to petrify target for 1 turn(s). Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -2495,7 +3323,11 @@ var mondata = {
    "hp": 25068,
    "atk": 2792,
    "def": 3609,
-   "rec": 2254
+   "rec": 2254,
+   "varianttext": "Increases allies' resistance by 20-25% in clan battles.",
+   "normaltext": "Attacks siphon 30% of the enemy's SP.",
+   "activetext": "Grants a 70% chance to shock target for 2 turn(s). Shocked foes cannot act and have reduced defense.",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -2507,7 +3339,11 @@ var mondata = {
    "hp": 25878,
    "atk": 3698,
    "def": 2479,
-   "rec": 2452
+   "rec": 2452,
+   "varianttext": "Increases allies' resistance by 20-25% in clan battles.",
+   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Attacks greatly restore allies' HP in proportion to the amount of damage dealt.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -2519,7 +3355,11 @@ var mondata = {
    "hp": 29773,
    "atk": 2240,
    "def": 3058,
-   "rec": 1852
+   "rec": 1852,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2531,7 +3371,11 @@ var mondata = {
    "hp": 30110,
    "atk": 3077,
    "def": 2801,
-   "rec": 2617
+   "rec": 2617,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2543,7 +3387,11 @@ var mondata = {
    "hp": 32494,
    "atk": 2784,
    "def": 2883,
-   "rec": 2624
+   "rec": 2624,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2555,7 +3403,11 @@ var mondata = {
    "hp": 32800,
    "atk": 2737,
    "def": 2903,
-   "rec": 2610
+   "rec": 2610,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2567,7 +3419,11 @@ var mondata = {
    "hp": 31094,
    "atk": 2649,
    "def": 3548,
-   "rec": 2023
+   "rec": 2023,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2579,7 +3435,11 @@ var mondata = {
    "hp": 27151,
    "atk": 3834,
    "def": 2704,
-   "rec": 2043
+   "rec": 2043,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2591,7 +3451,11 @@ var mondata = {
    "hp": 29889,
    "atk": 2860,
    "def": 1709,
-   "rec": 1764
+   "rec": 1764,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2603,7 +3467,11 @@ var mondata = {
    "hp": 46993,
    "atk": 1499,
    "def": 1479,
-   "rec": 1404
+   "rec": 1404,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2615,7 +3483,11 @@ var mondata = {
    "hp": 35974,
    "atk": 1953,
    "def": 1889,
-   "rec": 1786
+   "rec": 1786,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2627,7 +3499,11 @@ var mondata = {
    "hp": 26096,
    "atk": 2424,
    "def": 3269,
-   "rec": 1914
+   "rec": 1914,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2639,7 +3515,11 @@ var mondata = {
    "hp": 32017,
    "atk": 2580,
    "def": 2576,
-   "rec": 1664
+   "rec": 1664,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2651,7 +3531,11 @@ var mondata = {
    "hp": 38678,
    "atk": 1247,
    "def": 1683,
-   "rec": 1547
+   "rec": 1547,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2663,7 +3547,11 @@ var mondata = {
    "hp": 29147,
    "atk": 2302,
    "def": 1328,
-   "rec": 1444
+   "rec": 1444,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2675,7 +3563,11 @@ var mondata = {
    "hp": 29930,
    "atk": 1471,
    "def": 2275,
-   "rec": 1743
+   "rec": 1743,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2687,7 +3579,11 @@ var mondata = {
    "hp": 21308,
    "atk": 2315,
    "def": 1730,
-   "rec": 1730
+   "rec": 1730,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2699,7 +3595,11 @@ var mondata = {
    "hp": 11724,
    "atk": 1063,
    "def": 1063,
-   "rec": 1063
+   "rec": 1063,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2711,7 +3611,11 @@ var mondata = {
    "hp": 2149,
    "atk": 103,
    "def": 103,
-   "rec": 103
+   "rec": 103,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2723,7 +3627,11 @@ var mondata = {
    "hp": 10770,
    "atk": 1102,
    "def": 1112,
-   "rec": 1112
+   "rec": 1112,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2735,7 +3643,11 @@ var mondata = {
    "hp": 1195,
    "atk": 142,
    "def": 152,
-   "rec": 152
+   "rec": 152,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2747,7 +3659,11 @@ var mondata = {
    "hp": 27165,
    "atk": 2547,
    "def": 1403,
-   "rec": 1525
+   "rec": 1525,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2759,7 +3675,11 @@ var mondata = {
    "hp": 27972,
    "atk": 1892,
    "def": 1725,
-   "rec": 1562
+   "rec": 1562,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2771,7 +3691,11 @@ var mondata = {
    "hp": 36451,
    "atk": 1418,
    "def": 1411,
-   "rec": 1704
+   "rec": 1704,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2783,7 +3707,11 @@ var mondata = {
    "hp": 24090,
    "atk": 2171,
    "def": 2147,
-   "rec": 2100
+   "rec": 2100,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2795,7 +3723,11 @@ var mondata = {
    "hp": 29453,
    "atk": 1342,
    "def": 2445,
-   "rec": 1573
+   "rec": 1573,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2807,7 +3739,11 @@ var mondata = {
    "hp": 24271,
    "atk": 2458,
    "def": 3187,
-   "rec": 1914
+   "rec": 1914,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2819,7 +3755,11 @@ var mondata = {
    "hp": 24414,
    "atk": 3024,
    "def": 2138,
-   "rec": 2247
+   "rec": 2247,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -2831,7 +3771,11 @@ var mondata = {
    "hp": 37602,
    "atk": 1193,
    "def": 1840,
-   "rec": 1343
+   "rec": 1343,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2843,7 +3787,11 @@ var mondata = {
    "hp": 29671,
    "atk": 2520,
    "def": 3562,
-   "rec": 2622
+   "rec": 2622,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2855,7 +3803,11 @@ var mondata = {
    "hp": 24611,
    "atk": 2492,
    "def": 3698,
-   "rec": 2690
+   "rec": 2690,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2867,7 +3819,11 @@ var mondata = {
    "hp": 35770,
    "atk": 2739,
    "def": 2568,
-   "rec": 2316
+   "rec": 2316,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2879,7 +3835,11 @@ var mondata = {
    "hp": 34803,
    "atk": 2716,
    "def": 2624,
-   "rec": 2787
+   "rec": 2787,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -2891,7 +3851,11 @@ var mondata = {
    "hp": 24141,
    "atk": 3848,
    "def": 2601,
-   "rec": 2384
+   "rec": 2384,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2903,7 +3867,11 @@ var mondata = {
    "hp": 22650,
    "atk": 2622,
    "def": 1852,
-   "rec": 1491
+   "rec": 1491,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2915,7 +3883,11 @@ var mondata = {
    "hp": 24346,
    "atk": 2472,
    "def": 1771,
-   "rec": 1696
+   "rec": 1696,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2927,7 +3899,11 @@ var mondata = {
    "hp": 28687,
    "atk": 1981,
    "def": 1773,
-   "rec": 1691
+   "rec": 1691,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2939,7 +3915,11 @@ var mondata = {
    "hp": 38174,
    "atk": 2017,
    "def": 1983,
-   "rec": 2364
+   "rec": 2364,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -2951,7 +3931,11 @@ var mondata = {
    "hp": 31442,
    "atk": 2036,
    "def": 2962,
-   "rec": 2343
+   "rec": 2343,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2963,7 +3947,11 @@ var mondata = {
    "hp": 37173,
    "atk": 1792,
    "def": 1976,
-   "rec": 1540
+   "rec": 1540,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2975,7 +3963,11 @@ var mondata = {
    "hp": 30822,
    "atk": 1696,
    "def": 1525,
-   "rec": 2751
+   "rec": 2751,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2987,7 +3979,11 @@ var mondata = {
    "hp": 25442,
    "atk": 1750,
    "def": 1839,
-   "rec": 2629
+   "rec": 2629,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -2999,7 +3995,11 @@ var mondata = {
    "hp": 26327,
    "atk": 1900,
    "def": 1559,
-   "rec": 2458
+   "rec": 2458,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3011,7 +4011,11 @@ var mondata = {
    "hp": 24713,
    "atk": 2424,
    "def": 3337,
-   "rec": 1914
+   "rec": 1914,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3023,7 +4027,11 @@ var mondata = {
    "hp": 24523,
    "atk": 2322,
    "def": 2118,
-   "rec": 3344
+   "rec": 3344,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -3035,7 +4043,11 @@ var mondata = {
    "hp": 29293,
    "atk": 2001,
    "def": 1705,
-   "rec": 1671
+   "rec": 1671,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -3047,7 +4059,11 @@ var mondata = {
    "hp": 29440,
    "atk": 2996,
    "def": 1641,
-   "rec": 1764
+   "rec": 1764,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -3059,7 +4075,11 @@ var mondata = {
    "hp": 25360,
    "atk": 1784,
    "def": 2663,
-   "rec": 1566
+   "rec": 1566,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3071,7 +4091,11 @@ var mondata = {
    "hp": 32106,
    "atk": 3057,
    "def": 2883,
-   "rec": 2072
+   "rec": 2072,
+   "varianttext": "Increases allies' HP by 40-45% in clan battles.",
+   "normaltext": "Grants additional attack power proportional to the target's maximum HP.",
+   "activetext": "Grants a 80% chance to reduce the enemy's attack for 2 turn(s).",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -3083,7 +4107,11 @@ var mondata = {
    "hp": 25483,
    "atk": 3303,
    "def": 3071,
-   "rec": 2547
+   "rec": 2547,
+   "varianttext": "Increases allies' HP by 40-45% in clan battles.",
+   "normaltext": "Attacks against any enemy are treated as that enemy's elemental weakness.",
+   "activetext": "Attacks siphon 50% of the enemy's SP.",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -3095,7 +4123,11 @@ var mondata = {
    "hp": 41436,
    "atk": 2017,
    "def": 2807,
-   "rec": 2228
+   "rec": 2228,
+   "varianttext": "Increases allies' HP by 40-45% in clan battles.",
+   "normaltext": "Attacks siphon 20% of the enemy's SP.",
+   "activetext": "Grants a 100% chance to restore 30% of own HP when attacking.",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -3107,7 +4139,11 @@ var mondata = {
    "hp": 26440,
    "atk": 2989,
    "def": 2958,
-   "rec": 2985
+   "rec": 2985,
+   "varianttext": "Increases allies' HP by 40-45% in clan battles.",
+   "normaltext": "Increases damage dealt by 40%",
+   "activetext": "Attacks greatly restore own HP in proportion to the amount of damage dealt.",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -3119,7 +4155,11 @@ var mondata = {
    "hp": 27063,
    "atk": 3296,
    "def": 2704,
-   "rec": 2309
+   "rec": 2309,
+   "varianttext": "Increases allies' HP by 40-45% in clan battles.",
+   "normaltext": "Attacks siphon 30% of the enemy's SP.",
+   "activetext": "Increases critical hit damage by 40%.",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -3131,7 +4171,11 @@ var mondata = {
    "hp": 27689,
    "atk": 2295,
    "def": 3494,
-   "rec": 2309
+   "rec": 2309,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3143,7 +4187,11 @@ var mondata = {
    "hp": 49104,
    "atk": 2214,
    "def": 2398,
-   "rec": 2228
+   "rec": 2228,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3155,7 +4203,11 @@ var mondata = {
    "hp": 28541,
    "atk": 3602,
    "def": 2819,
-   "rec": 2254
+   "rec": 2254,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3167,7 +4219,11 @@ var mondata = {
    "hp": 49376,
    "atk": 2568,
    "def": 2126,
-   "rec": 1915
+   "rec": 1915,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3179,7 +4235,11 @@ var mondata = {
    "hp": 32273,
    "atk": 2349,
    "def": 3562,
-   "rec": 2588
+   "rec": 2588,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3191,7 +4251,11 @@ var mondata = {
    "hp": 24625,
    "atk": 4018,
    "def": 2629,
-   "rec": 2179
+   "rec": 2179,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3203,7 +4267,11 @@ var mondata = {
    "hp": 28221,
    "atk": 3269,
    "def": 2629,
-   "rec": 2329
+   "rec": 2329,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3215,7 +4283,11 @@ var mondata = {
    "hp": 39747,
    "atk": 2677,
    "def": 2235,
-   "rec": 2194
+   "rec": 2194,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3227,7 +4299,11 @@ var mondata = {
    "hp": 31295,
    "atk": 3023,
    "def": 2692,
-   "rec": 2672
+   "rec": 2672,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3239,7 +4315,11 @@ var mondata = {
    "hp": 31578,
    "atk": 2213,
    "def": 3807,
-   "rec": 2465
+   "rec": 2465,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -3251,7 +4331,11 @@ var mondata = {
    "hp": 26246,
    "atk": 1702,
    "def": 1444,
-   "rec": 2411
+   "rec": 2411,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -3263,7 +4347,11 @@ var mondata = {
    "hp": 24516,
    "atk": 1777,
    "def": 2343,
-   "rec": 1396
+   "rec": 1396,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -3275,7 +4363,11 @@ var mondata = {
    "hp": 26144,
    "atk": 2322,
    "def": 1525,
-   "rec": 1430
+   "rec": 1430,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -3287,7 +4379,11 @@ var mondata = {
    "hp": 28946,
    "atk": 1708,
    "def": 1766,
-   "rec": 1562
+   "rec": 1562,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -3299,7 +4395,11 @@ var mondata = {
    "hp": 37792,
    "atk": 1411,
    "def": 1370,
-   "rec": 1710
+   "rec": 1710,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -3311,7 +4411,11 @@ var mondata = {
    "hp": 43240,
    "atk": 1622,
    "def": 1261,
-   "rec": 1465
+   "rec": 1465,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3323,7 +4427,11 @@ var mondata = {
    "hp": 26368,
    "atk": 3276,
    "def": 2247,
-   "rec": 1682
+   "rec": 1682,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3335,7 +4443,11 @@ var mondata = {
    "hp": 31479,
    "atk": 2532,
    "def": 2570,
-   "rec": 1671
+   "rec": 1671,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -3347,7 +4459,11 @@ var mondata = {
    "hp": 35531,
    "atk": 1363,
    "def": 1772,
-   "rec": 1418
+   "rec": 1418,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -3359,7 +4475,11 @@ var mondata = {
    "hp": 29082,
    "atk": 1538,
    "def": 1793,
-   "rec": 1684
+   "rec": 1684,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -3371,7 +4491,11 @@ var mondata = {
    "hp": 25102,
    "atk": 1682,
    "def": 1600,
-   "rec": 2418
+   "rec": 2418,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -3383,7 +4507,11 @@ var mondata = {
    "hp": 27860,
    "atk": 1355,
    "def": 2418,
-   "rec": 1628
+   "rec": 1628,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 1,
@@ -3395,7 +4523,11 @@ var mondata = {
    "hp": 23433,
    "atk": 2275,
    "def": 1662,
-   "rec": 1362
+   "rec": 1362,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -3407,7 +4539,11 @@ var mondata = {
    "hp": 29906,
    "atk": 1654,
    "def": 1752,
-   "rec": 1623
+   "rec": 1623,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -3419,7 +4555,11 @@ var mondata = {
    "hp": 24720,
    "atk": 1607,
    "def": 2322,
-   "rec": 1491
+   "rec": 1491,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -3431,7 +4571,11 @@ var mondata = {
    "hp": 22514,
    "atk": 2574,
    "def": 1539,
-   "rec": 1403
+   "rec": 1403,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -3443,7 +4587,11 @@ var mondata = {
    "hp": 26041,
    "atk": 2486,
    "def": 1457,
-   "rec": 1628
+   "rec": 1628,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -3455,7 +4603,11 @@ var mondata = {
    "hp": 29947,
    "atk": 1593,
    "def": 1766,
-   "rec": 1623
+   "rec": 1623,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -3467,7 +4619,11 @@ var mondata = {
    "hp": 26518,
    "atk": 2377,
    "def": 1696,
-   "rec": 1457
+   "rec": 1457,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3479,7 +4635,11 @@ var mondata = {
    "hp": 26327,
    "atk": 3167,
    "def": 2288,
-   "rec": 1682
+   "rec": 1682,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3491,7 +4651,11 @@ var mondata = {
    "hp": 37057,
    "atk": 2146,
    "def": 2473,
-   "rec": 1710
+   "rec": 1710,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3503,7 +4667,11 @@ var mondata = {
    "hp": 31329,
    "atk": 2321,
    "def": 2352,
-   "rec": 2045
+   "rec": 2045,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3515,7 +4683,11 @@ var mondata = {
    "hp": 36812,
    "atk": 1976,
    "def": 2323,
-   "rec": 2214
+   "rec": 2214,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3527,7 +4699,11 @@ var mondata = {
    "hp": 30012,
    "atk": 2343,
    "def": 3173,
-   "rec": 1866
+   "rec": 1866,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3539,7 +4715,11 @@ var mondata = {
    "hp": 28262,
    "atk": 3473,
    "def": 2479,
-   "rec": 2418
+   "rec": 2418,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3551,7 +4731,11 @@ var mondata = {
    "hp": 29906,
    "atk": 2989,
    "def": 2917,
-   "rec": 2386
+   "rec": 2386,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3563,7 +4747,11 @@ var mondata = {
    "hp": 33328,
    "atk": 3405,
    "def": 2213,
-   "rec": 2329
+   "rec": 2329,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3575,7 +4763,11 @@ var mondata = {
    "hp": 24487,
    "atk": 1737,
    "def": 1519,
-   "rec": 1615
+   "rec": 1615,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3587,7 +4779,11 @@ var mondata = {
    "hp": 31942,
    "atk": 2641,
    "def": 2747,
-   "rec": 2576
+   "rec": 2576,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3599,7 +4795,11 @@ var mondata = {
    "hp": 22984,
    "atk": 3262,
    "def": 2084,
-   "rec": 1954
+   "rec": 1954,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3611,7 +4811,11 @@ var mondata = {
    "hp": 38412,
    "atk": 2044,
    "def": 2017,
-   "rec": 2303
+   "rec": 2303,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3623,7 +4827,11 @@ var mondata = {
    "hp": 29787,
    "atk": 2288,
    "def": 3105,
-   "rec": 1771
+   "rec": 1771,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3635,7 +4843,11 @@ var mondata = {
    "hp": 31772,
    "atk": 2532,
    "def": 2542,
-   "rec": 1671
+   "rec": 1671,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3647,7 +4859,11 @@ var mondata = {
    "hp": 23624,
    "atk": 3126,
    "def": 2309,
-   "rec": 1907
+   "rec": 1907,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -3659,7 +4875,11 @@ var mondata = {
    "hp": 28667,
    "atk": 1722,
    "def": 1854,
-   "rec": 1664
+   "rec": 1664,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -3671,7 +4891,11 @@ var mondata = {
    "hp": 29324,
    "atk": 1369,
    "def": 2418,
-   "rec": 1641
+   "rec": 1641,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3683,7 +4907,11 @@ var mondata = {
    "hp": 26865,
    "atk": 2220,
    "def": 3037,
-   "rec": 2411
+   "rec": 2411,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3695,7 +4923,11 @@ var mondata = {
    "hp": 26484,
    "atk": 3003,
    "def": 2111,
-   "rec": 2179
+   "rec": 2179,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3707,7 +4939,11 @@ var mondata = {
    "hp": 30819,
    "atk": 2648,
    "def": 2535,
-   "rec": 1603
+   "rec": 1603,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3719,7 +4955,11 @@ var mondata = {
    "hp": 41374,
    "atk": 1717,
    "def": 2494,
-   "rec": 1894
+   "rec": 1894,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3731,7 +4971,11 @@ var mondata = {
    "hp": 25538,
    "atk": 2887,
    "def": 2411,
-   "rec": 2349
+   "rec": 2349,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3743,7 +4987,11 @@ var mondata = {
    "hp": 24445,
    "atk": 2832,
    "def": 2862,
-   "rec": 2685
+   "rec": 2685,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3755,7 +5003,11 @@ var mondata = {
    "hp": 26729,
    "atk": 2193,
    "def": 3051,
-   "rec": 2411
+   "rec": 2411,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3767,7 +5019,11 @@ var mondata = {
    "hp": 30625,
    "atk": 3139,
    "def": 1900,
-   "rec": 2023
+   "rec": 2023,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3779,7 +5035,11 @@ var mondata = {
    "hp": 29521,
    "atk": 3126,
    "def": 2118,
-   "rec": 2002
+   "rec": 2002,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3791,7 +5051,11 @@ var mondata = {
    "hp": 37009,
    "atk": 1983,
    "def": 2010,
-   "rec": 2316
+   "rec": 2316,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3803,7 +5067,11 @@ var mondata = {
    "hp": 28817,
    "atk": 2491,
    "def": 2311,
-   "rec": 2147
+   "rec": 2147,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3815,7 +5083,11 @@ var mondata = {
    "hp": 30761,
    "atk": 1920,
    "def": 3187,
-   "rec": 2172
+   "rec": 2172,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -3827,7 +5099,11 @@ var mondata = {
    "hp": 34898,
    "atk": 1499,
    "def": 1806,
-   "rec": 1724
+   "rec": 1724,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -3839,7 +5115,11 @@ var mondata = {
    "hp": 28387,
    "atk": 1750,
    "def": 2744,
-   "rec": 1410
+   "rec": 1410,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3851,7 +5131,11 @@ var mondata = {
    "hp": 32787,
    "atk": 2703,
    "def": 2835,
-   "rec": 2733
+   "rec": 2733,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3863,7 +5147,11 @@ var mondata = {
    "hp": 25408,
    "atk": 3432,
    "def": 2581,
-   "rec": 2595
+   "rec": 2595,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3875,7 +5163,11 @@ var mondata = {
    "hp": 30288,
    "atk": 2893,
    "def": 2937,
-   "rec": 2624
+   "rec": 2624,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3887,7 +5179,11 @@ var mondata = {
    "hp": 31003,
    "atk": 2955,
    "def": 2808,
-   "rec": 2644
+   "rec": 2644,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 5,
@@ -3899,7 +5195,11 @@ var mondata = {
    "hp": 48498,
    "atk": 2167,
    "def": 2357,
-   "rec": 2194
+   "rec": 2194,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3911,7 +5211,11 @@ var mondata = {
    "hp": 26368,
    "atk": 3024,
    "def": 2254,
-   "rec": 1662
+   "rec": 1662,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3923,7 +5227,11 @@ var mondata = {
    "hp": 26416,
    "atk": 3262,
    "def": 2043,
-   "rec": 2159
+   "rec": 2159,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3935,7 +5243,11 @@ var mondata = {
    "hp": 31629,
    "atk": 2205,
    "def": 2352,
-   "rec": 2236
+   "rec": 2236,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3947,7 +5259,11 @@ var mondata = {
    "hp": 27969,
    "atk": 3310,
    "def": 2002,
-   "rec": 2036
+   "rec": 2036,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3959,7 +5275,11 @@ var mondata = {
    "hp": 30672,
    "atk": 1873,
    "def": 3167,
-   "rec": 2179
+   "rec": 2179,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3971,7 +5291,11 @@ var mondata = {
    "hp": 37452,
    "atk": 1881,
    "def": 2521,
-   "rec": 2024
+   "rec": 2024,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3983,7 +5307,11 @@ var mondata = {
    "hp": 26859,
    "atk": 2118,
    "def": 3153,
-   "rec": 2479
+   "rec": 2479,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -3995,7 +5323,11 @@ var mondata = {
    "hp": 27713,
    "atk": 2573,
    "def": 2576,
-   "rec": 2311
+   "rec": 2311,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4007,7 +5339,11 @@ var mondata = {
    "hp": 32051,
    "atk": 2491,
    "def": 2501,
-   "rec": 1671
+   "rec": 1671,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4019,7 +5355,11 @@ var mondata = {
    "hp": 44160,
    "atk": 1894,
    "def": 1881,
-   "rec": 1717
+   "rec": 1717,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4031,7 +5371,11 @@ var mondata = {
    "hp": 33740,
    "atk": 2464,
    "def": 2175,
-   "rec": 2352
+   "rec": 2352,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4043,7 +5387,11 @@ var mondata = {
    "hp": 30979,
    "atk": 2813,
    "def": 2533,
-   "rec": 1737
+   "rec": 1737,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4055,7 +5403,11 @@ var mondata = {
    "hp": 30516,
    "atk": 1900,
    "def": 3310,
-   "rec": 2172
+   "rec": 2172,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4067,7 +5419,11 @@ var mondata = {
    "hp": 27097,
    "atk": 3126,
    "def": 2213,
-   "rec": 1989
+   "rec": 1989,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4079,7 +5435,11 @@ var mondata = {
    "hp": 42478,
    "atk": 2085,
    "def": 1683,
-   "rec": 1853
+   "rec": 1853,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4091,7 +5451,11 @@ var mondata = {
    "hp": 29889,
    "atk": 2295,
    "def": 3296,
-   "rec": 1777
+   "rec": 1777,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4103,7 +5467,11 @@ var mondata = {
    "hp": 30580,
    "atk": 2165,
    "def": 2481,
-   "rec": 2304
+   "rec": 2304,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4115,7 +5483,11 @@ var mondata = {
    "hp": 27015,
    "atk": 3058,
    "def": 2295,
-   "rec": 2138
+   "rec": 2138,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4127,7 +5499,11 @@ var mondata = {
    "hp": 39611,
    "atk": 2221,
    "def": 1840,
-   "rec": 2058
+   "rec": 2058,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4139,7 +5515,11 @@ var mondata = {
    "hp": 31496,
    "atk": 2036,
    "def": 2921,
-   "rec": 2322
+   "rec": 2322,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4151,7 +5531,11 @@ var mondata = {
    "hp": 29266,
    "atk": 2376,
    "def": 2372,
-   "rec": 2175
+   "rec": 2175,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4163,7 +5547,11 @@ var mondata = {
    "hp": 27240,
    "atk": 2996,
    "def": 2281,
-   "rec": 2091
+   "rec": 2091,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -4175,7 +5563,11 @@ var mondata = {
    "hp": 28731,
    "atk": 1873,
    "def": 2765,
-   "rec": 1342
+   "rec": 1342,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 3,
@@ -4187,7 +5579,11 @@ var mondata = {
    "hp": 35817,
    "atk": 1676,
    "def": 1996,
-   "rec": 1295
+   "rec": 1295,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -4199,7 +5595,11 @@ var mondata = {
    "hp": 34898,
    "atk": 1404,
    "def": 1445,
-   "rec": 1758
+   "rec": 1758,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -4211,7 +5611,11 @@ var mondata = {
    "hp": 37792,
    "atk": 1132,
    "def": 1853,
-   "rec": 1363
+   "rec": 1363,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -4223,7 +5627,11 @@ var mondata = {
    "hp": 25742,
    "atk": 2281,
    "def": 1525,
-   "rec": 1607
+   "rec": 1607,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -4235,7 +5643,11 @@ var mondata = {
    "hp": 28377,
    "atk": 1696,
    "def": 2615,
-   "rec": 1219
+   "rec": 1219,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -4247,7 +5659,11 @@ var mondata = {
    "hp": 28561,
    "atk": 1737,
    "def": 2404,
-   "rec": 1287
+   "rec": 1287,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 2,
@@ -4259,7 +5675,11 @@ var mondata = {
    "hp": 35838,
    "atk": 1275,
    "def": 1751,
-   "rec": 1574
+   "rec": 1574,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4271,7 +5691,11 @@ var mondata = {
    "hp": 30093,
    "atk": 2322,
    "def": 3037,
-   "rec": 1852
+   "rec": 1852,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4283,7 +5707,11 @@ var mondata = {
    "hp": 29589,
    "atk": 3153,
    "def": 2152,
-   "rec": 1982
+   "rec": 1982,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4295,7 +5723,11 @@ var mondata = {
    "hp": 29869,
    "atk": 3126,
    "def": 2125,
-   "rec": 2002
+   "rec": 2002,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4307,7 +5739,11 @@ var mondata = {
    "hp": 26559,
    "atk": 3269,
    "def": 2084,
-   "rec": 2193
+   "rec": 2193,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4319,7 +5755,11 @@ var mondata = {
    "hp": 30696,
    "atk": 2641,
    "def": 2542,
-   "rec": 2331
+   "rec": 2331,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4331,7 +5771,11 @@ var mondata = {
    "hp": 26947,
    "atk": 3105,
    "def": 2240,
-   "rec": 2118
+   "rec": 2118,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4343,7 +5787,11 @@ var mondata = {
    "hp": 36982,
    "atk": 2024,
    "def": 1976,
-   "rec": 2316
+   "rec": 2316,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4355,7 +5803,11 @@ var mondata = {
    "hp": 28857,
    "atk": 2546,
    "def": 2345,
-   "rec": 2140
+   "rec": 2140,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4367,7 +5819,11 @@ var mondata = {
    "hp": 25156,
    "atk": 3153,
    "def": 2309,
-   "rec": 2138
+   "rec": 2138,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  },
  {
    "grade": 4,
@@ -4379,7 +5835,11 @@ var mondata = {
    "hp": 39869,
    "atk": 2364,
    "def": 1772,
-   "rec": 1874
+   "rec": 1874,
+   "varianttext": "",
+   "normaltext": "",
+   "activetext": "",
+   "activeaoe": null
  }
 ]
 }

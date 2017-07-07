@@ -13,8 +13,8 @@ var mondata = {
    "def": 2439,
    "rec": 1772,
    "varianttext": "Increases allies' critical hit rate by 15-20%.",
-   "normaltext": "Grants a 60% chance to stun the enemy for 1 turn(s).",
-   "activetext": "Grants a 60% chance to inflict the enemy with sap damage for 2 turn(s).",
+   "normaltext": "Grants a 60% chance to stun the enemy for 1 turn(s...",
+   "activetext": "Grants a 60% chance to inflict the enemy with sap ...",
    "activeaoe": 1
  },
  {
@@ -29,7 +29,7 @@ var mondata = {
    "def": 2111,
    "rec": 1920,
    "varianttext": "Increases allies' critical hit rate by 15-20%.",
-   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s).",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense ...",
    "activetext": "Increases damage dealt by 40%.",
    "activeaoe": 1
  },
@@ -61,8 +61,8 @@ var mondata = {
    "def": 1772,
    "rec": 1915,
    "varianttext": "Increases allies' critical hit rate by 15-20%.",
-   "normaltext": "Grants a 100% chance to reduce the enemy's defense for 2 turn(s).",
-   "activetext": "Grants a 60% chance to reduce the target's skill gauge by 30% for 2 turns.",
+   "normaltext": "Grants a 100% chance to reduce the enemy's defense...",
+   "activetext": "Grants a 60% chance to reduce the target's skill g...",
    "activeaoe": 1
  },
  {
@@ -77,8 +77,8 @@ var mondata = {
    "def": 3296,
    "rec": 1709,
    "varianttext": "Increases allies' critical hit rate by 15-20%.",
-   "normaltext": "Grants a 60% chance to inflict the target with two types of sap damage for 1 turns.",
-   "activetext": "Attack power becomes proportional to own max defense.",
+   "normaltext": "Grants a 60% chance to inflict the target with two...",
+   "activetext": "Attack power becomes proportional to own max defen...",
    "activeaoe": 1
  },
  {
@@ -92,9 +92,9 @@ var mondata = {
    "atk": 1321,
    "def": 2642,
    "rec": 1628,
-   "varianttext": "Increase allies' resistance by 10~15% ",
-   "normaltext": "Grants a 20% chance to taunt the enemy and draw its attention for 1 turn. ",
-   "activetext": "Grants a 60% chance to reduce the enemy's attack power for 2 turn. ",
+   "varianttext": "Increase allies' resistance by 10~15%",
+   "normaltext": "Grants a 20% chance to taunt the enemy and draw it...",
+   "activetext": "Grants a 60% chance to reduce the enemy's attack p...",
    "activeaoe": 0
  },
  {
@@ -108,9 +108,9 @@ var mondata = {
    "atk": 1668,
    "def": 2486,
    "rec": 1192,
-   "varianttext": "Increase allies' resistance by 10~15% ",
-   "normaltext": "Grants a 20% chance to put the target to sleep for 1 turn. Sleeping foes wake upon being hit. ",
-   "activetext": "Grants a 80% chance to inflict the enemy with sap damage for 2 turn. ",
+   "varianttext": "Increase allies' resistance by 10~15%",
+   "normaltext": "Grants a 20% chance to put the target to sleep for...",
+   "activetext": "Grants a 80% chance to inflict the enemy with sap ...",
    "activeaoe": 0
  },
  {
@@ -124,9 +124,9 @@ var mondata = {
    "atk": 1506,
    "def": 1172,
    "rec": 1336,
-   "varianttext": "Increase allies' resistance by 10~15% ",
-   "normaltext": "Grants a 40% chance to reduce the enemy's defense for 2 turns. ",
-   "activetext": "Grants a 60% chance to reduce target's skill gauge by 10% for 1 turns. ",
+   "varianttext": "Increase allies' resistance by 10~15%",
+   "normaltext": "Grants a 40% chance to reduce the enemy's defense ...",
+   "activetext": "Grants a 60% chance to reduce target's skill gauge...",
    "activeaoe": 0
  },
  {
@@ -140,9 +140,9 @@ var mondata = {
    "atk": 2746,
    "def": 2807,
    "rec": 2316,
-   "varianttext": "Increases allies' resistance by 20-25% in dungeons.",
-   "normaltext": "Grants a 70% chance to stun the enemy for 2 turn(s).",
-   "activetext": "Grants a 70% chance to lower the enemy's attack and draw its attention for 1 turn(s).",
+   "varianttext": "Increases allies' resistance by 20-25% in dungeons...",
+   "normaltext": "Grants a 70% chance to stun the enemy for 2 turn(s...",
+   "activetext": "Grants a 70% chance to lower the enemy's attack an...",
    "activeaoe": 1
  },
  {
@@ -156,9 +156,9 @@ var mondata = {
    "atk": 2696,
    "def": 2856,
    "rec": 2787,
-   "varianttext": "Increases allies' resistance by 20-25% in dungeons.",
-   "normaltext": "Grants a 80% chance to inflict the target with two types of sap damage for 1 turns.",
-   "activetext": "Grants a 80% chance to inflict the target with two types of sap damage for 2 turns",
+   "varianttext": "Increases allies' resistance by 20-25% in dungeons...",
+   "normaltext": "Grants a 80% chance to inflict the target with two...",
+   "activetext": "Grants a 80% chance to inflict the target with two...",
    "activeaoe": 1
  },
  {
@@ -172,9 +172,9 @@ var mondata = {
    "atk": 3575,
    "def": 2492,
    "rec": 2281,
-   "varianttext": "Increases allies' resistance by 20-25% in dungeons.",
-   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt.",
-   "activetext": "Attacks greatly restore allies' HP in proportion to the amount of damage dealt.",
+   "varianttext": "Increases allies' resistance by 20-25% in dungeons...",
+   "normaltext": "Attacks restore own HP in proportion to the amount...",
+   "activetext": "Attacks greatly restore allies' HP in proportion t...",
    "activeaoe": 1
  },
  {
@@ -188,9 +188,9 @@ var mondata = {
    "atk": 3575,
    "def": 2458,
    "rec": 2281,
-   "varianttext": "Increases allies' resistance by 20-25% in dungeons.",
-   "normaltext": "Attacks against any enemy are treated as that enemy's elemental weakness.",
-   "activetext": "Attacks against any enemy are treated as that enemy's elemental weakness.",
+   "varianttext": "Increases allies' resistance by 20-25% in dungeons...",
+   "normaltext": "Attacks against any enemy are treated as that enem...",
+   "activetext": "Attacks against any enemy are treated as that enem...",
    "activeaoe": 1
  },
  {
@@ -204,9 +204,9 @@ var mondata = {
    "atk": 2533,
    "def": 3650,
    "rec": 2206,
-   "varianttext": "Increases allies' resistance by 20-25% in dungeons.",
-   "normaltext": "Attacks restore allies' HP in an amount equal to 10% of own max HP.",
-   "activetext": "Grants a 80% chance to silence the enemy for 2 turn(s). Silenced foes cannot use their active skill.",
+   "varianttext": "Increases allies' resistance by 20-25% in dungeons...",
+   "normaltext": "Attacks restore allies' HP in an amount equal to 1...",
+   "activetext": "Grants a 80% chance to silence the enemy for 2 tur...",
    "activeaoe": 1
  },
  {
@@ -220,9 +220,9 @@ var mondata = {
    "atk": 3466,
    "def": 2717,
    "rec": 2349,
-   "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
-   "normaltext": "Grants a 100% chance to stun the enemy for 1 turn. ",
-   "activetext": "Grants a 60% chance to reduce all enemies' defense for 3 turns. Only applies to the active skill. ",
+   "varianttext": "Increases allies' HP by 40~45% in dungeons.",
+   "normaltext": "Grants a 100% chance to stun the enemy for 1 turn....",
+   "activetext": "Grants a 60% chance to reduce all enemies' defense...",
    "activeaoe": 1
  },
  {
@@ -236,9 +236,9 @@ var mondata = {
    "atk": 2784,
    "def": 2930,
    "rec": 2644,
-   "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
-   "normaltext": "Grants a 100% chance to restore 50% of own SP when attacking. ",
-   "activetext": "Grants a 60% chance to reduce all enemies' attack power for 3 turns. ",
+   "varianttext": "Increases allies' HP by 40~45% in dungeons.",
+   "normaltext": "Grants a 100% chance to restore 50% of own SP when...",
+   "activetext": "Grants a 60% chance to reduce all enemies' attack ...",
    "activeaoe": 1
  },
  {
@@ -252,9 +252,9 @@ var mondata = {
    "atk": 3766,
    "def": 2479,
    "rec": 2288,
-   "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
-   "normaltext": "Attacks greatly restore own HP in proportion to the amount of damaging dealt. ",
-   "activetext": "Grants a 60% chance to stun all enemies for 1 turn. ",
+   "varianttext": "Increases allies' HP by 40~45% in dungeons.",
+   "normaltext": "Attacks greatly restore own HP in proportion to th...",
+   "activetext": "Grants a 60% chance to stun all enemies for 1 turn...",
    "activeaoe": 1
  },
  {
@@ -268,9 +268,9 @@ var mondata = {
    "atk": 3936,
    "def": 2411,
    "rec": 2220,
-   "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
-   "normaltext": "Grants a 100% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense. ",
-   "activetext": "Grants a 80% chance to reduce target's skill gauge by 10% for 1 turn. ",
+   "varianttext": "Increases allies' HP by 40~45% in dungeons.",
+   "normaltext": "Grants a 100% chance to shock target for 1 turn. S...",
+   "activetext": "Grants a 80% chance to reduce target's skill gauge...",
    "activeaoe": 1
  },
  {
@@ -284,9 +284,9 @@ var mondata = {
    "atk": 2065,
    "def": 2316,
    "rec": 2391,
-   "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
-   "normaltext": "Attack power becomes proportional to own max HP. ",
-   "activetext": "Grants a 100% chance to inflict the target with three types of sap damage for 1 turn. ",
+   "varianttext": "Increases allies' HP by 40~45% in dungeons.",
+   "normaltext": "Attack power becomes proportional to own max HP.",
+   "activetext": "Grants a 100% chance to inflict the target with th...",
    "activeaoe": 1
  },
  {
@@ -300,9 +300,9 @@ var mondata = {
    "atk": 3152,
    "def": 3216,
    "rec": 2999,
-   "varianttext": "Increases allies' attack power by 35~40% ",
-   "normaltext": "Attacks greatly restore own HP in proportion to the amount of damage dealt. ",
-   "activetext": "Attacks against any enemy are treated as that enemy's elemental weakness. ",
+   "varianttext": "Increases allies' attack power by 35~40%",
+   "normaltext": "Attacks greatly restore own HP in proportion to th...",
+   "activetext": "Attacks against any enemy are treated as that enem...",
    "activeaoe": 1
  },
  {
@@ -316,9 +316,9 @@ var mondata = {
    "atk": 3562,
    "def": 2452,
    "rec": 2390,
-   "varianttext": "Increases allies' attack power by 35~40% ",
-   "normaltext": "Grants additional attack power proportional to the target's maximum HP. ",
-   "activetext": "Grants a 80% change to reduce the enemy's defense for 2 turns. ",
+   "varianttext": "Increases allies' attack power by 35~40%",
+   "normaltext": "Grants additional attack power proportional to the...",
+   "activetext": "Grants a 80% change to reduce the enemy's defense ...",
    "activeaoe": 1
  },
  {
@@ -332,9 +332,9 @@ var mondata = {
    "atk": 2683,
    "def": 3466,
    "rec": 2084,
-   "varianttext": "Increases allies' attack power by 35~40% ",
-   "normaltext": "Grants a 100% chance to restore 50% of own SP when attacking. ",
-   "activetext": "Grants a 60% change to seal the enemy for 2 turns. Sealed foes' passive skills do not activate. ",
+   "varianttext": "Increases allies' attack power by 35~40%",
+   "normaltext": "Grants a 100% chance to restore 50% of own SP when...",
+   "activetext": "Grants a 60% change to seal the enemy for 2 turns....",
    "activeaoe": 1
  },
  {
@@ -348,9 +348,9 @@ var mondata = {
    "atk": 2866,
    "def": 2842,
    "rec": 1963,
-   "varianttext": "Increases allies' attack power by 35~40% ",
-   "normaltext": "Grants a 100% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense. ",
-   "activetext": "Attacks against any enemy are treated as that enemy's elemental weakness. ",
+   "varianttext": "Increases allies' attack power by 35~40%",
+   "normaltext": "Grants a 100% chance to shock target for 1 turn. S...",
+   "activetext": "Attacks against any enemy are treated as that enem...",
    "activeaoe": 1
  },
  {
@@ -364,9 +364,9 @@ var mondata = {
    "atk": 2133,
    "def": 2507,
    "rec": 2017,
-   "varianttext": "Increases allies' attack power by 35~40% ",
-   "normaltext": "Grants a 100% chance to restore 20% of allies' SP when attacking. ",
-   "activetext": "Attacks restore allies' HP in an amount equal to 10% of own max HP. ",
+   "varianttext": "Increases allies' attack power by 35~40%",
+   "normaltext": "Grants a 100% chance to restore 20% of allies' SP ...",
+   "activetext": "Attacks restore allies' HP in an amount equal to 1...",
    "activeaoe": 1
  },
  {
@@ -380,9 +380,9 @@ var mondata = {
    "atk": 2362,
    "def": 2433,
    "rec": 2147,
-   "varianttext": "Increases allies' defense by 30~35%. ",
-   "normaltext": "Grants a 60% chance to reduce the enemy's recovery for 1 turn. ",
-   "activetext": "Grants a 60% chance to reduce all enemies' skill gauges by 10% for 2 turn. ",
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's recovery...",
+   "activetext": "Grants a 60% chance to reduce all enemies' skill g...",
    "activeaoe": 1
  },
  {
@@ -396,9 +396,9 @@ var mondata = {
    "atk": 2364,
    "def": 1758,
    "rec": 1887,
-   "varianttext": "Increases allies' defense by 30~35%. ",
-   "normaltext": "Converts blue souls dropped from own attacks to red souls. ",
-   "activetext": "Grants a 60% chance to inflict the target with two types of sap damage for 1 turn. ",
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Converts blue souls dropped from own attacks to re...",
+   "activetext": "Grants a 60% chance to inflict the target with two...",
    "activeaoe": 1
  },
  {
@@ -412,9 +412,9 @@ var mondata = {
    "atk": 3092,
    "def": 2152,
    "rec": 1968,
-   "varianttext": "Increases allies' defense by 30~35%. ",
-   "normaltext": "Grants a 100% chance to restore 20% of own SP when attacking. ",
-   "activetext": "Grants a 60% chance to reduce all enemies' defense for 2 turns. ",
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore 20% of own SP when...",
+   "activetext": "Grants a 60% chance to reduce all enemies' defense...",
    "activeaoe": 1
  },
  {
@@ -428,9 +428,9 @@ var mondata = {
    "atk": 2137,
    "def": 2501,
    "rec": 2311,
-   "varianttext": "Increases allies' defense by 30~35%. ",
-   "normaltext": "Grants a 60% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense. ",
-   "activetext": "Grants a 100% chance to inflict the target with two types of sap damages for 2 turns. ",
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 60% chance to shock target for 1 turn. Sh...",
+   "activetext": "Grants a 100% chance to inflict the target with tw...",
    "activeaoe": 1
  },
  {
@@ -444,9 +444,9 @@ var mondata = {
    "atk": 2051,
    "def": 1744,
    "rec": 1847,
-   "varianttext": "Increases allies' defense by 30~35%. ",
-   "normaltext": "Grants a 80% chacne to inflcit the enemy with sap damage for 1 turn. ",
-   "activetext": "Grants a 100% chance to put all enemies to sleep for 3 turns. Sleeping foes wake upon being hit. ",
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 80% chacne to inflcit the enemy with sap ...",
+   "activetext": "Grants a 100% chance to put all enemies to sleep f...",
    "activeaoe": 1
  },
  {
@@ -460,9 +460,9 @@ var mondata = {
    "atk": 2356,
    "def": 1559,
    "rec": 1437,
-   "varianttext": "Increases allies' resistance by 10~15%. ",
-   "normaltext": "Grants a 40% chance to reduce the enemy's defense for 2 turns. ",
-   "activetext": "Grants a 60% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit. ",
+   "varianttext": "Increases allies' resistance by 10~15%.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's defense ...",
+   "activetext": "Grants a 60% chance to put target to sleep for 1 t...",
    "activeaoe": 0
  },
  {
@@ -476,9 +476,9 @@ var mondata = {
    "atk": 1404,
    "def": 1683,
    "rec": 1588,
-   "varianttext": "Increases allies' resistance by 10~15%. ",
-   "normaltext": "Grants a 60% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit. ",
-   "activetext": "Grants a 80% chance to inflict the enemy with sap damage for 2 turn. ",
+   "varianttext": "Increases allies' resistance by 10~15%.",
+   "normaltext": "Grants a 60% chance to put target to sleep for 1 t...",
+   "activetext": "Grants a 80% chance to inflict the enemy with sap ...",
    "activeaoe": 0
  },
  {
@@ -492,9 +492,9 @@ var mondata = {
    "atk": 1696,
    "def": 1559,
    "rec": 2472,
-   "varianttext": "Increases allies' recovery by 20~25% ",
-   "normaltext": "Grants bonus red souls when an enemy drops blue souls from an attack. ",
-   "activetext": "Restores some of allies' SP for 2 turn(s). ",
+   "varianttext": "Increases allies' recovery by 20~25%",
+   "normaltext": "Grants bonus red souls when an enemy drops blue so...",
+   "activetext": "Restores some of allies' SP for 2 turn(s).",
    "activeaoe": 0
  },
  {
@@ -508,9 +508,9 @@ var mondata = {
    "atk": 2001,
    "def": 1991,
    "rec": 1923,
-   "varianttext": "Increases allies' recovery by 20~25% ",
-   "normaltext": "Grants a 50% chance to reduce the enemy's attack for 2 turn(s). ",
-   "activetext": "Imbues all allies with a 2-turn recovery buff ",
+   "varianttext": "Increases allies' recovery by 20~25%",
+   "normaltext": "Grants a 50% chance to reduce the enemy's attack f...",
+   "activetext": "Imbues all allies with a 2-turn recovery buff",
    "activeaoe": 0
  },
  {
@@ -524,9 +524,9 @@ var mondata = {
    "atk": 1566,
    "def": 1444,
    "rec": 2472,
-   "varianttext": "Increases allies' recovery by 20~25% ",
-   "normaltext": "Grants a 40% chance to stun the enemy for 1 turn. ",
-   "activetext": "Restores a set amount of allies' HP for 2 turns. ",
+   "varianttext": "Increases allies' recovery by 20~25%",
+   "normaltext": "Grants a 40% chance to stun the enemy for 1 turn.",
+   "activetext": "Restores a set amount of allies' HP for 2 turns.",
    "activeaoe": 0
  },
  {
@@ -540,9 +540,9 @@ var mondata = {
    "atk": 1994,
    "def": 1793,
    "rec": 1691,
-   "varianttext": "Increases allies' defence by 30~35% in the Astromon League ",
-   "normaltext": "Increases attack power by 20% when attacking wood Astromons. ",
-   "activetext": "Increases attack power by 100% when attacking wood Astromons. ",
+   "varianttext": "Increases allies' defence by 30~35% in the Astromo...",
+   "normaltext": "Increases attack power by 20% when attacking wood ...",
+   "activetext": "Increases attack power by 100% when attacking wood...",
    "activeaoe": 0
  },
  {
@@ -556,9 +556,9 @@ var mondata = {
    "atk": 2595,
    "def": 1818,
    "rec": 1580,
-   "varianttext": "Increases allies' defence by 30~35% in the Astromon League ",
-   "normaltext": "Increases attack power by 30% when attacking fire Astromons. ",
-   "activetext": "Increases attack power by 100% when attacking fire Astromons. ",
+   "varianttext": "Increases allies' defence by 30~35% in the Astromo...",
+   "normaltext": "Increases attack power by 30% when attacking fire ...",
+   "activetext": "Increases attack power by 100% when attacking fire...",
    "activeaoe": 0
  },
  {
@@ -572,9 +572,9 @@ var mondata = {
    "atk": 1676,
    "def": 1295,
    "rec": 1513,
-   "varianttext": "Increases allies' defence by 30~35% in the Astromon League ",
-   "normaltext": "Increases attack power by 20% when attacking water Astromons. ",
-   "activetext": "Increases attack power by 100% when attacking water Astromons. ",
+   "varianttext": "Increases allies' defence by 30~35% in the Astromo...",
+   "normaltext": "Increases attack power by 20% when attacking water...",
+   "activetext": "Increases attack power by 100% when attacking wate...",
    "activeaoe": 0
  },
  {
@@ -588,9 +588,9 @@ var mondata = {
    "atk": 1784,
    "def": 2527,
    "rec": 1355,
-   "varianttext": "Increases allies' HP by 30~35% in dungeons. ",
-   "normaltext": "Grants a 80% chance to taunt the enemy and draw its attention for 1 turn. ",
-   "activetext": "Grants a 60% chance to inflict the enemy with sap damage for 2 turn. ",
+   "varianttext": "Increases allies' HP by 30~35% in dungeons.",
+   "normaltext": "Grants a 80% chance to taunt the enemy and draw it...",
+   "activetext": "Grants a 60% chance to inflict the enemy with sap ...",
    "activeaoe": 1
  },
  {
@@ -604,9 +604,9 @@ var mondata = {
    "atk": 1763,
    "def": 1943,
    "rec": 1705,
-   "varianttext": "Increases allies' HP by 30~35% in dungeons. ",
-   "normaltext": "Grants a 80% chance to stun the enemy for 1 turn. ",
-   "activetext": "Grants a 40% chance to reduce target's skill gauge by 10% for 1 turns. ",
+   "varianttext": "Increases allies' HP by 30~35% in dungeons.",
+   "normaltext": "Grants a 80% chance to stun the enemy for 1 turn.",
+   "activetext": "Grants a 40% chance to reduce target's skill gauge...",
    "activeaoe": 1
  },
  {
@@ -620,9 +620,9 @@ var mondata = {
    "atk": 1758,
    "def": 1247,
    "rec": 1336,
-   "varianttext": "Increases allies' HP by 30~35% in dungeons. ",
-   "normaltext": "Grants a 60% chance to inflict the enemy with sap damage for 1 turn. ",
-   "activetext": "Grants a 40% chance to stun all enemies for 1 turn. ",
+   "varianttext": "Increases allies' HP by 30~35% in dungeons.",
+   "normaltext": "Grants a 60% chance to inflict the enemy with sap ...",
+   "activetext": "Grants a 40% chance to stun all enemies for 1 turn...",
    "activeaoe": 1
  },
  {
@@ -636,9 +636,9 @@ var mondata = {
    "atk": 3058,
    "def": 2138,
    "rec": 2288,
-   "varianttext": "Increases allies' critical hit damage by 40~45%. ",
-   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turns. ",
-   "activetext": "Grants a 60% chance to reduce all enemies' attack power for 2 turns. ",
+   "varianttext": "Increases allies' critical hit damage by 40~45%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense ...",
+   "activetext": "Grants a 60% chance to reduce all enemies' attack ...",
    "activeaoe": 1
  },
  {
@@ -652,9 +652,9 @@ var mondata = {
    "atk": 2424,
    "def": 3173,
    "rec": 1948,
-   "varianttext": "Increases allies' critical hit damage by 40~45%. ",
-   "normaltext": "Grants a 60% chance to petrify target for 1 turn. Petrified foes cannot act, but have increased defense. ",
-   "activetext": "Grants a 60% chance to petrify all enemies for 1 turn. Petrified foes cannot act, but have increased defense. ",
+   "varianttext": "Increases allies' critical hit damage by 40~45%.",
+   "normaltext": "Grants a 60% chance to petrify target for 1 turn. ...",
+   "activetext": "Grants a 60% chance to petrify all enemies for 1 t...",
    "activeaoe": 1
  },
  {
@@ -668,9 +668,9 @@ var mondata = {
    "atk": 3085,
    "def": 2281,
    "rec": 1628,
-   "varianttext": "Increases allies' critical hit damage by 40~45%. ",
-   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt. ",
-   "activetext": "Attacks greatly restore allies' HP in proportion to the amount of damage dealt. ",
+   "varianttext": "Increases allies' critical hit damage by 40~45%.",
+   "normaltext": "Attacks restore own HP in proportion to the amount...",
+   "activetext": "Attacks greatly restore allies' HP in proportion t...",
    "activeaoe": 1
  },
  {
@@ -684,9 +684,9 @@ var mondata = {
    "atk": 1559,
    "def": 2506,
    "rec": 1818,
-   "varianttext": "Increases allies' HP by 30~35% in clan battles. ",
-   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s). ",
-   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s). ",
+   "varianttext": "Increases allies' HP by 30~35% in clan battles.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense ...",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense ...",
    "activeaoe": 1
  },
  {
@@ -700,9 +700,9 @@ var mondata = {
    "atk": 2663,
    "def": 1457,
    "rec": 1580,
-   "varianttext": "Increases allies' HP by 30~35% in clan battles. ",
-   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s). ",
-   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s). ",
+   "varianttext": "Increases allies' HP by 30~35% in clan battles.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense ...",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense ...",
    "activeaoe": 1
  },
  {
@@ -716,9 +716,9 @@ var mondata = {
    "atk": 2404,
    "def": 1512,
    "rec": 1396,
-   "varianttext": "Increases allies' HP by 20~25%. ",
-   "normaltext": "Increases attack power by 30% when attacking wood Astromons. ",
-   "activetext": "Grants a 80% chance to inflict the enemy with sap damage for 2 turns. ",
+   "varianttext": "Increases allies' HP by 20~25%.",
+   "normaltext": "Increases attack power by 30% when attacking wood ...",
+   "activetext": "Grants a 80% chance to inflict the enemy with sap ...",
    "activeaoe": 0
  },
  {
@@ -732,9 +732,9 @@ var mondata = {
    "atk": 1681,
    "def": 1807,
    "rec": 1596,
-   "varianttext": "Increases allies' HP by 20~25%. ",
-   "normaltext": "Increases attack power by 30% when attacking fire Astromons. ",
-   "activetext": "Grants a 60% chance to stun the enemy for 1 turn. ",
+   "varianttext": "Increases allies' HP by 20~25%.",
+   "normaltext": "Increases attack power by 30% when attacking fire ...",
+   "activetext": "Grants a 60% chance to stun the enemy for 1 turn.",
    "activeaoe": 0
  },
  {
@@ -748,9 +748,9 @@ var mondata = {
    "atk": 1321,
    "def": 2554,
    "rec": 1573,
-   "varianttext": "Increases allies' HP by 20~25%. ",
-   "normaltext": "Increases attack power by 30% when attacking water Astromons. ",
-   "activetext": "Grants a 60% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit. ",
+   "varianttext": "Increases allies' HP by 20~25%.",
+   "normaltext": "Increases attack power by 30% when attacking water...",
+   "activetext": "Grants a 60% chance to put target to sleep for 1 t...",
    "activeaoe": 0
  },
  {
@@ -764,10 +764,10 @@ var mondata = {
    "atk": 2377,
    "def": 1798,
    "rec": 1662,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in dungeons.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.�",
+   "activetext": "Grants a 60% chance to reduce all enemies' defense for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -780,10 +780,10 @@ var mondata = {
    "atk": 2452,
    "def": 1730,
    "rec": 1811,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in dungeons.",
+   "normaltext": "Increases critical hit rate by 20%.",
+   "activetext": "Increases critical hit rate by 20%.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -796,10 +796,10 @@ var mondata = {
    "atk": 1742,
    "def": 1963,
    "rec": 1861,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in dungeons.",
+   "normaltext": "Increases critical hit damage by 50% when attacking water Astromons.",
+   "activetext": "Grants a 60% chance to inflict sap damage on all enemies for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -812,10 +812,10 @@ var mondata = {
    "atk": 1437,
    "def": 2847,
    "rec": 1702,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases attack power of ally fire Astromons by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's attack for 1 turn.�",
+   "activetext": "Grants a 40% chance to put all enemies to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -828,10 +828,10 @@ var mondata = {
    "atk": 2384,
    "def": 1709,
    "rec": 1866,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases attack power of ally water Astromons by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's recovery for 1 turn.�",
+   "activetext": "Grants a 40% chance to petrify all enemies for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -844,10 +844,10 @@ var mondata = {
    "atk": 2424,
    "def": 1628,
    "rec": 1566,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases attack power of ally wood Astromons by 30~35%.",
+   "normaltext": "Grants a 40% chance to stun the enemy for 1 turn.",
+   "activetext": "Grants a 60% chance to inflict sap damage on all enemies for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -860,10 +860,10 @@ var mondata = {
    "atk": 2235,
    "def": 1751,
    "rec": 2385,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases attack power of ally light Astromons by 30~35%.",
+   "normaltext": "Attack power becomes proportional to own max HP.",
+   "activetext": "Attack power becomes proportional to own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -876,10 +876,10 @@ var mondata = {
    "atk": 2812,
    "def": 2365,
    "rec": 1970,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases attack power of ally dark Astromons by 30~35%.",
+   "normaltext": "Grants a 70% chance to reduce the enemy's attack for 2 turns.�",
+   "activetext": "Grants a 70% chance to blind the enemy for 2 turns. Blinded foes' critical hit rate is reduced.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -892,10 +892,10 @@ var mondata = {
    "atk": 1749,
    "def": 1896,
    "rec": 1807,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases critical hit damage by ally light Astromons by 30~35%.",
+   "normaltext": "Grants a 70% chance to reduce the enemy's attack for 2 turns.",
+   "activetext": "Grants a 80% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -908,10 +908,10 @@ var mondata = {
    "atk": 2384,
    "def": 1818,
    "rec": 1600,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases critical hit damage by ally dark Astromons by 30~35%.",
+   "normaltext": "Grants a 70% chance to reduce the enemy's defense for 2 turns.",
+   "activetext": "Increases attack power by 100% when attacking light Astromons.�",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -924,10 +924,10 @@ var mondata = {
    "atk": 2076,
    "def": 2106,
    "rec": 1786,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 13~18%.",
+   "normaltext": "Critical hits have a 100% chance to restore allies' HP by 10%.�",
+   "activetext": "Grants a 60% chance to inflict the target with two types of sap damage for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -940,10 +940,10 @@ var mondata = {
    "atk": 1411,
    "def": 1445,
    "rec": 1281,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 13~18%.",
+   "normaltext": "Grants a 100% chance to dispel enemy shields.",
+   "activetext": "Grants a 60% chance to silence the enemy for 1 turn. Silenced foes cannot use their active skill.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -956,10 +956,10 @@ var mondata = {
    "atk": 1362,
    "def": 1702,
    "rec": 2574,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' blue soul recovery by 10~15%.",
+   "normaltext": "Grants a 60% chance to inflict the enemy with sap damage for 1 turn",
+   "activetext": "Increases allies' attack power for 3 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -972,10 +972,10 @@ var mondata = {
    "atk": 1457,
    "def": 1730,
    "rec": 2492,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' blue soul recovery by 10~15%.",
+   "normaltext": "Grants a 100% chance to dispel enemy shields.",
+   "activetext": "Increases allies' defense for 3 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -988,10 +988,10 @@ var mondata = {
    "atk": 1532,
    "def": 1430,
    "rec": 2574,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' blue soul recovery by 10~15%.",
+   "normaltext": "Grants a 40% chance to taunt the enemy and draw its attention for 1 turn.",
+   "activetext": "Grants a 100% chance to cleanse all allies of all negative effects.�",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -1004,10 +1004,10 @@ var mondata = {
    "atk": 2015,
    "def": 1684,
    "rec": 1664,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45% in the Astromon League.",
+   "normaltext": "Increases critical hit damage by 50% when attacking wood Astromons.",
+   "activetext": "Grants a 80% chance to inflict the target with two types of sap damage for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -1020,10 +1020,10 @@ var mondata = {
    "atk": 2581,
    "def": 1777,
    "rec": 1682,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45% in the Astromon League.",
+   "normaltext": "Increases critical hit rate by 20% when attacking fire Astromons.�",
+   "activetext": "Grants a 60% chance to stun all enemies for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -1036,10 +1036,10 @@ var mondata = {
    "atk": 2486,
    "def": 1784,
    "rec": 1226,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45% in the Astromon League.",
+   "normaltext": "Increases critical hit rate by 20% when attacking water Astromons.",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1052,10 +1052,10 @@ var mondata = {
    "atk": 2159,
    "def": 1989,
    "rec": 3323,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's attack for 1 turn.�",
+   "activetext": "Increases allies' attack power for 3 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1068,10 +1068,10 @@ var mondata = {
    "atk": 2036,
    "def": 2452,
    "rec": 3003,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce target's skill gauge by 10% for 1 turn.",
+   "activetext": "Grants a 100% chance to cleanse all allies of all negative effects.�",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1084,10 +1084,10 @@ var mondata = {
    "atk": 2179,
    "def": 1989,
    "rec": 3099,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Converts red souls dropped from own attacks to blue souls.",
+   "activetext": "Grants a shield to allies for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1100,10 +1100,10 @@ var mondata = {
    "atk": 2118,
    "def": 2009,
    "rec": 3194,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Attack power becomes proportional to own max recovery.",
+   "activetext": "Restores a large amount of allies' SP for 3 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1116,10 +1116,10 @@ var mondata = {
    "atk": 1806,
    "def": 2323,
    "rec": 2153,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Attack power becomes proportional to own max HP.",
+   "activetext": "Grants a shield to allies proportional to own max HP for 3 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1132,10 +1132,10 @@ var mondata = {
    "atk": 2036,
    "def": 2452,
    "rec": 2996,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 20~25%.",
+   "normaltext": "Critical hits have a 100% chance to restore allies' SP by 10%.",
+   "activetext": "Grants a shield to allies proportional to own max level for 3 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1148,10 +1148,10 @@ var mondata = {
    "atk": 2323,
    "def": 1840,
    "rec": 1928,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 20~25%.",
+   "normaltext": "Grants a 100% chance to restore 20% of own SP when attacking.�",
+   "activetext": "Increases allies' attack power for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1164,10 +1164,10 @@ var mondata = {
    "atk": 1962,
    "def": 2316,
    "rec": 2194,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 20~25%.",
+   "normaltext": "Grants a 100% chance to restore 20% of own HP when attacking.�",
+   "activetext": "Applies a Resilience buff to allies for 2 turns. With this buff, allies will gain SP proportional to the amount of damage they take.�",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1180,10 +1180,10 @@ var mondata = {
    "atk": 2281,
    "def": 3194,
    "rec": 2050,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 20~25%.",
+   "normaltext": "Grants a 60% chance to shock target for 2 turns. Shocked foes cannot act and have reduced defense.",
+   "activetext": "Applies a Dominance buff to allies for 2 turns. With this buff, allies will reduce the enemy's SP proportional to the amount of damage they deal.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1196,10 +1196,10 @@ var mondata = {
    "atk": 2532,
    "def": 2345,
    "rec": 2100,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 20~25%.",
+   "normaltext": "Grants a 100% chance to restore 10% of allies' SP when attacking.�",
+   "activetext": "Applies an SP Siphon buff to allies for 2 turns. With this buff, allies will recover SP proportional to the amount of damage they deal.�",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -1212,10 +1212,10 @@ var mondata = {
    "atk": 2267,
    "def": 2106,
    "rec": 1691,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35% in Chaos Tower.",
+   "normaltext": "Grants a 100% chance to reduce the enemy's recovery for 2 turns.�",
+   "activetext": "Grants a 100% chance to petrify target for 1 turn.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -1228,10 +1228,10 @@ var mondata = {
    "atk": 1730,
    "def": 2697,
    "rec": 1648,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35% in Chaos Tower.",
+   "normaltext": "Grants a 100% chance to reduce the enemy's attack for 2 turns.�",
+   "activetext": "Grants a 80% chance to inflict the target with two types of sap damage for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -1244,10 +1244,10 @@ var mondata = {
    "atk": 2588,
    "def": 1737,
    "rec": 1566,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35% in Chaos Tower.",
+   "normaltext": "Grants a 100% chance to reduce the enemy's defense for 2 turns.�",
+   "activetext": "Grants a 100% chance to reduce the enemy's blue soul recovery for 3 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1260,10 +1260,10 @@ var mondata = {
    "atk": 2221,
    "def": 2391,
    "rec": 1881,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35% in Chaos Tower.",
+   "normaltext": "Grants a 100% chance to inflict the enemy with sap damage for 2 turns.",
+   "activetext": "Attack power becomes proportional to own max HP.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1276,10 +1276,10 @@ var mondata = {
    "atk": 3255,
    "def": 2363,
    "rec": 1948,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35% in Chaos Tower.",
+   "normaltext": "Grants a 100% chance to restore 30% of own SP when attacking.�",
+   "activetext": "Increases critical hit damage by 50%.",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -1292,10 +1292,10 @@ var mondata = {
    "atk": 2247,
    "def": 3609,
    "rec": 1968,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 20~25% in clan battles.",
+   "normaltext": "Grants a 100% chance to seal the enemy for 2 turns.",
+   "activetext": "Grants a 70% chance to stun the enemy for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -1308,10 +1308,10 @@ var mondata = {
    "atk": 3643,
    "def": 2901,
    "rec": 2213,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 20~25% in clan battles.",
+   "normaltext": "Grants a 80% chance to reduce the enemy's defense for 2 turns",
+   "activetext": "Attacks against any enemy are treated as that enemy's elemental weakness.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -1324,10 +1324,10 @@ var mondata = {
    "atk": 2948,
    "def": 2787,
    "rec": 2181,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 20~25% in clan battles.",
+   "normaltext": "Grants a 100% chance to restore 20% of own HP when attacking.",
+   "activetext": "Grants additional attack power proportional to the target's maximum HP.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -1340,10 +1340,10 @@ var mondata = {
    "atk": 3616,
    "def": 2670,
    "rec": 2091,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 20~25% in clan battles.",
+   "normaltext": "Grants a 80% chance to shock targer for 2 turns. Shocked foes cannot act and have reduced defense.",
+   "activetext": "Increases damage dealt by 40%.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -1356,10 +1356,10 @@ var mondata = {
    "atk": 3207,
    "def": 2658,
    "rec": 2365,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 20~25% in clan battles.",
+   "normaltext": "Attacks against an enemy are treated as that enemy's elemental weakness.",
+   "activetext": "Grants a 100% chance to blind the enemy for 2 turns. Blinded foes' critical hit rate is reduced.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -1372,10 +1372,10 @@ var mondata = {
    "atk": 1777,
    "def": 2615,
    "rec": 1403,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20% in Chaos Tower.",
+   "normaltext": "Attacks greatly restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Attacks restore allies' HP in proportion to the amount of damage dealt.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1388,10 +1388,10 @@ var mondata = {
    "atk": 2221,
    "def": 2432,
    "rec": 1853,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20% in Chaos Tower.",
+   "normaltext": "Attacks restore allies' HP in an amount equal to 5% of own max HP.",
+   "activetext": "Grants a 60% chance to reduce the enemy's attack for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1404,10 +1404,10 @@ var mondata = {
    "atk": 2362,
    "def": 2481,
    "rec": 2352,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20% in Chaos Tower.",
+   "normaltext": "Critical hits siphon 20% of the enemy's SP.",
+   "activetext": "Critical hits have a 100% chance to put the enemy to sleep for 1 turn(s). Sleeping foes wake upon being hit.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -1420,10 +1420,10 @@ var mondata = {
    "atk": 1554,
    "def": 1758,
    "rec": 1329,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 20~25%.",
+   "normaltext": "Critical hits have a 100% chance to stun the enemy for 1 turn.�",
+   "activetext": "Critical hits have a 100% chance to put the enemy to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -1436,10 +1436,10 @@ var mondata = {
    "atk": 2343,
    "def": 1566,
    "rec": 1403,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 20~25%.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's attack for 1 turn.�",
+   "activetext": "Grants a 40% chance to inflict sap damage on all enemies for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -1452,10 +1452,10 @@ var mondata = {
    "atk": 2343,
    "def": 1696,
    "rec": 1566,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies� resistance by 10~15%.",
+   "normaltext": "Grants a 60% chance to inflict the enemy with sap damage for 2 turn.",
+   "activetext": "Grants a 60% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1468,10 +1468,10 @@ var mondata = {
    "atk": 2036,
    "def": 2431,
    "rec": 2881,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 30~35%.",
+   "normaltext": "Grants a 40% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activetext": "Applies an SP Siphon buff to allies for 3 turns. With this buff, allies will recover SP proportional to the amount of damage they deal.�",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1484,10 +1484,10 @@ var mondata = {
    "atk": 2125,
    "def": 1954,
    "rec": 3310,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 30~35%.",
+   "normaltext": "Grants a 60% chance to inflict the enemy with sap damage for 1 turn.",
+   "activetext": "Applies a Resilience buff to allies for 3 turns. With this buff, allies will gain SP proportional to the amount of damage they take.�",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1500,10 +1500,10 @@ var mondata = {
    "atk": 2138,
    "def": 1989,
    "rec": 3364,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's attack for 1 turn.�",
+   "activetext": "Increases allies' defense for 3 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1516,10 +1516,10 @@ var mondata = {
    "atk": 1976,
    "def": 1996,
    "rec": 2357,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 30~35%.",
+   "normaltext": "Attack power becomes proportional to own max HP.",
+   "activetext": "Grants a shield to allies proportional to own max HP for 3 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1532,10 +1532,10 @@ var mondata = {
    "atk": 2125,
    "def": 1982,
    "rec": 3058,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 30~35%.",
+   "normaltext": "Converts blue souls dropped from own attacks to red souls.",
+   "activetext": "Grants a shield to allies proportional to own max level for 3 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1548,10 +1548,10 @@ var mondata = {
    "atk": 2343,
    "def": 3139,
    "rec": 1750,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore 20% of own SP when attacking.�",
+   "activetext": "Grants a 80% chance to taunt the enemy and draw its attention for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -1564,10 +1564,10 @@ var mondata = {
    "atk": 2595,
    "def": 1573,
    "rec": 1737,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in the Astromon League.",
+   "normaltext": "Critical hits have a 100% chance to restore own SP by 40%.",
+   "activetext": "Critical hits have a 80% chance to stun the enemy for 2 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -1580,10 +1580,10 @@ var mondata = {
    "atk": 1960,
    "def": 1684,
    "rec": 1664,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in the Astromon League.",
+   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -1596,10 +1596,10 @@ var mondata = {
    "atk": 1539,
    "def": 2554,
    "rec": 1832,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in the Astromon League.",
+   "normaltext": "Grants a 100% chance to restore 30% of own SP when attacking.�",
+   "activetext": "Grants a 50% chance to inflict the target with three types of sap damage for 1 turn.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1612,10 +1612,10 @@ var mondata = {
    "atk": 3064,
    "def": 1873,
    "rec": 2070,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in the Astromon League.",
+   "normaltext": "Grants a 50% chance to shock target for 2 turns. Shocked foes cannot act and have reduced defense.",
+   "activetext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -1628,10 +1628,10 @@ var mondata = {
    "atk": 2309,
    "def": 3139,
    "rec": 1832,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in the Astromon League.",
+   "normaltext": "Grants a 70% chance to stun the enemy for 1 turn.",
+   "activetext": "Grants a 70% chance to inflict the target with two types of sap damage for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -1644,10 +1644,10 @@ var mondata = {
    "atk": 3650,
    "def": 2288,
    "rec": 2329,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 40~45% in clan battles.",
+   "normaltext": "Attacks against any enemy are treated as that enemy's elemental weakness.",
+   "activetext": "Grants a 70% chance to seal the enemy for 2 turns. Sealed foes' passive skills do not activate.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -1660,10 +1660,10 @@ var mondata = {
    "atk": 3043,
    "def": 3033,
    "rec": 2876,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 40~45% in clan battles.",
+   "normaltext": "Grants an 80% chance to reduce the enemy's attack for 3 turns.",
+   "activetext": "Grants additional attack power proportional to the target's maximum HP.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -1676,10 +1676,10 @@ var mondata = {
    "atk": 2846,
    "def": 2910,
    "rec": 1929,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 40~45% in clan battles.",
+   "normaltext": "Grants a 100% chance to stun the enemy for 1 turn.",
+   "activetext": "Grants an 80% chance to reduce target's skill gauge by 30% for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -1692,10 +1692,10 @@ var mondata = {
    "atk": 3977,
    "def": 2479,
    "rec": 2240,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 40~45% in clan battles.",
+   "normaltext": "Attacks against any enemy are treated as that enemy's elemental weakness.",
+   "activetext": "Increases critical hit damage by 50%",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -1708,10 +1708,10 @@ var mondata = {
    "atk": 3677,
    "def": 2554,
    "rec": 2295,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 40~45% in clan battles.",
+   "normaltext": "Grants additional attack power proportional to the target's maximum HP.",
+   "activetext": "Grants additional attack power proportional to the target's maximum HP.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1724,10 +1724,10 @@ var mondata = {
    "atk": 3173,
    "def": 2281,
    "rec": 2084,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 20~25%.",
+   "normaltext": "Critical hits have a 100% chance to restore own SP by 30%.",
+   "activetext": "Increases critical hit damage by 50%.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1740,10 +1740,10 @@ var mondata = {
    "atk": 1813,
    "def": 2316,
    "rec": 2133,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 20~25%.",
+   "normaltext": "Attacks restore allies' HP in an amount equal to 5% of own max HP.",
+   "activetext": "Grants a 50% chance to inflict the target with two types of sap damage for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1756,10 +1756,10 @@ var mondata = {
    "atk": 2194,
    "def": 1853,
    "rec": 2058,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Grants a 80% chance to reduce target's skill gauge by 10% for 1 turn.",
+   "activetext": "Converts blue souls dropped from own attack to red souls.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1772,10 +1772,10 @@ var mondata = {
    "atk": 2220,
    "def": 3126,
    "rec": 2023,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Grants a 100% chance to put the enemy to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activetext": "Grants a 60% chance to stun all enemies for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1788,10 +1788,10 @@ var mondata = {
    "atk": 3194,
    "def": 2091,
    "rec": 1920,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Increases critical hit rate by 20%.",
+   "activetext": "Increases critical hit rate by 20%.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1804,10 +1804,10 @@ var mondata = {
    "atk": 2085,
    "def": 1676,
    "rec": 1874,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Attack power becomes proportional to own max HP.",
+   "activetext": "Attack power becomes proportional to own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1820,10 +1820,10 @@ var mondata = {
    "atk": 2002,
    "def": 3153,
    "rec": 2295,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore 30% of own SP when attacking.�",
+   "activetext": "Grants a 60% chance to silence the enemy for 2 turns. Silenced foes cannot use their active skill.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -1836,10 +1836,10 @@ var mondata = {
    "atk": 2615,
    "def": 1784,
    "rec": 1267,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35% in Chaos Tower.",
+   "normaltext": "Attacks restore own HP in propotion to the amount of damage dealt.",
+   "activetext": "Grants a 40% chance to petrify all enemies for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -1852,10 +1852,10 @@ var mondata = {
    "atk": 1717,
    "def": 1915,
    "rec": 1465,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35% in Chaos Tower.",
+   "normaltext": "Granst a 100% chance to dispel enemy sheilds.",
+   "activetext": "Attacks restore allies' HP in an amount equal to 5% of own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -1868,10 +1868,10 @@ var mondata = {
    "atk": 1763,
    "def": 1929,
    "rec": 1752,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35% in Chaos Tower.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's attack for 1 turn.�",
+   "activetext": "Grants a 60% chance to reduce all enemies' recovery for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1884,10 +1884,10 @@ var mondata = {
    "atk": 3405,
    "def": 2077,
    "rec": 1914,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35% in Chaos Tower.",
+   "normaltext": "Critical hits have a 100% chance to seal the enemy for 2 turns. Sealed foes' passive skills do not activate.",
+   "activetext": "Critical hits lower the enemy's defense for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1900,10 +1900,10 @@ var mondata = {
    "atk": 2267,
    "def": 2311,
    "rec": 2134,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35% in Chaos Tower.",
+   "normaltext": "Attacks restore allies' HP in an amount equal to 5% of own max HP.",
+   "activetext": "Attack power becomes proportional to own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1916,10 +1916,10 @@ var mondata = {
    "atk": 3221,
    "def": 2193,
    "rec": 1982,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20%.",
+   "normaltext": "Attacks greatly restore own SP in proportion to the amount of damage dealt.",
+   "activetext": "Increases damage dealt by 40%.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1932,10 +1932,10 @@ var mondata = {
    "atk": 2322,
    "def": 2595,
    "rec": 2206,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20%.",
+   "normaltext": "Grants a 100% chance to restore 10% of allies' SP when attacking.�",
+   "activetext": "Grants a 60% chance to petrify target for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1948,10 +1948,10 @@ var mondata = {
    "atk": 3018,
    "def": 1976,
    "rec": 1996,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20%.",
+   "normaltext": "Grants a 80% chance to reduce the enemy's attack for 1 turn.�",
+   "activetext": "Grants a 60% chance to inflict the target with two types of sap damage for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1964,10 +1964,10 @@ var mondata = {
    "atk": 2404,
    "def": 2990,
    "rec": 2077,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20%.",
+   "normaltext": "Grants a 100% chance to restore 10% of own HP when attacking.�",
+   "activetext": "Increases critical hit damage by 50%.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -1980,10 +1980,10 @@ var mondata = {
    "atk": 2294,
    "def": 1889,
    "rec": 2140,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20%.",
+   "normaltext": "Grants a 80% chance to petrify target for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activetext": "Grants a 80% chance to silence the enemy for 1 turn. Silenced foes cannot use their active skill.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -1996,10 +1996,10 @@ var mondata = {
    "atk": 1321,
    "def": 2527,
    "rec": 1573,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 10~15%.",
+   "normaltext": "Grants a 100% chance to reduce the enemy's attack for 1 turn.�",
+   "activetext": "Grants a 60% chance to reduce all enemies' defense for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -2012,10 +2012,10 @@ var mondata = {
    "atk": 2302,
    "def": 1471,
    "rec": 1641,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 10~15%.",
+   "normaltext": "Increases critical hit rate by 20% when attacking dark Astromons.�",
+   "activetext": "Grants a 40% chance to petrify all enemies for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2028,10 +2028,10 @@ var mondata = {
    "atk": 2622,
    "def": 1532,
    "rec": 1600,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35% in the�Astromon League.",
+   "normaltext": "Grants a 40% chance to stun the enemy for 1 turn.",
+   "activetext": "Grants a 60% chance to reduce all enemies' recovery for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2044,10 +2044,10 @@ var mondata = {
    "atk": 1574,
    "def": 1506,
    "rec": 1887,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35% in the�Astromon League.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.",
+   "activetext": "Grants a 60% chance to reduce all enemies' attack power for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -2060,10 +2060,10 @@ var mondata = {
    "atk": 1620,
    "def": 1766,
    "rec": 1623,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35% in the�Astromon League.",
+   "normaltext": "Grants a 40% chance to inflict the enemy with sap damage for 1 turn.",
+   "activetext": "Grants a 60% chance to reduce all enemies' blue soul recovery for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2076,10 +2076,10 @@ var mondata = {
    "atk": 3173,
    "def": 2281,
    "rec": 1641,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' Hp by 30~35%.",
+   "normaltext": "Increases critical hit damage by 50%.",
+   "activetext": "Increases critical hit damage by 50%.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2092,10 +2092,10 @@ var mondata = {
    "atk": 2364,
    "def": 1813,
    "rec": 1922,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' Hp by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's recovery for 1 turn.",
+   "activetext": "Grants a 60% chance to reduce all enemies' blue soul recovery for 2 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2108,10 +2108,10 @@ var mondata = {
    "atk": 2363,
    "def": 3139,
    "rec": 1880,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' Hp by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.",
+   "activetext": "Grants a 60% chance to reduce the enemy's attack power for 2 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2124,10 +2124,10 @@ var mondata = {
    "atk": 3139,
    "def": 2261,
    "rec": 2118,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' Hp by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore 30% of own SP when attacking.",
+   "activetext": "Grants a 40% chance to stun all enemies for 2 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2140,10 +2140,10 @@ var mondata = {
    "atk": 3276,
    "def": 2002,
    "rec": 2070,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' Hp by 30~35%.",
+   "normaltext": "Grants a 80% chance to reduce the enemy's attack for 2 turns.",
+   "activetext": "Grants a 60% chance to silence the enemy for 2 turns. Silenced foes cannot cannot use their active skill.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2156,10 +2156,10 @@ var mondata = {
    "atk": 2253,
    "def": 2229,
    "rec": 2066,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 80% chance to inflict the enemy with sap damage for 2 turns.",
+   "activetext": "Grants a 60% chance to inflict the target with two types of sap damage for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2172,10 +2172,10 @@ var mondata = {
    "atk": 3139,
    "def": 1880,
    "rec": 2036,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Increases critical hit damage by 50%",
+   "activetext": "Critical hits have a 100% chance to reduce target's skill gauge by 30% for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2188,10 +2188,10 @@ var mondata = {
    "atk": 2418,
    "def": 3391,
    "rec": 1900,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 70% chance to reduce the enemy's defense for 2 turns.",
+   "activetext": "Grants a 70% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2204,10 +2204,10 @@ var mondata = {
    "atk": 2430,
    "def": 2474,
    "rec": 2365,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 70% chance to reduce the enemy's attack for 1 turn.",
+   "activetext": "Grants a 70% chance to reduce the enemy's defense for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2220,10 +2220,10 @@ var mondata = {
    "atk": 2180,
    "def": 2405,
    "rec": 1853,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 70% chance to seal the enemy for 2 turns. Sealed foes' passive skills do not activate.",
+   "activetext": "Attack power becomes proportional to own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -2236,10 +2236,10 @@ var mondata = {
    "atk": 1648,
    "def": 1682,
    "rec": 2315,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 20~25%.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's defense for 2 turns.",
+   "activetext": "Increases allies' recovery for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -2252,10 +2252,10 @@ var mondata = {
    "atk": 1743,
    "def": 2384,
    "rec": 1301,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 20~25%.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's recovery for 1 turn.",
+   "activetext": "Increases allies' attack power for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -2268,10 +2268,10 @@ var mondata = {
    "atk": 1410,
    "def": 1832,
    "rec": 2288,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 20~25%.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's attack for 1 turn.",
+   "activetext": "Increases allies' blue soul gain for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -2284,10 +2284,10 @@ var mondata = {
    "atk": 1913,
    "def": 2168,
    "rec": 1977,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases HP of ally fire Astromons by 30~35%.",
+   "normaltext": "Grants a 60% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activetext": "Grants a 60% chance to reduce target's skill gauge by 10% for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2300,10 +2300,10 @@ var mondata = {
    "atk": 2622,
    "def": 1512,
    "rec": 1580,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases HP of ally water Astromons by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce the enmey's blue soul recovery for 1 turn.",
+   "activetext": "Grants a 60% chance to reduce all enemies' recovery for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2316,10 +2316,10 @@ var mondata = {
    "atk": 1430,
    "def": 2833,
    "rec": 1702,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases HP of ally wood Astromons by 30~35%.",
+   "normaltext": "Grants a 60% chance to inflict the enemy with sap damage for 1 turn.",
+   "activetext": "Grants a 40% chance to put all enemies to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2332,10 +2332,10 @@ var mondata = {
    "atk": 1907,
    "def": 3439,
    "rec": 2159,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases HP of ally light Astromons by 30~35%.",
+   "normaltext": "Grants a 60% chance to taunt the enemy and draw its attention for 1 turn.",
+   "activetext": "Grants a 60% chance to inflict sap damage on all enemies for 3 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2348,10 +2348,10 @@ var mondata = {
    "atk": 3187,
    "def": 1880,
    "rec": 2036,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases HP of ally dark Astromons by 30~35%.",
+   "normaltext": "Increases critical hit damage by 50%.",
+   "activetext": "Increases critical hit damage by 50%.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -2364,10 +2364,10 @@ var mondata = {
    "atk": 2527,
    "def": 1403,
    "rec": 1478,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 20~25%.",
+   "normaltext": "Grants a 70% chance to reduce the enemy's attack for 2 turn(s).",
+   "activetext": "Grants a 80% chance to reduce the enemy's overall HP recovery for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -2380,10 +2380,10 @@ var mondata = {
    "atk": 1710,
    "def": 1206,
    "rec": 1343,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 20~25%.",
+   "normaltext": "Grants a 60% chance to put target to sleep for 1 turn(s). Sleeping foes wake upon being hit.",
+   "activetext": "Grants a 80% chance to cause fatigue in the enemy for 2 turn(s). Fatigued foes gain nothing from blue souls.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -2396,10 +2396,58 @@ var mondata = {
    "atk": 1933,
    "def": 1895,
    "rec": 1691,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 20~25%.",
+   "normaltext": "Grants a 60% chance to petrify target for 1 turn(s). Petrified foes cannot act, but have increased defense.",
+   "activetext": "Grants a 80% chance to inflict the enemy with sap damage for 2 turn(s).",
+   "activeaoe": 1
+ },
+ {
+   "grade": 4,
+   "name": "Mari",
+   "element": "A",
+   "variant": "Firm Resolve",
+   "normal": "Adrenaline",
+   "active": "Attack Down",
+   "hp": 26937,
+   "atk": 2521,
+   "def": 2473,
+   "rec": 2432,
+   "varianttext": "Increases allies' resistance by 15~20%",
+   "normaltext": "Attacks restore allies' HP in an amount equal to 10% of own max HP.",
+   "activetext": "Grants a 70% chance to reduce the enemy's attack for 1 turn(s).",
+   "activeaoe": 1
+ },
+ {
+   "grade": 4,
+   "name": "Mari",
+   "element": "L",
+   "variant": "Firm Resolve",
+   "normal": "Aggression (Defense)",
+   "active": "Aggression (Defense)",
+   "hp": 26396,
+   "atk": 2009,
+   "def": 3405,
+   "rec": 2411,
+   "varianttext": "Increases allies' resistance by 15~20%",
+   "normaltext": "Attack power becomes proportional to own max defense.",
+   "activetext": "Attack power becomes proportional to own max defense.",
+   "activeaoe": 1
+ },
+ {
+   "grade": 4,
+   "name": "Mari",
+   "element": "D",
+   "variant": "Firm Resolve",
+   "normal": "Battle Rush",
+   "active": "Predator",
+   "hp": 29549,
+   "atk": 3092,
+   "def": 2118,
+   "rec": 2009,
+   "varianttext": "Increases allies' resistance by 15~20%",
+   "normaltext": "Attacks restore 20% of own HP and SP.",
+   "activetext": "Increases damage dealt by 30%.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2412,10 +2460,10 @@ var mondata = {
    "atk": 1642,
    "def": 1942,
    "rec": 1336,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases blue soul recovery of ally Fire Astromons by 20~25%.",
+   "normaltext": "Grants a 60% chance to petrify target for 1 turn(s). Petrified foes cannot act, but have increased defense.",
+   "activetext": "Grants a 60% chance to petrify target for 1 turn(s). Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2428,10 +2476,10 @@ var mondata = {
    "atk": 2049,
    "def": 2025,
    "rec": 1225,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases blue soul recovery of ally Water Astromons by 20~25%.",
+   "normaltext": "Grants a 80% chance to put target to sleep for 1 turn(s). Sleeping foes wake upon being hit.",
+   "activetext": "Grants a 60% chance to reduce target's skill gauge by 10% for 1 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2444,10 +2492,10 @@ var mondata = {
    "atk": 1580,
    "def": 2472,
    "rec": 1811,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases blue soul recovery of ally Wood Astromons by 20~25%.",
+   "normaltext": "Grants a 60% chance to inflict the enemy with sap damage for 3 turn(s).",
+   "activetext": "Grants a 60% chance to blind the enemy for 1 turn(s). Blinded foes' critical hit rate and damage are reduced.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2460,10 +2508,10 @@ var mondata = {
    "atk": 2956,
    "def": 2288,
    "rec": 2043,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases blue soul recovery of ally Light Astromons by 20~25%.",
+   "normaltext": "Critical hits have a 100% chance to stun the enemy for 1 turn(s).",
+   "activetext": "Critical hits against any enemy are treated as that enemy's elemental weakness.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2476,10 +2524,10 @@ var mondata = {
    "atk": 1942,
    "def": 2432,
    "rec": 2010,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases blue soul recovery of ally Dark Astromons by 20~25%.",
+   "normaltext": "Grants a 70% chance to blind the enemy for 2 turn(s). Blinded foes' critical hit rate and damage are reduced.",
+   "activetext": "Grants a 80% chance to reduce the enemy's attack for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2492,10 +2540,10 @@ var mondata = {
    "atk": 3187,
    "def": 2261,
    "rec": 1641,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Increases critical hit rate by 30%.",
+   "activetext": "Attacks greatly restore own HP in proportion to the amount of damage dealt.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2508,10 +2556,10 @@ var mondata = {
    "atk": 2812,
    "def": 2828,
    "rec": 2658,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Grants a 60% chance to seal the enemy for 2 turn(s). Sealed foes' passive skills do not activate.",
+   "activetext": "Grants a 70% chance to reduce the enemy's defense for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2524,10 +2572,10 @@ var mondata = {
    "atk": 2228,
    "def": 1881,
    "rec": 2051,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Grants a 80% chance to cause fatigue in the enemy for 3 turn(s). Fatigued foes gain nothing from blue souls.",
+   "activetext": "Grants a 80% chance to reduce target's skill gauge by 30% for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2540,10 +2588,10 @@ var mondata = {
    "atk": 2043,
    "def": 2962,
    "rec": 2322,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Attack power becomes proportional to own max defense.",
+   "activetext": "Grants a 60% chance to seal the enemy for 2 turn(s). Sealed foes' passive skills do not activate.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2556,10 +2604,10 @@ var mondata = {
    "atk": 1853,
    "def": 2303,
    "rec": 2187,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Grants a 80% chance to reduce the enemy's overall HP recovery for 2 turn(s).",
+   "activetext": "Grants a 100% chance to put the target to sleep for 1 turn(s). Sleeping foes wake upon being hit.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2572,10 +2620,10 @@ var mondata = {
    "atk": 2180,
    "def": 1806,
    "rec": 1397,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's attack for 2 turn.�",
+   "activetext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2588,10 +2636,10 @@ var mondata = {
    "atk": 2096,
    "def": 2072,
    "rec": 1827,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%.",
+   "normaltext": "Grants a 100% chance to inflict the enemy with sap damage for 2 turn(s).",
+   "activetext": "Grants a 60% chance to inflict the enemy with sap damage for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2604,10 +2652,10 @@ var mondata = {
    "atk": 2676,
    "def": 1798,
    "rec": 1900,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.�",
+   "activetext": "Grants a 60% chance to stun all enemies for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2620,10 +2668,10 @@ var mondata = {
    "atk": 2023,
    "def": 3085,
    "rec": 2329,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%.",
+   "normaltext": "Grants a 60% chance to taunt the enemy and draws its attention for 1 turn.",
+   "activetext": "Grants a 60% chance to reduce all enemies' attack power for 3 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2636,10 +2684,10 @@ var mondata = {
    "atk": 1806,
    "def": 2303,
    "rec": 2167,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%.",
+   "normaltext": "Attack power becomes proportional to own max HP.",
+   "activetext": "Attack power becomes proportional to own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 1,
@@ -2652,10 +2700,10 @@ var mondata = {
    "atk": 2206,
    "def": 1607,
    "rec": 1559,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 20~25% in dungeons.",
+   "normaltext": "Grants a 20% chance to taunt the enemy and draw its attention for 1 turn.",
+   "activetext": "Grants a 60% chance to taunt the enemy and draw its attention for 1 turn.",
+   "activeaoe": 0
  },
  {
    "grade": 1,
@@ -2668,10 +2716,10 @@ var mondata = {
    "atk": 1193,
    "def": 1792,
    "rec": 1343,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 20~25% in dungeons.",
+   "normaltext": "Grants a 40% chance to inflict the enemy with sap damage for 1 turn",
+   "activetext": "Grants a 60% chance to inflict the enemy with sap damage for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 1,
@@ -2684,10 +2732,10 @@ var mondata = {
    "atk": 1668,
    "def": 2404,
    "rec": 1273,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 20~25% in dungeons.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's attack for 1 turn.�",
+   "activetext": "Grants a 60% chance to reduce the enemy's attack for 2 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 1,
@@ -2700,10 +2748,10 @@ var mondata = {
    "atk": 1403,
    "def": 1662,
    "rec": 2343,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 20~25% in dungeons.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's recovery for 1 turn.�",
+   "activetext": "Grants a 60% chance to reduce the enemy's recovery for 2 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 1,
@@ -2716,10 +2764,10 @@ var mondata = {
    "atk": 1831,
    "def": 1664,
    "rec": 1534,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 20~25% in dungeons.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's blue soul recovery for 1 turn.",
+   "activetext": "Grants a 60% chance to reduce the enemy's blue soul recovery for 2 turns",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -2732,10 +2780,10 @@ var mondata = {
    "atk": 1744,
    "def": 1452,
    "rec": 1642,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 30~35% in Chaos Tower.",
+   "normaltext": "Grants a 60% chance to inflict the target with two types of sap damage for 1 turn.",
+   "activetext": "Grants a 100% chance to cleanse all allies of all negative effects.�",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -2748,10 +2796,10 @@ var mondata = {
    "atk": 1648,
    "def": 1525,
    "rec": 2595,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 30~35% in Chaos Tower.",
+   "normaltext": "Grants a 100% chance to restore 20% of own SP when attacking.",
+   "activetext": "Grants a shield to allies for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -2764,10 +2812,10 @@ var mondata = {
    "atk": 1818,
    "def": 1668,
    "rec": 2663,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 30~35% in Chaos Tower.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's recovery for 1 turn.�",
+   "activetext": "Increases allies' attack power for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -2780,10 +2828,10 @@ var mondata = {
    "atk": 1709,
    "def": 2486,
    "rec": 1192,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 10~15%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's attack for 2 turn.�",
+   "activetext": "Grants a 60% chance to inflict the enemy with sap damage for 1 turn.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -2796,10 +2844,10 @@ var mondata = {
    "atk": 1622,
    "def": 1329,
    "rec": 1506,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 10~15%.",
+   "normaltext": "Grants a 40% chance to stun the enemy for 1 turn",
+   "activetext": "Grants a 80% chance to taunt the enemy and draw its attention for 1 turn.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -2812,10 +2860,10 @@ var mondata = {
    "atk": 1831,
    "def": 1637,
    "rec": 1596,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 10~15%.",
+   "normaltext": "Grants a 60% chance to inflict the target with two types of sap damage for 1 turn.",
+   "activetext": "Grants a 80% chance to inflict the enemy with sap damage with 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -2828,10 +2876,10 @@ var mondata = {
    "atk": 1431,
    "def": 1418,
    "rec": 1281,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases attack power of ally fire Astromons by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's recovery for 1 turn.",
+   "activetext": "Grants a 60% chance to reduce all enemies' blue soul recovery for 2 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2844,10 +2892,10 @@ var mondata = {
    "atk": 2615,
    "def": 1839,
    "rec": 1498,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases attack power of ally water Astromons by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore 20% of own SP when attacking.",
+   "activetext": "Grants a 50% chance to reduce all enemies' defense for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2860,10 +2908,10 @@ var mondata = {
    "atk": 1491,
    "def": 2554,
    "rec": 1839,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases attack power of ally wood Astromons by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore 20% of own HP when attacking.",
+   "activetext": "Grants a 80% chance to taunt the enemy and draw its attention for 1 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2876,10 +2924,10 @@ var mondata = {
    "atk": 2607,
    "def": 2474,
    "rec": 1630,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases attack power of ally light Astromons by 30~35%.",
+   "normaltext": "Critical hits have a 100% chance to restore own HP by 30%.",
+   "activetext": "Attack power becomes proportional to own max defense.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -2892,10 +2940,10 @@ var mondata = {
    "atk": 3228,
    "def": 1954,
    "rec": 2077,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases attack power of ally dark Astromons by 30~35%.",
+   "normaltext": "Critical hits have a 100% chance to restore own SP by 30%.",
+   "activetext": "Increases critical hit damage by 30%.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -2908,10 +2956,10 @@ var mondata = {
    "atk": 2867,
    "def": 1914,
    "rec": 1382,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 25~30%.",
+   "normaltext": "Critical hits have a 100% chance to put the enemy to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activetext": "Critical hits have a 100% chance to put the enemy to sleep for 2 turns. Sleeping foes wake upon being hit.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -2924,10 +2972,10 @@ var mondata = {
    "atk": 1852,
    "def": 2588,
    "rec": 1328,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 25~30%.",
+   "normaltext": "Grants a 80% chance to reduce the enemy's defense for 2 turns.�",
+   "activetext": "Grants a 80% chance to reduce target's skill gauge by 10% for 1 turn.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -2940,10 +2988,10 @@ var mondata = {
    "atk": 1892,
    "def": 1963,
    "rec": 1725,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 25~30%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's recovery for 1 turn.�",
+   "activetext": "Grants a 100% chance to stun the enemy for 1 turn.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -2956,10 +3004,10 @@ var mondata = {
    "atk": 2662,
    "def": 2658,
    "rec": 2488,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 25~30%.",
+   "normaltext": "Increases critical hit damage by 40%",
+   "activetext": "Critical hits have a 100% chance to blind the enemy for 3 turn(s). Blinded foes' critical hit rate is reduced.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -2972,10 +3020,10 @@ var mondata = {
    "atk": 1941,
    "def": 3167,
    "rec": 2309,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 25~30%.",
+   "normaltext": "Attack power becomes proportional to own max defense.",
+   "activetext": "Grants a 100% chance to reduce the enemy's defense for 2 turn(s).",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -2988,10 +3036,10 @@ var mondata = {
    "atk": 1321,
    "def": 2540,
    "rec": 1641,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 20~25%.",
+   "normaltext": "Grants a 60% chance to inflict the target with two types of sap damage for 1 turns.",
+   "activetext": "Grants a 100% chance to lower the enemy's attack and draw its attention for 1 turn(s).",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -3004,10 +3052,10 @@ var mondata = {
    "atk": 1879,
    "def": 1725,
    "rec": 1555,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 20~25%.",
+   "normaltext": "Grants a 40% chance to lower the enemy's attack and draw its attention for 1 turn(s).",
+   "activetext": "Increases attack power by 20% when attacking water Astromons.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -3020,10 +3068,10 @@ var mondata = {
    "atk": 2445,
    "def": 1539,
    "rec": 1662,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 20~25%.",
+   "normaltext": "Critical hits have a 100% chance to restore own SP by 100%.",
+   "activetext": "Increases critical hit damage by 50%.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -3036,10 +3084,10 @@ var mondata = {
    "atk": 2323,
    "def": 1806,
    "rec": 1922,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's attack for 2 turn(s).",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 3 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -3052,10 +3100,10 @@ var mondata = {
    "atk": 2444,
    "def": 2542,
    "rec": 2774,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 70% chance to reduce the enemy's attack for 2 turn(s).",
+   "activetext": "Grants a 70% chance to blind the enemy for 2 turn(s). Blinded foes' critical hit rate is reduced.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -3068,10 +3116,10 @@ var mondata = {
    "atk": 3092,
    "def": 2329,
    "rec": 2023,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Grants 60% chance to seal the enemy for 1 turn(s). Sealed foes' passive skills do not activate.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -3084,10 +3132,10 @@ var mondata = {
    "atk": 1853,
    "def": 2323,
    "rec": 2133,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 80% chance to blind the enemy for 3 turn(s). Blinded foes' critical hit rate is reduced.",
+   "activetext": "Grants a 80% chance to inflict the target with two types of sap damage for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -3100,10 +3148,10 @@ var mondata = {
    "atk": 3153,
    "def": 2431,
    "rec": 2206,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Attacks greatly restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Grants a 80% chance to reduce the enemy's defense for 2 turn(s).�",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3116,10 +3164,10 @@ var mondata = {
    "atk": 3616,
    "def": 2172,
    "rec": 2424,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 20~25% in the Astromon League.",
+   "normaltext": "Grants a 80% chance to reduce the enemy's defense for 2 turns.�",
+   "activetext": "Grants a 80% chance to reduce target's skill gauge by 30% for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3132,10 +3180,10 @@ var mondata = {
    "atk": 2601,
    "def": 3514,
    "rec": 2343,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 20~25% in the Astromon League.",
+   "normaltext": "Grants a 100% chance to Seal the enemy for 3 turns. Sealed foes' passive skills do not activate.",
+   "activetext": "Attacks restore allies' HP in an amount equal to 10% of own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3148,10 +3196,10 @@ var mondata = {
    "atk": 2595,
    "def": 3602,
    "rec": 2349,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 20~25% in the Astromon League.",
+   "normaltext": "Grants a 100% chance to restore 30% of own SP when attacking.�",
+   "activetext": "Attacks restore allies' HP in an amount equal to 10% of own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3164,10 +3212,10 @@ var mondata = {
    "atk": 2533,
    "def": 3534,
    "rec": 2349,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 20~25% in the Astromon League.",
+   "normaltext": "Attack power becomes proportional to own max defense.",
+   "activetext": "Grants a 100% chance to inflict the target with three types of sap damage for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3180,10 +3228,10 @@ var mondata = {
    "atk": 2316,
    "def": 2534,
    "rec": 2916,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 20~25% in the Astromon League.",
+   "normaltext": "Grants a 100% chance to restore 40% of own SP when attacking.�",
+   "activetext": "Grants a 80% chance to Seal the enemy for 3 turns. Sealed foes' passive skills do not activate.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3196,10 +3244,10 @@ var mondata = {
    "atk": 2010,
    "def": 3066,
    "rec": 2432,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 40~45% in the Astromon League",
+   "normaltext": "Grants a 80% chance to reduce the enemy's defense for 2 turns.",
+   "activetext": "Grants a 80% chance to reduce the enemy's attack for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3212,10 +3260,10 @@ var mondata = {
    "atk": 3172,
    "def": 3155,
    "rec": 3012,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 40~45% in the Astromon League",
+   "normaltext": "Grants a 100% chance to stun the enemy for 1 turn.",
+   "activetext": "Grants a 70% chance to stun the enemy for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3228,10 +3276,10 @@ var mondata = {
    "atk": 3909,
    "def": 2595,
    "rec": 2152,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 40~45% in the Astromon League",
+   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Grants a 80% chance to reduce the enemy's defense for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3244,10 +3292,10 @@ var mondata = {
    "atk": 2099,
    "def": 2916,
    "rec": 2677,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 40~45% in the Astromon League",
+   "normaltext": "Grants a 100% chance to inflict the target with two types of sap damage for 1 turn.",
+   "activetext": "Attacks restore allies' HP in an amount equal to 10% of own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3260,10 +3308,10 @@ var mondata = {
    "atk": 2975,
    "def": 2828,
    "rec": 1889,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 40~45% in the Astromon League",
+   "normaltext": "Attacks restore 20% of own HP and SP",
+   "activetext": "Grants a 80% chance to reduce the enemy's defense for 3 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3276,9 +3324,9 @@ var mondata = {
    "atk": 2521,
    "def": 2705,
    "rec": 2494,
-   "varianttext": "Increases allies' resistance by 20-25% in clan battles.",
+   "varianttext": "Increases allies' resistance by 20-25% in clan bat...",
    "normaltext": "Attacks siphon 20% of the enemy's SP.",
-   "activetext": "Grants a 80% chance to reduce the enemy's defense for 2 turn(s).",
+   "activetext": "Grants a 80% chance to reduce the enemy's defense ...",
    "activeaoe": 0
  },
  {
@@ -3292,7 +3340,7 @@ var mondata = {
    "atk": 3677,
    "def": 2070,
    "rec": 2091,
-   "varianttext": "Increases allies' resistance by 20-25% in clan battles.",
+   "varianttext": "Increases allies' resistance by 20-25% in clan bat...",
    "normaltext": "Increases critical hit damage by 50%.",
    "activetext": "Increases critical hit damage by 50%.",
    "activeaoe": 0
@@ -3308,9 +3356,9 @@ var mondata = {
    "atk": 2363,
    "def": 3562,
    "rec": 2588,
-   "varianttext": "Increases allies' resistance by 20-25% in clan battles.",
-   "normaltext": "Grants a 100% chance to seal the enemy for 2 turn(s). Sealed foes' passive skills do not activate.",
-   "activetext": "Grants a 80% chance to petrify target for 1 turn(s). Petrified foes cannot act, but have increased defense.",
+   "varianttext": "Increases allies' resistance by 20-25% in clan bat...",
+   "normaltext": "Grants a 100% chance to seal the enemy for 2 turn(...",
+   "activetext": "Grants a 80% chance to petrify target for 1 turn(s...",
    "activeaoe": 0
  },
  {
@@ -3324,9 +3372,9 @@ var mondata = {
    "atk": 2792,
    "def": 3609,
    "rec": 2254,
-   "varianttext": "Increases allies' resistance by 20-25% in clan battles.",
+   "varianttext": "Increases allies' resistance by 20-25% in clan bat...",
    "normaltext": "Attacks siphon 30% of the enemy's SP.",
-   "activetext": "Grants a 70% chance to shock target for 2 turn(s). Shocked foes cannot act and have reduced defense.",
+   "activetext": "Grants a 70% chance to shock target for 2 turn(s)....",
    "activeaoe": 0
  },
  {
@@ -3340,9 +3388,9 @@ var mondata = {
    "atk": 3698,
    "def": 2479,
    "rec": 2452,
-   "varianttext": "Increases allies' resistance by 20-25% in clan battles.",
-   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt.",
-   "activetext": "Attacks greatly restore allies' HP in proportion to the amount of damage dealt.",
+   "varianttext": "Increases allies' resistance by 20-25% in clan bat...",
+   "normaltext": "Attacks restore own HP in proportion to the amount...",
+   "activetext": "Attacks greatly restore allies' HP in proportion t...",
    "activeaoe": 0
  },
  {
@@ -3356,10 +3404,10 @@ var mondata = {
    "atk": 2240,
    "def": 3058,
    "rec": 1852,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Grants a 60% chance to stun the enemy for 1 turn.",
+   "activetext": "Grants a 80% chance to taunt the enemy and draw its attention for 1 turn",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3372,10 +3420,10 @@ var mondata = {
    "atk": 3077,
    "def": 2801,
    "rec": 2617,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 20~25% in dungeons.",
+   "normaltext": "Grants a 60% chance to inflict the target with two types of sap damage for 1 turn.",
+   "activetext": "Grants a 100% chance to inflict the target with two types of sap damage for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3388,10 +3436,10 @@ var mondata = {
    "atk": 2784,
    "def": 2883,
    "rec": 2624,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 20~25% in dungeons.",
+   "normaltext": "Attacks restore allies' HP in an amount equal to 10% of own max HP.",
+   "activetext": "Grants a 80% chance to petrify target for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3404,10 +3452,10 @@ var mondata = {
    "atk": 2737,
    "def": 2903,
    "rec": 2610,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 20~25% in dungeons.",
+   "normaltext": "Grants a 100% chacne to inflict the target with two types of sap damage for 1 turn.",
+   "activetext": "Grants a 60% chance to reduce all enemies' attack power for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3420,10 +3468,10 @@ var mondata = {
    "atk": 2649,
    "def": 3548,
    "rec": 2023,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 20~25% in dungeons.",
+   "normaltext": "Grants a 100% chance to restore 20% of allies' SP when attacking.�",
+   "activetext": "Grants a 60% chance to shock all enemies for 2 turns. Shocked foes cannot act and have reduced defense.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3436,10 +3484,10 @@ var mondata = {
    "atk": 3834,
    "def": 2704,
    "rec": 2043,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 20~25% in dungeons.",
+   "normaltext": "Grants a 100% chance to restore 30% of own SP when attacking.",
+   "activetext": "Increases damage dealt by 40%",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -3452,10 +3500,10 @@ var mondata = {
    "atk": 2860,
    "def": 1709,
    "rec": 1764,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35% in clan battles.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.",
+   "activetext": "Grants a 80% chance to blind the enemy for 2 turn(s). Blinded foes' critical hit rate and damage are reduced.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -3468,10 +3516,10 @@ var mondata = {
    "atk": 1499,
    "def": 1479,
    "rec": 1404,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35% in clan battles.",
+   "normaltext": "Grants a 100% chance to restore 20% of own HP when attacking.",
+   "activetext": "Grants a 70% chance to stun the enemy for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -3484,10 +3532,10 @@ var mondata = {
    "atk": 1953,
    "def": 1889,
    "rec": 1786,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35% in clan battles.",
+   "normaltext": "Grants a 80% chance to reduce the enemy's defense for 1 turn.",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -3500,10 +3548,10 @@ var mondata = {
    "atk": 2424,
    "def": 3269,
    "rec": 1914,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35% in clan battles.",
+   "normaltext": "Grants a 70% chance to seal the enemy for 2 turn(s). Sealed foes' passive skills do not activate.",
+   "activetext": "Grants a 70% chance to stun the enemy for 1 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -3516,10 +3564,10 @@ var mondata = {
    "atk": 2580,
    "def": 2576,
    "rec": 1664,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35% in clan battles.",
+   "normaltext": "Critical hits restore 20% of own HP and SP.",
+   "activetext": "Attacks restore allies' HP in an amount equal to 10% of own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -3532,10 +3580,10 @@ var mondata = {
    "atk": 1247,
    "def": 1683,
    "rec": 1547,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 20~25%.",
+   "normaltext": "Increases critical hit rate by 20% when attacking fire Astromons.�",
+   "activetext": "Grants a 80% chance to reduce the enemy's recovery for 2 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -3548,10 +3596,10 @@ var mondata = {
    "atk": 2302,
    "def": 1328,
    "rec": 1444,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 20~25%.",
+   "normaltext": "Increases critical hit rate by 20% when attacking water Astromon.�",
+   "activetext": "Grants a 80% chance to reduce the enemy's defense for 2 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -3564,10 +3612,10 @@ var mondata = {
    "atk": 1471,
    "def": 2275,
    "rec": 1743,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 20~25%.",
+   "normaltext": "Increases critical hit rate by 20% when attacking wood Astromons.�",
+   "activetext": "Grants a 60% chance to petrify target for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -3580,10 +3628,10 @@ var mondata = {
    "atk": 2315,
    "def": 1730,
    "rec": 1730,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in clan battles.",
+   "normaltext": "Grants additional attack power proportional to the target's maximum HP.",
+   "activetext": "Grants additional attack power proportional to the target's maximum HP.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -3596,10 +3644,10 @@ var mondata = {
    "atk": 1063,
    "def": 1063,
    "rec": 1063,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in clan battles.",
+   "normaltext": "Attacks restore allies' HP with an amount equal to 10% of own max HP.",
+   "activetext": "Grants a 100% chance to blind the enemy for 2 turn(s). Blinded foes' critical hit rate is reduced.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -3612,10 +3660,10 @@ var mondata = {
    "atk": 103,
    "def": 103,
    "rec": 103,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in clan battles.",
+   "normaltext": "Attacks restore allies' HP with an amount equal to 10% of own max HP.",
+   "activetext": "Grants a 100% chance to blind the enemy for 2 turn(s). Blinded foes' critical hit rate is reduced.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -3628,10 +3676,10 @@ var mondata = {
    "atk": 1102,
    "def": 1112,
    "rec": 1112,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in clan battles.",
+   "normaltext": "Increases critical hit damage by 100%.",
+   "activetext": "Increases critical hit damage by 100%.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -3644,10 +3692,10 @@ var mondata = {
    "atk": 142,
    "def": 152,
    "rec": 152,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 15~20% in clan battles.",
+   "normaltext": "Increases critical hit damage by 100%.",
+   "activetext": "Increases critical hit damage by 100%.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -3660,10 +3708,10 @@ var mondata = {
    "atk": 2547,
    "def": 1403,
    "rec": 1525,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 20~25%.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's attack for 1 turn.�",
+   "activetext": "Grants a 80% chance to reduce the enemy's blue soul recovery for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -3676,10 +3724,10 @@ var mondata = {
    "atk": 1892,
    "def": 1725,
    "rec": 1562,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 20~25%.",
+   "normaltext": "Grants a 40% chance to taunt the enemy and draw its attention for 1 turn.",
+   "activetext": "Grants a 80% chance to reduce the enemy's attack for 2 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -3692,10 +3740,10 @@ var mondata = {
    "atk": 1418,
    "def": 1411,
    "rec": 1704,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 20~25%",
+   "normaltext": "Grants a 40% chance to inflict the enemy with sap damage for 2 turns.",
+   "activetext": "Grants a 40% chance to stun the enemy for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -3708,10 +3756,10 @@ var mondata = {
    "atk": 2171,
    "def": 2147,
    "rec": 2100,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 20~25%",
+   "normaltext": "Grants a 60% chance to reduce the enemy's overall HP recovery for 2 turns.",
+   "activetext": "Grants a 60% chance to inflict the enemy with sap damage for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -3724,10 +3772,10 @@ var mondata = {
    "atk": 1342,
    "def": 2445,
    "rec": 1573,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 20~25%",
+   "normaltext": "Grants a 50% chance to reduce the enemy's attack for 2 turns.",
+   "activetext": "Grants a 40% chance to reduce hte enemy's defense for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -3740,10 +3788,10 @@ var mondata = {
    "atk": 2458,
    "def": 3187,
    "rec": 1914,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45%.",
+   "normaltext": "Grants a 100% chance to restore 30% of own SP when attacking. Only applies to the normal skill.",
+   "activetext": "Grants a 50% chance to shock target for 2 turns. Shocked foes cannot act and have reduced defense.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -3756,10 +3804,10 @@ var mondata = {
    "atk": 3024,
    "def": 2138,
    "rec": 2247,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45%.",
+   "normaltext": "Critical hits shock the enemy for 1 turn. Shocked foes cannot act and have reduced defense.",
+   "activetext": "Grants a 60% chance to reduce all enemies' blue soul recovery for 3 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -3772,10 +3820,10 @@ var mondata = {
    "atk": 1193,
    "def": 1840,
    "rec": 1343,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' recovery by 20~25%.",
+   "normaltext": "Grants a 40% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activetext": "Restores some of allies' SP for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3788,10 +3836,10 @@ var mondata = {
    "atk": 2520,
    "def": 3562,
    "rec": 2622,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 35~40%.",
+   "normaltext": "Attacks restore allies' HP in an amount equal to 10% of own max HP.",
+   "activetext": "Grants a 60% chance to seal the enemy for 2 turns. Sealed foes' passive skills do not activate.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3804,10 +3852,10 @@ var mondata = {
    "atk": 2492,
    "def": 3698,
    "rec": 2690,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 35~40%.",
+   "normaltext": "Grants a 100% chance to restore 30% of own HP when attacking.�",
+   "activetext": "Grants a 70% chance to inflict the target with two types of sap damage for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3820,10 +3868,10 @@ var mondata = {
    "atk": 2739,
    "def": 2568,
    "rec": 2316,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 35~40%.",
+   "normaltext": "Grants a 90% chance to reduce the enemy's attack for 2 turns.�",
+   "activetext": "Grants a 60% chance to reduce the enemy's attack for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3836,10 +3884,10 @@ var mondata = {
    "atk": 2716,
    "def": 2624,
    "rec": 2787,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 35~40%.",
+   "normaltext": "Attacks restore 20% of own HP and SP.",
+   "activetext": "Grants a 70% chance to stun the enemy for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -3852,10 +3900,10 @@ var mondata = {
    "atk": 3848,
    "def": 2601,
    "rec": 2384,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 35~40%.",
+   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Increases critical hit damage by 50%.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -3868,10 +3916,10 @@ var mondata = {
    "atk": 2622,
    "def": 1852,
    "rec": 1491,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 13~18%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's blue soul recovery for 1 turn.",
+   "activetext": "Grants a 80% chance to stun all enemies for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -3884,10 +3932,10 @@ var mondata = {
    "atk": 2472,
    "def": 1771,
    "rec": 1696,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 13~18%.",
+   "normaltext": "Grants a 40% chance to inflict the target with two types of sap damage for 1 turn.",
+   "activetext": "Grants a 60% chance to inflict sap damage on all enemies for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -3900,10 +3948,10 @@ var mondata = {
    "atk": 1981,
    "def": 1773,
    "rec": 1691,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 13~18%.",
+   "normaltext": "Grants a 60% chance to reduce target's skill gauge by 10% for 1 turn.",
+   "activetext": "Grants a 60% chance to reduce all enemies' defense for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -3916,10 +3964,10 @@ var mondata = {
    "atk": 2017,
    "def": 1983,
    "rec": 2364,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 13~18%.",
+   "normaltext": "Critical hits have a 100% chance to stun the enemy for 1 turn.�",
+   "activetext": "Critical hits lower the enemy's attack for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -3932,10 +3980,10 @@ var mondata = {
    "atk": 2036,
    "def": 2962,
    "rec": 2343,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit rate by 13~18%.",
+   "normaltext": "Attack power becomes proportional to own max defense.",
+   "activetext": "Attack power becomes proportional to own max defense.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -3948,10 +3996,10 @@ var mondata = {
    "atk": 1792,
    "def": 1976,
    "rec": 1540,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%.",
+   "normaltext": "Grants a 60% chance to inflict the target with two types of sap damage for 1 turn.",
+   "activetext": "Grants a 40% chance to inflict the target with two types of sap damage for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -3964,10 +4012,10 @@ var mondata = {
    "atk": 1696,
    "def": 1525,
    "rec": 2751,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases defense of ally fire Astromons by 30~35%.",
+   "normaltext": "Grants a 30% chance to inflict the enemy with sap damage for 2 turns.",
+   "activetext": "Applies a Resilience buff to allies for 2 turns. With this buff, allies will gain SP proportional to the amount of damage they take.�",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -3980,10 +4028,10 @@ var mondata = {
    "atk": 1750,
    "def": 1839,
    "rec": 2629,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases defense of ally water Astromons by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore 20% of own HP when attacking.�",
+   "activetext": "Restores a set of amount of allies' HP for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -3996,10 +4044,10 @@ var mondata = {
    "atk": 1900,
    "def": 1559,
    "rec": 2458,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases defense of ally wood Astromons by 30~35%.",
+   "normaltext": "Converts blue souls dropped from own attacks to red souls.",
+   "activetext": "Increases allies' recovery for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -4012,10 +4060,10 @@ var mondata = {
    "atk": 2424,
    "def": 3337,
    "rec": 1914,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases defense of ally light Astromons by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore 20% of own SP when attacking.�",
+   "activetext": "Grants a shield to allies proportional to own max level for 2 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -4028,10 +4076,10 @@ var mondata = {
    "atk": 2322,
    "def": 2118,
    "rec": 3344,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases defense of ally dark Astromons by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore allies' HP by 10%.",
+   "activetext": "Applies a Dominance buff to allies for 2 turns. With this buff, allies will reduce the enemy's SP proportional to the amount of damage they deal.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -4044,10 +4092,10 @@ var mondata = {
    "atk": 2001,
    "def": 1705,
    "rec": 1671,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 20~25% in dungeons.",
+   "normaltext": "Grants a 100% chance to taunt the enemy and draw its attention for 2 turns.",
+   "activetext": "Increases attack power by 100% when attacking fire Astromon.�",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -4060,10 +4108,10 @@ var mondata = {
    "atk": 2996,
    "def": 1641,
    "rec": 1764,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 20~25% in dungeons.",
+   "normaltext": "Grants a 100% chance to reduce the enemy's defense for 2 turns.�",
+   "activetext": "Increases attack power by 100% when attacking water Astromons.�",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -4076,10 +4124,10 @@ var mondata = {
    "atk": 1784,
    "def": 2663,
    "rec": 1566,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' red soul recovery by 20~25% in dungeons.",
+   "normaltext": "Grants a 100% chance to inflict the enemy with sap damage for 2 turns.",
+   "activetext": "Increases attack power by 100% when attacking wood Astromons.�",
+   "activeaoe": 0
  },
  {
    "grade": 5,
@@ -4093,8 +4141,8 @@ var mondata = {
    "def": 2883,
    "rec": 2072,
    "varianttext": "Increases allies' HP by 40-45% in clan battles.",
-   "normaltext": "Grants additional attack power proportional to the target's maximum HP.",
-   "activetext": "Grants a 80% chance to reduce the enemy's attack for 2 turn(s).",
+   "normaltext": "Grants additional attack power proportional to the...",
+   "activetext": "Grants a 80% chance to reduce the enemy's attack f...",
    "activeaoe": 0
  },
  {
@@ -4109,7 +4157,7 @@ var mondata = {
    "def": 3071,
    "rec": 2547,
    "varianttext": "Increases allies' HP by 40-45% in clan battles.",
-   "normaltext": "Attacks against any enemy are treated as that enemy's elemental weakness.",
+   "normaltext": "Attacks against any enemy are treated as that enem...",
    "activetext": "Attacks siphon 50% of the enemy's SP.",
    "activeaoe": 0
  },
@@ -4126,7 +4174,7 @@ var mondata = {
    "rec": 2228,
    "varianttext": "Increases allies' HP by 40-45% in clan battles.",
    "normaltext": "Attacks siphon 20% of the enemy's SP.",
-   "activetext": "Grants a 100% chance to restore 30% of own HP when attacking.",
+   "activetext": "Grants a 100% chance to restore 30% of own HP when...",
    "activeaoe": 0
  },
  {
@@ -4142,7 +4190,7 @@ var mondata = {
    "rec": 2985,
    "varianttext": "Increases allies' HP by 40-45% in clan battles.",
    "normaltext": "Increases damage dealt by 40%",
-   "activetext": "Attacks greatly restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Attacks greatly restore own HP in proportion to th...",
    "activeaoe": 0
  },
  {
@@ -4172,10 +4220,10 @@ var mondata = {
    "atk": 2295,
    "def": 3494,
    "rec": 2309,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 40~45% in dungeons.",
+   "normaltext": "Grants a 100% chance to stun the enemy for 1 turn.",
+   "activetext": "Attacks restore allies' HP in an amount equal to 10% of own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4188,10 +4236,10 @@ var mondata = {
    "atk": 2214,
    "def": 2398,
    "rec": 2228,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 40~45% in dungeons.",
+   "normaltext": "Grants a 80% chance to reduce the target's skill gauge by 30% for 2 turns.",
+   "activetext": "Grants a 80% chance to inflict sap damage on all enemies for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4204,10 +4252,10 @@ var mondata = {
    "atk": 3602,
    "def": 2819,
    "rec": 2254,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 40~45% in dungeons.",
+   "normaltext": "Increases damage dealt by 40%",
+   "activetext": "Grants a 60% chance to seal the enemy for 2 turns. Sealed foes' passive skills do not activate.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4220,10 +4268,10 @@ var mondata = {
    "atk": 2568,
    "def": 2126,
    "rec": 1915,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 40~45% in dungeons.",
+   "normaltext": "Attacks restore 20% of own HP and SP.",
+   "activetext": "Attack power becomes proportional to own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4236,10 +4284,10 @@ var mondata = {
    "atk": 2349,
    "def": 3562,
    "rec": 2588,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 40~45% in dungeons.",
+   "normaltext": "Grants a 80% chance to seal the enemy for 2 turns. Sealed foes' passive skills do not activate.",
+   "activetext": "Grants a 100% chance to stun the enemy for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4252,10 +4300,10 @@ var mondata = {
    "atk": 4018,
    "def": 2629,
    "rec": 2179,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defenses 40-45% in clan battles.",
+   "normaltext": "Grants a 100% chance to restore 30% of own SP when attack.�",
+   "activetext": "Attacks against any enemy are treated as that enemy's elemental weakness.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4268,10 +4316,10 @@ var mondata = {
    "atk": 3269,
    "def": 2629,
    "rec": 2329,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defenses 40-45% in clan battles.",
+   "normaltext": "Grants a 100% chance to restore 20% of own HP when attacking.",
+   "activetext": "Grants additional attack power proportional to the target's maximum HP.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4284,10 +4332,10 @@ var mondata = {
    "atk": 2677,
    "def": 2235,
    "rec": 2194,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defenses 40-45% in clan battles.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 3 turn(s).",
+   "activetext": "Grants a 80% chance to stun the enemy for 1 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4300,10 +4348,10 @@ var mondata = {
    "atk": 3023,
    "def": 2692,
    "rec": 2672,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defenses 40-45% in clan battles.",
+   "normaltext": "Grants additional attack power proportional to the target's maximum HP.",
+   "activetext": "Grants additional attack power proportional to the target's maximum HP.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4316,10 +4364,10 @@ var mondata = {
    "atk": 2213,
    "def": 3807,
    "rec": 2465,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defenses 40-45% in clan battles.",
+   "normaltext": "Attack power becomes proportional to own max defense.",
+   "activetext": "Attack power becomes proportional to own max defense.",
+   "activeaoe": 1
  },
  {
    "grade": 1,
@@ -4332,10 +4380,10 @@ var mondata = {
    "atk": 1702,
    "def": 1444,
    "rec": 2411,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases HP of ally fire Astromons by 20~25%.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's attack for 1 turn.�",
+   "activetext": "Grants a 60% chance to reduce the enemy's attack for 2 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 1,
@@ -4348,10 +4396,10 @@ var mondata = {
    "atk": 1777,
    "def": 2343,
    "rec": 1396,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases HP of ally water Astromons by 20~25%.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's recovery for 1 turn.�",
+   "activetext": "Grants a 60% chance to reduce the enemy's recovery for 2 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 1,
@@ -4364,10 +4412,10 @@ var mondata = {
    "atk": 2322,
    "def": 1525,
    "rec": 1430,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases HP of ally wood Astromons by 20~25%.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's defense for 2 turns.�",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 1,
@@ -4380,10 +4428,10 @@ var mondata = {
    "atk": 1708,
    "def": 1766,
    "rec": 1562,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases HP of ally light Astromons by 20~25%.",
+   "normaltext": "Grants a 20% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activetext": "Grants a 60% chance to silence the enemy for 1 turn. Silenced foes cannot use their active skill.",
+   "activeaoe": 0
  },
  {
    "grade": 1,
@@ -4396,10 +4444,10 @@ var mondata = {
    "atk": 1411,
    "def": 1370,
    "rec": 1710,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases HP of ally dark Astromons by 20~25%.",
+   "normaltext": "Grants a 20% chance to taunt the enemy and draws its attention for 1 turn.",
+   "activetext": "Grants a 60% chance to taunt the enemy and draw its attention for 1 turn.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -4412,10 +4460,10 @@ var mondata = {
    "atk": 1622,
    "def": 1261,
    "rec": 1465,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' blue soul recovery by 20~25%.",
+   "normaltext": "Grants a 80% chance to taunt the enemy and draw its attention for 1 turn.",
+   "activetext": "Grants a 60% chance to inflict the target with two types of sap damage for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -4428,10 +4476,10 @@ var mondata = {
    "atk": 3276,
    "def": 2247,
    "rec": 1682,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' blue soul recovery by 20~25%.",
+   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Attacks greatly restore allies' HP in proportion to the amount of damage dealt.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -4444,10 +4492,90 @@ var mondata = {
    "atk": 2532,
    "def": 2570,
    "rec": 1671,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' blue soul recovery by 20~25%.",
+   "normaltext": "Grants a 70% chance to reduce the enemy's attack for 1 turn.",
+   "activetext": "Grants a 70% chance to stun the enemy for 1 turn.",
+   "activeaoe": 1
+ },
+ {
+   "grade": 4,
+   "name": "Sparkitt",
+   "element": "F",
+   "variant": "Grace of Life",
+   "normal": "Stun",
+   "active": "Blind",
+   "hp": 36587,
+   "atk": 1962,
+   "def": 2316,
+   "rec": 2214,
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Critical hits have a 100% chance to stun the enemy for 2 turn(s).",
+   "activetext": "Grants a 70% chance to blind the enemy for 2 turn(s). Blinded foes' critical hit rate and damage are reduced.",
+   "activeaoe": 1
+ },
+ {
+   "grade": 4,
+   "name": "Sparkitt",
+   "element": "A",
+   "variant": "Grace of Life",
+   "normal": "Blind",
+   "active": "Courageous Strike",
+   "hp": 30672,
+   "atk": 3173,
+   "def": 1900,
+   "rec": 2002,
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Grants a 70% chance to blind the enemy for 2 turn(s). Blinded foes' critical hit rate and damage are reduced.",
+   "activetext": "Critical hits grant additional attack power proportional to the target's maximum HP.",
+   "activeaoe": 1
+ },
+ {
+   "grade": 4,
+   "name": "Sparkitt",
+   "element": "O",
+   "variant": "Grace of Life",
+   "normal": "Elemental Edge",
+   "active": "Attack Down",
+   "hp": 24737,
+   "atk": 2805,
+   "def": 2576,
+   "rec": 2488,
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Attacks against any enemy are treated as that enemy's elemental weakness.",
+   "activetext": "Grants a 60% chance to reduce the enemy's attack for 2 turn(s).",
+   "activeaoe": 1
+ },
+ {
+   "grade": 4,
+   "name": "Sparkitt",
+   "element": "L",
+   "variant": "Grace of Life",
+   "normal": "Shock",
+   "active": "Defense Down",
+   "hp": 30815,
+   "atk": 3303,
+   "def": 1920,
+   "rec": 2023,
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Critical hits shock the enemy for 1 turn. Shocked foes cannot act and have reduced defense.",
+   "activetext": "Grants a 70% chance to reduce the enemy's defense for 2 turn(s).",
+   "activeaoe": 1
+ },
+ {
+   "grade": 4,
+   "name": "Sparkitt",
+   "element": "D",
+   "variant": "Grace of Life",
+   "normal": "Morale Boost",
+   "active": "Stun",
+   "hp": 37152,
+   "atk": 2024,
+   "def": 2432,
+   "rec": 1976,
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore 10% of allies' SP when attacking.�",
+   "activetext": "Grants a 70% chance to stun the enemy for 1 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 1,
@@ -4460,10 +4588,10 @@ var mondata = {
    "atk": 1363,
    "def": 1772,
    "rec": 1418,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 10~15%.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's defense for 2 turns.�",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.�",
+   "activeaoe": 0
  },
  {
    "grade": 1,
@@ -4476,10 +4604,10 @@ var mondata = {
    "atk": 1538,
    "def": 1793,
    "rec": 1684,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 10~15%.",
+   "normaltext": "Grants a 40% chance to reduce the enemy's blue soul recovery for 1 turn.",
+   "activetext": "Grants a 60% chance to reduce the enemy's blue soul recovery for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 1,
@@ -4492,10 +4620,10 @@ var mondata = {
    "atk": 1682,
    "def": 1600,
    "rec": 2418,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 10~15%.",
+   "normaltext": "Grants a 40% chance to inflict the enemy with sap damage for 1 turn",
+   "activetext": "Grants a 60% chance to inflict the enemy with sap damage for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 1,
@@ -4508,10 +4636,10 @@ var mondata = {
    "atk": 1355,
    "def": 2418,
    "rec": 1628,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 10~15%.",
+   "normaltext": "Grants a 20% chance to stun the enemy for 1 turn.",
+   "activetext": "Grants a 60% chance to stun the enemy for 1 turn",
+   "activeaoe": 0
  },
  {
    "grade": 1,
@@ -4524,10 +4652,10 @@ var mondata = {
    "atk": 2275,
    "def": 1662,
    "rec": 1362,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 10~15%.",
+   "normaltext": "Grants a 20% chance to silence the enemy for 1 turn. Silenced foes cannot use their active skill.",
+   "activetext": "Grants a 60% chance to silence the enemy for 1 turn. Silenced foes cannot use their active skill.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -4540,10 +4668,10 @@ var mondata = {
    "atk": 1654,
    "def": 1752,
    "rec": 1623,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 20~25%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's attack for 1 turn.�",
+   "activetext": "Grants a 40% chance to reduce all enemies' attack power for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -4556,10 +4684,10 @@ var mondata = {
    "atk": 1607,
    "def": 2322,
    "rec": 1491,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 20~25%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's recovery for 1 turn.�",
+   "activetext": "Grants a 40% chance to inflict sap damage on all enemies for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -4572,10 +4700,10 @@ var mondata = {
    "atk": 2574,
    "def": 1539,
    "rec": 1403,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 20~25%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.�",
+   "activetext": "Grants a 40% chance to reduce all enemies' defense for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -4588,10 +4716,10 @@ var mondata = {
    "atk": 2486,
    "def": 1457,
    "rec": 1628,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies� critical hit rate by 10~15%",
+   "normaltext": "Grants a 100% chance to dispel all enemy enchantments.",
+   "activetext": "Grants a 60% chance to reduce the enemy�s defense for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -4604,10 +4732,10 @@ var mondata = {
    "atk": 1593,
    "def": 1766,
    "rec": 1623,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies� critical hit rate by 10~15%",
+   "normaltext": "Grants a 40% chance to reduce the enemy�s blue soul recovery for 1 turn.",
+   "activetext": "Grants a 60% chance to petrify target for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -4620,10 +4748,10 @@ var mondata = {
    "atk": 2377,
    "def": 1696,
    "rec": 1457,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies� critical hit rate by 10~15%",
+   "normaltext": "Critical hits have a 100% chance to put the target to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -4636,10 +4764,10 @@ var mondata = {
    "atk": 3167,
    "def": 2288,
    "rec": 1682,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Critical hits restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -4652,10 +4780,10 @@ var mondata = {
    "atk": 2146,
    "def": 2473,
    "rec": 1710,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Critical hits have a 100% chance to restore own SP by 30%.",
+   "activetext": "Grants a 60% chance to reduce the enemy's attack for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -4668,10 +4796,10 @@ var mondata = {
    "atk": 2321,
    "def": 2352,
    "rec": 2045,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Grants a 60% chance to put target to sleep for 2 turns. Sleeping foes wake upon being hit.",
+   "activetext": "Grants a 100% chance to dispel enemy shields.�",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -4684,10 +4812,10 @@ var mondata = {
    "atk": 1976,
    "def": 2323,
    "rec": 2214,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore 10% of allies' SP when attacking.�",
+   "activetext": "Attacks restore allies' HP in an amount equal to 10% of own max HP",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -4700,10 +4828,10 @@ var mondata = {
    "atk": 2343,
    "def": 3173,
    "rec": 1866,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 30~35%.",
+   "normaltext": "Grants a 60% chance to put target to sleep for 2 turns. Sleeping foes wake upon being hit.",
+   "activetext": "Grants a 60% chance to inflict the target with three types of sap damage for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4716,10 +4844,10 @@ var mondata = {
    "atk": 3473,
    "def": 2479,
    "rec": 2418,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 50~55% in clan battles.",
+   "normaltext": "Increases damage dealt by 40%.",
+   "activetext": "Grants additional attack power proportional to the target's maximum HP",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4732,10 +4860,10 @@ var mondata = {
    "atk": 2989,
    "def": 2917,
    "rec": 2386,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 50~55% in clan battles.",
+   "normaltext": "Attacks greatly restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4748,10 +4876,10 @@ var mondata = {
    "atk": 3405,
    "def": 2213,
    "rec": 2329,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 50~55% in clan battles.",
+   "normaltext": "Grants a 70% chance to reduce the enemy's defense for 3 turn(s).",
+   "activetext": "Grants a 70% chance to reduce the enemy's defense for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4764,10 +4892,10 @@ var mondata = {
    "atk": 1737,
    "def": 1519,
    "rec": 1615,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 50~55% in clan battles.",
+   "normaltext": "Grants a 80% chance to reduce the enemy's defense for 2 turn(s).",
+   "activetext": "Grants a 80% chance to shock target for 1 turn(s). Shocked foes cannot act and have reduced defense.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -4780,10 +4908,10 @@ var mondata = {
    "atk": 2641,
    "def": 2747,
    "rec": 2576,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 50~55% in clan battles.",
+   "normaltext": "Grants a 80% chance to reduce target's skill gauge by 30% for 2 turn(s).",
+   "activetext": "Grants a 80% chance to silence the enemy for 2 turn(s). Silenced foes cannot use their active skill.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -4796,10 +4924,10 @@ var mondata = {
    "atk": 3262,
    "def": 2084,
    "rec": 1954,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies� critical hit rate by 15~20%",
+   "normaltext": "Grants a 100% chance to restore 20% of own SP when attacking.�",
+   "activetext": "Grants a 100% chance to restore 20% of allies' HP when attacking.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -4812,10 +4940,10 @@ var mondata = {
    "atk": 2044,
    "def": 2017,
    "rec": 2303,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies� critical hit rate by 15~20%",
+   "normaltext": "Critical hits have a 100% chance to stun the enemy for 2 turns.�",
+   "activetext": "Increases damage dealt by 40%.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -4828,10 +4956,10 @@ var mondata = {
    "atk": 2288,
    "def": 3105,
    "rec": 1771,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies� critical hit rate by 15~20%",
+   "normaltext": "Grants a 70% chance to seal the enemy for 2 turns. Sealed foes' passive skills do not activate.",
+   "activetext": "Grants a 80% chance to inflict the enemy with sap damage for 2 turns.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -4844,10 +4972,10 @@ var mondata = {
    "atk": 2532,
    "def": 2542,
    "rec": 1671,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies� critical hit rate by 15~20%",
+   "normaltext": "Grants a 100% chance to restore 10% of allies' HP when attacking.",
+   "activetext": "Grants a 100% chance to restore 20% of allies' HP when attacking.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -4860,10 +4988,10 @@ var mondata = {
    "atk": 3126,
    "def": 2309,
    "rec": 1907,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies� critical hit rate by 15~20%",
+   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Increases critical hit damage by 50%.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -4876,10 +5004,10 @@ var mondata = {
    "atk": 1722,
    "def": 1854,
    "rec": 1664,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 30~35%.",
+   "normaltext": "Increases attack power by 20% when attacking light Astromons.�",
+   "activetext": "Grants a 80% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -4892,10 +5020,10 @@ var mondata = {
    "atk": 1369,
    "def": 2418,
    "rec": 1641,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 30~35%.",
+   "normaltext": "Increases attack power by 20% when attacking dark Astromons.�",
+   "activetext": "Grants a 80% chance to silence the enemy for 1 turn. Silenced foes cannot use their active skill.",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -4908,10 +5036,10 @@ var mondata = {
    "atk": 2220,
    "def": 3037,
    "rec": 2411,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 70% chance to reduce the enemy's defense for 2 turn(s).",
+   "activetext": "Grants a 50% chance to reduce the enemy's defense for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -4924,10 +5052,10 @@ var mondata = {
    "atk": 3003,
    "def": 2111,
    "rec": 2179,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore 20% of own SP when attacking.",
+   "activetext": "Increases damage dealt by 30%.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -4940,10 +5068,10 @@ var mondata = {
    "atk": 2648,
    "def": 2535,
    "rec": 1603,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Critical hits grant additional attack power proportional to the target's maximum HP.",
+   "activetext": "Critical hits have a 100% chance to blind the enemy for 2 turn(s). Blinded foes' critical hit rate and damage are reduced.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -4956,10 +5084,10 @@ var mondata = {
    "atk": 1717,
    "def": 2494,
    "rec": 1894,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Grants a 60% chance to shock target for 2 turn(s). Shocked foes cannot act and have reduced defense.",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -4972,10 +5100,10 @@ var mondata = {
    "atk": 2887,
    "def": 2411,
    "rec": 2349,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35%.",
+   "normaltext": "Critical hits lower the enemy's defense for 2 turn(s).",
+   "activetext": "Critical hits grant additional attack power proportional to the target's maximum HP.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -4988,10 +5116,10 @@ var mondata = {
    "atk": 2832,
    "def": 2862,
    "rec": 2685,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 3 turns.",
+   "activetext": "Grants a 60% chance to inflict the enemy with sap damage for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5004,10 +5132,10 @@ var mondata = {
    "atk": 2193,
    "def": 3051,
    "rec": 2411,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Grants a 70% chance to taunt the enemy and draw its attention for 1 turn.",
+   "activetext": "Grants a 70% chance to reduce the enemy's defense for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5020,10 +5148,10 @@ var mondata = {
    "atk": 3139,
    "def": 1900,
    "rec": 2023,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Increases damage dealt by 30%.",
+   "activetext": "Grants a 60% chance to stun the enemy for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5036,10 +5164,10 @@ var mondata = {
    "atk": 3126,
    "def": 2118,
    "rec": 2002,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Critical hits have a 100% chance to put the enemy to sleep for 2 turns. Sleeping foes wake upon being hit.",
+   "activetext": "Increases critical hit damage by 50%.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5052,10 +5180,10 @@ var mondata = {
    "atk": 1983,
    "def": 2010,
    "rec": 2316,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Grants a 100% chance to restore 30% of own SP when attacking.",
+   "activetext": "Grants a 60% chance to reduce the enemy's attack for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5068,10 +5196,10 @@ var mondata = {
    "atk": 2491,
    "def": 2311,
    "rec": 2147,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Critical hits have a 100% chance to restore own SP by 20%.",
+   "activetext": "Grants a 60% chance to inflict hte target with three types of sap damage for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5084,10 +5212,10 @@ var mondata = {
    "atk": 1920,
    "def": 3187,
    "rec": 2172,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Grants a 40% chance to silence the enemy for 1 turn. Silenced foes cannot use their active skill.",
+   "activetext": "Grants a 60% chance to reduce all enemies' attack power for 3 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -5100,10 +5228,10 @@ var mondata = {
    "atk": 1499,
    "def": 1806,
    "rec": 1724,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35% in clan battles.",
+   "normaltext": "Grants an 100% chance to restore 30% of own HP when attacking.",
+   "activetext": "Grants a 60% chance to petrify target for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -5116,10 +5244,10 @@ var mondata = {
    "atk": 1750,
    "def": 2744,
    "rec": 1410,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' defense by 30~35% in clan battles.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's attack for 2 turns.",
+   "activetext": "Grants a 60% chance to reduce the enemy's attack for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -5132,10 +5260,10 @@ var mondata = {
    "atk": 2703,
    "def": 2835,
    "rec": 2733,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 40~45% in the Astromon League.",
+   "normaltext": "Attacks greatly restore own SP in proportion to the amount of damage dealt.",
+   "activetext": "Grants a 80% chance to stun all enemies for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -5148,10 +5276,10 @@ var mondata = {
    "atk": 3432,
    "def": 2581,
    "rec": 2595,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 40~45% in the Astromon League.",
+   "normaltext": "Increases damage dealt by 40%.",
+   "activetext": "Grants a 100% chance to reduce all enemies' defense for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -5164,10 +5292,10 @@ var mondata = {
    "atk": 2893,
    "def": 2937,
    "rec": 2624,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 40~45% in the Astromon League.",
+   "normaltext": "Grants a 100% chance to restore 20% of own HP when attacking.�",
+   "activetext": "Attacks restore allies' HP in an amount equal to 10% of own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -5180,10 +5308,10 @@ var mondata = {
    "atk": 2955,
    "def": 2808,
    "rec": 2644,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 40~45% in the Astromon League.",
+   "normaltext": "Grants a 100% chance to stun the enemy for 1 turn.",
+   "activetext": "Increases attack by 40%.",
+   "activeaoe": 1
  },
  {
    "grade": 5,
@@ -5196,10 +5324,10 @@ var mondata = {
    "atk": 2167,
    "def": 2357,
    "rec": 2194,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 40~45% in the Astromon League.",
+   "normaltext": "Grants a 100% chance to stun the enemy for 1 turn.",
+   "activetext": "Grants a 80% chance to silence the enemy for 2 turns. Silenced foes cannot use their active skill.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5212,10 +5340,10 @@ var mondata = {
    "atk": 3024,
    "def": 2254,
    "rec": 1662,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%.",
+   "normaltext": "Critical hits have a 100% chance to restore own HP by 50%.",
+   "activetext": "Increases critical hit damage by 50%.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5228,10 +5356,10 @@ var mondata = {
    "atk": 3262,
    "def": 2043,
    "rec": 2159,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%.",
+   "normaltext": "Increases damage dealt by 30%.",
+   "activetext": "Grants a 80% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5244,10 +5372,10 @@ var mondata = {
    "atk": 2205,
    "def": 2352,
    "rec": 2236,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%.",
+   "normaltext": "Grants a 100% chance to restore 20% of own SP when attacking.�",
+   "activetext": "Grants a 80% chance to inflict the target with two types of sap damage for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5260,10 +5388,10 @@ var mondata = {
    "atk": 3310,
    "def": 2002,
    "rec": 2036,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%.",
+   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5276,10 +5404,10 @@ var mondata = {
    "atk": 1873,
    "def": 3167,
    "rec": 2179,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%.",
+   "normaltext": "Grants a 60% chance to inflict the target with three types of sap damage for 1 turn.",
+   "activetext": "Grants a 80% chance to taunt the enemy and draw its attention for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5292,10 +5420,10 @@ var mondata = {
    "atk": 1881,
    "def": 2521,
    "rec": 2024,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%",
+   "normaltext": "Grants a 100% chance to restore 20% of own HP when attacking.",
+   "activetext": "Grants a shield to allies proportional to own max HP for 3 turn(s).",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -5308,10 +5436,10 @@ var mondata = {
    "atk": 2118,
    "def": 3153,
    "rec": 2479,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 15~20%",
+   "normaltext": "Grants a 60% chance to reduce the enemy's attack for 2 turn(s).",
+   "activetext": "Increases allies' attack power for 3 turn(s).",
+   "activeaoe": 0
  },
  {
    "grade": 4,
@@ -5324,10 +5452,10 @@ var mondata = {
    "atk": 2573,
    "def": 2576,
    "rec": 2311,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Grants a 70% chance to blind the enemy for 2 turn(s). Blinded foes' critical hit rate and damage are reduced.",
+   "activetext": "Grants additional attack power proportional to the target's maximum HP.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5340,10 +5468,10 @@ var mondata = {
    "atk": 2491,
    "def": 2501,
    "rec": 1671,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Grants a 100% chance to petrify target for 1 turn(s). Petrified foes cannot act, but have increased defense.",
+   "activetext": "Grants a 70% chance to seal the enemy for 2 turn(s). Sealed foes' passive skills do not activate.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5356,10 +5484,10 @@ var mondata = {
    "atk": 1894,
    "def": 1881,
    "rec": 1717,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's attack for 2 turn(s).",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5372,10 +5500,10 @@ var mondata = {
    "atk": 2464,
    "def": 2175,
    "rec": 2352,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Attacks siphon 20% of the enemy's SP.",
+   "activetext": "Attacks restore allies' HP in an amount equal to 10% of own max HP.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5388,10 +5516,10 @@ var mondata = {
    "atk": 2813,
    "def": 2533,
    "rec": 1737,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35%.",
+   "normaltext": "Grants an 80% chance to inflict the target with three types of sap damage for 1 turns.",
+   "activetext": "Grants a 80% chance to silence the enemy for 2 turn(s). Silenced foes cannot use their active skill.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5404,10 +5532,10 @@ var mondata = {
    "atk": 1900,
    "def": 3310,
    "rec": 2172,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30-35%.",
+   "normaltext": "Critical hits taunt the enemy and draw its attention for 1 turn",
+   "activetext": "Grants a 60% chance to petrify all enemies for 1 turn. Petrified foes cannot at, but have increased defense.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5420,10 +5548,10 @@ var mondata = {
    "atk": 3126,
    "def": 2213,
    "rec": 1989,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30-35%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5436,10 +5564,10 @@ var mondata = {
    "atk": 2085,
    "def": 1683,
    "rec": 1853,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30-35%.",
+   "normaltext": "Grants a 40% chance to stun the enemy for 1 turn.",
+   "activetext": "Grants a 60% chance to stun all enemy for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5452,10 +5580,10 @@ var mondata = {
    "atk": 2295,
    "def": 3296,
    "rec": 1777,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30-35%.",
+   "normaltext": "Attack power becomes proportional to own max defense.",
+   "activetext": "Attack power becomes proportional to own max defense.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5468,10 +5596,10 @@ var mondata = {
    "atk": 2165,
    "def": 2481,
    "rec": 2304,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30-35%.",
+   "normaltext": "Critical hits have 100% chance to stun the enemy for 1 turn.",
+   "activetext": "Grants a 60% chance to reduce all enemies' defense for 3 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5484,10 +5612,10 @@ var mondata = {
    "atk": 3058,
    "def": 2295,
    "rec": 2138,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' blue soul recovery by 20~25%",
+   "normaltext": "Attacks restore own HP in proportion to the amount of damage dealt.",
+   "activetext": "Attacks greatly restore own HP in proportion to the amount of damage dealt.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5500,10 +5628,10 @@ var mondata = {
    "atk": 2221,
    "def": 1840,
    "rec": 2058,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' blue soul recovery by 20~25%",
+   "normaltext": "Grants a 60% chance to stun the enemy for 1 turn.",
+   "activetext": "Grants a 60% chance to petrify all enemies for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5516,10 +5644,10 @@ var mondata = {
    "atk": 2036,
    "def": 2921,
    "rec": 2322,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' blue soul recovery by 20~25%",
+   "normaltext": "Critical hits have a 100% chance to petrify the enemy for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activetext": "Grants a 100% chance to put target to sleep for 1 turn. Sleeping foes wake upon being hit.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5532,10 +5660,10 @@ var mondata = {
    "atk": 2376,
    "def": 2372,
    "rec": 2175,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' blue soul recovery by 20~25%",
+   "normaltext": "Grants a 80% chance to reduce the enemy's defense for 2 turns.�",
+   "activetext": "Grants a 60% chance to shock all enemies for 1 turn. Shocked foes cannot act and have reduced defense.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5548,10 +5676,10 @@ var mondata = {
    "atk": 2996,
    "def": 2281,
    "rec": 2091,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' blue soul recovery by 20~25%",
+   "normaltext": "Increases critical hit rate by 20%.",
+   "activetext": "Increases critical hit rate by 20%.",
+   "activeaoe": 1
  },
  {
    "grade": 3,
@@ -5564,10 +5692,10 @@ var mondata = {
    "atk": 1873,
    "def": 2765,
    "rec": 1342,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35% in Chaos Tower.",
+   "normaltext": "Grants a 100% chance to dispel all enemy enhancements.",
+   "activetext": "Grants a 80% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense.",
+   "activeaoe": 0
  },
  {
    "grade": 3,
@@ -5580,10 +5708,10 @@ var mondata = {
    "atk": 1676,
    "def": 1996,
    "rec": 1295,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' attack power by 30~35% in Chaos Tower.",
+   "normaltext": "Attack power becomes proportional to own max HP.",
+   "activetext": "Attack power becomes proportional to own max HP.",
+   "activeaoe": 0
  },
  {
    "grade": 2,
@@ -5596,10 +5724,10 @@ var mondata = {
    "atk": 1404,
    "def": 1445,
    "rec": 1758,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 10~15%.",
+   "normaltext": "Grants a 50% chance to stun the enemy for 1 turn(s).",
+   "activetext": "Grants a 80% chance to reduce the enemy's defense for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -5612,10 +5740,10 @@ var mondata = {
    "atk": 1132,
    "def": 1853,
    "rec": 1363,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 10~15%.",
+   "normaltext": "Grants a 50% chance to inflict the enemy with sap damage for 2 turn(s).",
+   "activetext": "Grants a 80% chance to petrify target for 1 turn(s). Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -5628,10 +5756,10 @@ var mondata = {
    "atk": 2281,
    "def": 1525,
    "rec": 1607,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' resistance by 10~15%.",
+   "normaltext": "Grants a 60% to reduce the enemy's attack for 2 turn(s).",
+   "activetext": "Grants a 80% chance to reduce the enemy's overall HP recovery for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -5644,10 +5772,10 @@ var mondata = {
    "atk": 1696,
    "def": 2615,
    "rec": 1219,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 20~25%.",
+   "normaltext": "Increases critical hit damage by 50% when attacking fire Astromons.",
+   "activetext": "Grants a 40% chance to inflict sap damage on all enemies for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -5660,10 +5788,10 @@ var mondata = {
    "atk": 1737,
    "def": 2404,
    "rec": 1287,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 20~25%.",
+   "normaltext": "Increases critical hit damage by 50% when attacking water Astromons.",
+   "activetext": "Grants a 40% chance to reduce enemies' skill gauges by 10% for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 2,
@@ -5676,10 +5804,10 @@ var mondata = {
    "atk": 1275,
    "def": 1751,
    "rec": 1574,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' HP by 20~25%.",
+   "normaltext": "Increases critical hit damage by 50% when attacking wood Astromons.",
+   "activetext": "Grants a 40% chance to petrify all enemies for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5692,10 +5820,10 @@ var mondata = {
    "atk": 2322,
    "def": 3037,
    "rec": 1852,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45%",
+   "normaltext": "Grants an 80% chance to reduce the enemy's attack for 2 turns.",
+   "activetext": "Grants a 60% chance to stun the enemy for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5708,10 +5836,10 @@ var mondata = {
    "atk": 3153,
    "def": 2152,
    "rec": 1982,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45%",
+   "normaltext": "Increases critical hit rate by 20%",
+   "activetext": "Increases critical hit rate by 20%",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5724,10 +5852,10 @@ var mondata = {
    "atk": 3126,
    "def": 2125,
    "rec": 2002,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45%",
+   "normaltext": "Critical hits have a 100% chance to put the enemy to sleep for 2 turns. Sleeping foes wake upon being hit.",
+   "activetext": "Grants a 60% chance to reduce target's skill gauge by 30% for 1 turn.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5740,10 +5868,10 @@ var mondata = {
    "atk": 3269,
    "def": 2084,
    "rec": 2193,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45%",
+   "normaltext": "Grants a 70% chance to reduce the enemy's defense for 3 turns.",
+   "activetext": "Increases damage dealt by 30%",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5756,10 +5884,26 @@ var mondata = {
    "atk": 2641,
    "def": 2542,
    "rec": 2331,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45%",
+   "normaltext": "Grants a 100% chance to restore 10% of allies' HP when attacking",
+   "activetext": "Grants a 60% chance to silence the enemy for 2 turns. Silenced foes cannot use their active skill.",
+   "activeaoe": 1
+ },
+ {
+   "grade": 3,
+   "name": "Yeti",
+   "element": "A",
+   "variant": "Deathblow",
+   "normal": "Attack Down",
+   "active": "Defense Down",
+   "hp": 28840,
+   "atk": 1900,
+   "def": 2458,
+   "rec": 1389,
+   "varianttext": "Increases allies' critical hit damage by 40~45% in dungeons",
+   "normaltext": "Grants a 60% chance to reduce the enemy's attack for 2 turn(s).",
+   "activetext": "Grants a 60% chance to reduce the enemy's defense for 2 turn(s).",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5772,10 +5916,10 @@ var mondata = {
    "atk": 3105,
    "def": 2240,
    "rec": 2118,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's defense for 2 turns.",
+   "activetext": "Grants a 60% chance to reduce all enemies' defense for 2 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5788,10 +5932,10 @@ var mondata = {
    "atk": 2024,
    "def": 1976,
    "rec": 2316,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45%.",
+   "normaltext": "Grants a 60% chance to inflict the target with two types of sap damage for 1 turn.",
+   "activetext": "Grants a 60% chance to inflict the target with two types of sap damage for 2 turns.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5804,10 +5948,10 @@ var mondata = {
    "atk": 2546,
    "def": 2345,
    "rec": 2140,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45%.",
+   "normaltext": "Grants a 60% chance to reduce the enemy's recovery for 1 turn.�",
+   "activetext": "Grants a 60% chance to reduce all enemies' recovery for 3 turns.�",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5820,10 +5964,10 @@ var mondata = {
    "atk": 3153,
    "def": 2309,
    "rec": 2138,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45%.",
+   "normaltext": "Grants a 80% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense",
+   "activetext": "Grants a 50% chance to shock all enemies for 2 turns. Shocked foes cannot act and have reduced defense.",
+   "activeaoe": 1
  },
  {
    "grade": 4,
@@ -5836,10 +5980,10 @@ var mondata = {
    "atk": 2364,
    "def": 1772,
    "rec": 1874,
-   "varianttext": "",
-   "normaltext": "",
-   "activetext": "",
-   "activeaoe": null
+   "varianttext": "Increases allies' critical hit damage by 40~45%.",
+   "normaltext": "Grants a 80% chance to reduce target's skill gauge by 20% for 2 turn.",
+   "activetext": "Grants a 80% chance to petrify all enemies for 1 turn. Petrified foes cannot act, but have increased defense.",
+   "activeaoe": 1
  }
 ]
 }
