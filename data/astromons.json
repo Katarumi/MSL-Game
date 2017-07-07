@@ -221,7 +221,7 @@ var mondata = {
    "def": 2717,
    "rec": 2349,
    "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
-   "normaltext": "Grants a 100% chance to stun the enemy for 1 turn.� ",
+   "normaltext": "Grants a 100% chance to stun the enemy for 1 turn. ",
    "activetext": "Grants a 60% chance to reduce all enemies' defense for 3 turns. Only applies to the active skill. ",
    "activeaoe": 1
  },
@@ -254,7 +254,7 @@ var mondata = {
    "rec": 2288,
    "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
    "normaltext": "Attacks greatly restore own HP in proportion to the amount of damaging dealt. ",
-   "activetext": "Grants a 60% chance to stun all enemies for 1 turn.� ",
+   "activetext": "Grants a 60% chance to stun all enemies for 1 turn. ",
    "activeaoe": 1
  },
  {
@@ -269,7 +269,7 @@ var mondata = {
    "def": 2411,
    "rec": 2220,
    "varianttext": "Increases allies' HP by 40~45% in dungeons. ",
-   "normaltext": "Grants a 100% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense.� ",
+   "normaltext": "Grants a 100% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense. ",
    "activetext": "Grants a 80% chance to reduce target's skill gauge by 10% for 1 turn. ",
    "activeaoe": 1
  },
@@ -429,7 +429,7 @@ var mondata = {
    "def": 2501,
    "rec": 2311,
    "varianttext": "Increases allies' defense by 30~35%. ",
-   "normaltext": "Grants a 60% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense.� ",
+   "normaltext": "Grants a 60% chance to shock target for 1 turn. Shocked foes cannot act and have reduced defense. ",
    "activetext": "Grants a 100% chance to inflict the target with two types of sap damages for 2 turns. ",
    "activeaoe": 1
  },
@@ -653,8 +653,8 @@ var mondata = {
    "def": 3173,
    "rec": 1948,
    "varianttext": "Increases allies' critical hit damage by 40~45%. ",
-   "normaltext": "Grants a 60% chance to petrify target for 1 turn. Petrified foes cannot act, but have increased defense.� ",
-   "activetext": "Grants a 60% chance to petrify all enemies for 1 turn. Petrified foes cannot act, but have increased defense.� ",
+   "normaltext": "Grants a 60% chance to petrify target for 1 turn. Petrified foes cannot act, but have increased defense. ",
+   "activetext": "Grants a 60% chance to petrify all enemies for 1 turn. Petrified foes cannot act, but have increased defense. ",
    "activeaoe": 1
  },
  {
@@ -734,7 +734,7 @@ var mondata = {
    "rec": 1596,
    "varianttext": "Increases allies' HP by 20~25%. ",
    "normaltext": "Increases attack power by 30% when attacking fire Astromons. ",
-   "activetext": "Grants a 60% chance to stun the enemy for 1 turn.� ",
+   "activetext": "Grants a 60% chance to stun the enemy for 1 turn. ",
    "activeaoe": 0
  },
  {
