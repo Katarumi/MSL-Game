@@ -50,7 +50,7 @@ function loadastromons() {
 			}
 
 
-			$("ul.mons").append("<li class='row' id='"+i+"' data-link='"+encodeURIComponent(name).toLowerCase().replace("'","%27")+"' data-name='"+encodeURIComponent(name).replace("'","%27")+"'><span class='name col-xs-3'>"+name+"</span> <span class='element col-xs-2'>"+elementtext+"</span> <span class='grade col-xs-2'>"+gradetext+"</span> <span class='normal col-xs-2'>"+curmon.normal+"</span><span class='active col-xs-3'>"+curmon.active+"</span> </li>");
+			$("ul.mons").append("<li class='row' id='"+i+"' data-link='"+encodeURIComponent(name).toLowerCase().replace("'","%27")+encodeURIComponent(element).toLowerCase().replace("'","%27")+"' data-name='"+encodeURIComponent(name).replace("'","%27")+encodeURIComponent(element).toLowerCase().replace("'","%27")+"'><span class='name col-xs-3'>"+name+"</span> <span class='element col-xs-2'>"+elementtext+"</span> <span class='grade col-xs-2'>"+gradetext+"</span> <span class='normal col-xs-2'>"+curmon.normal+"</span><span class='active col-xs-3'>"+curmon.active+"</span> </li>");
 
 			if (!$("select.gradefilter:contains('"+parsemongrade(curmon.grade)+"')").length) {
 				$("select.gradefilter").append("<option value='"+curmon.grade+"'>"+parsemongrade(curmon.grade)+"</option>");
